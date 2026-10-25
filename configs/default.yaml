@@ -1,0 +1,27 @@
+# Paths (Google Drive)
+paths:
+  repo: /content/drive/MyDrive/cw-mpvr
+  data: /content/drive/MyDrive/cw-mpvr-data      # raw GQA files + images
+  cache: /content/drive/MyDrive/cw-mpvr-data/cache  # cached path outputs
+
+# Data
+data:
+  split: testdev_balanced
+  n_eval: 2500        # evaluation questions
+  n_calib: 500        # calibration questions (tuning only)
+  stratify_by: [structural, semantic]
+
+# Models
+models:
+  vqa: Salesforce/blip2-flan-t5-xl
+  itm: Salesforce/blip2-itm-vit-g
+  lxmert: unc-nlp/lxmert-gqa-uncased
+
+# Path generation
+generation:
+  k: 10               # paths per question
+  temperature: 0.7
+  top_p: 0.9
+  max_new_tokens: 40
+
+seed: 42
