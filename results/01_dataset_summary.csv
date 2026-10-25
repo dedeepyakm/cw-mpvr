@@ -1,0 +1,8 @@
+,testdev,val
+questions,12578.0,132062.0
+images,398.0,10234.0
+questions per image,31.6,12.9
+unique answers,722.0,1469.0
+yes/no answers (%),36.0,35.4
+mean reasoning steps,3.2,3.13
+mean question length (words),8.5,8.8
