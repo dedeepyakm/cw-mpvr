@@ -41,10 +41,10 @@ def push(message: str) -> None:
     _run(["git", "add", "-A"])
     status = _run(["git", "status", "--porcelain"])
     if not status:
-        print("Nothing to commit.")
-        return
-    print(status)
-    _run(["git", "commit", "-m", message])
+        print("Nothing new to commit; pushing any earlier commits.")
+    else:
+        print(status)
+        _run(["git", "commit", "-m", message])
     token = _token()
     url = f"https://{token}@github.com/{_remote_path()}"
     _run(["git", "push", url, "HEAD:main"], secret=token)
