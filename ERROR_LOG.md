@@ -28,3 +28,10 @@ Entries are added with `log_error(...)` from `src/errorlog.py` (or by hand, same
 - **Cause**: Sampling at temperature 0.7, top-p 0.9 is too conservative for FlanT5, which favours very short outputs (mode collapse)
 - **Fix**: Raised to temperature 1.0, top-p 0.95 (tuned on calibration questions only): oracle 76.7% -> 83.3%, distinct answers 2.0 -> 2.4
 - **Lesson**: Check path diversity before a long run; evidence remains short (~3 words), noted as a limitation
+
+### E03 (2026-10-25)
+- **Where**: 03_baselines / step 7 (LXMERT)
+- **Error**: `RepositoryNotFoundError: 404 for unc-nlp/frcnn-vg-finetuned`
+- **Cause**: Hugging Face removed the Faster R-CNN checkpoint used by the official LXMERT demo to extract image features
+- **Fix**: Used the original LXMERT object features for GQA testdev released by the authors (gqa_testdev_obj36), the same features as in the paper
+- **Lesson**: Third-party checkpoints can disappear; prefer authors' released artefacts and keep fallbacks
