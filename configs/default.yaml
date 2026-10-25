@@ -20,8 +20,8 @@ models:
 # Path generation
 generation:
   k: 10               # paths per question
-  temperature: 0.7
-  top_p: 0.9
+  temperature: 1.0
+  top_p: 0.95
   max_new_tokens: 40
 
 seed: 42
