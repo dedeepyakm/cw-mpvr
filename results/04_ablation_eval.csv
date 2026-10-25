@@ -1,0 +1,10 @@
+,accuracy,ci_low,ci_high
+Greedy,40.2,38.16,42.23
+Majority vote,40.68,38.62,42.74
+Answer-only,41.12,39.01,43.22
+Answer-only (tuned),41.12,39.01,43.22
+Grounding-only,39.48,37.42,41.56
+Tied (β = γ),39.24,37.12,41.32
+CW-MPVR (ITC),40.48,38.37,42.53
+CW-MPVR,39.6,37.51,41.66
+Oracle (upper bound),59.8,57.62,61.94

@@ -1,0 +1,32 @@
+{
+  "Answer-only (tuned)": {
+    "beta": 1.0,
+    "gamma": 0.0,
+    "grounding": "itm",
+    "calib_acc": 42.4
+  },
+  "Grounding-only": {
+    "beta": 0.0,
+    "gamma": 16.0,
+    "grounding": "itm",
+    "calib_acc": 44.6
+  },
+  "Tied (\u03b2 = \u03b3)": {
+    "beta": 8.0,
+    "gamma": 8.0,
+    "grounding": "itm",
+    "calib_acc": 44.0
+  },
+  "CW-MPVR (ITC)": {
+    "beta": 2.0,
+    "gamma": 10.0,
+    "grounding": "itc",
+    "calib_acc": 44.800000000000004
+  },
+  "CW-MPVR": {
+    "beta": 2.0,
+    "gamma": 8.0,
+    "grounding": "itm",
+    "calib_acc": 44.800000000000004
+  }
+}
