@@ -1,6 +1,8 @@
 # torch, torchvision and pillow come preinstalled on Colab
-transformers>=4.44
+transformers>=4.46
 accelerate>=0.33
+datasets
+huggingface_hub
 pyyaml
 numpy
 pandas
@@ -8,6 +10,5 @@ scipy
 statsmodels
 scikit-learn
 matplotlib
-seaborn
 tqdm
-datasets
+wget
