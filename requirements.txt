@@ -1,0 +1,12 @@
+# torch, torchvision and pillow come preinstalled on Colab
+transformers>=4.44
+accelerate>=0.33
+pyyaml
+numpy
+pandas
+scipy
+statsmodels
+scikit-learn
+matplotlib
+seaborn
+tqdm

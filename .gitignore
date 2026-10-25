@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data and large files (kept on Google Drive, never in git)
+data/raw/
+data/images/
+results/cache/
+*.zip
+*.h5
+*.pt
+*.bin
+*.safetensors
+*.npy
+
+# Secrets
+.env
+secrets/
+
+# OS
+.DS_Store
