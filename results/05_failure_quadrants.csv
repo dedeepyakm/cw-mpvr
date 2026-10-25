@@ -1,0 +1,5 @@
+answer conf,grounding,n,accuracy
+high,high,548,56.0
+high,low,702,55.0
+low,high,702,26.5
+low,low,548,26.5

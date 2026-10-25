@@ -42,3 +42,10 @@ Entries are added with `log_error(...)` from `src/errorlog.py` (or by hand, same
 - **Cause**: Distribution shift: val images are 100% Visual Genome (seen in BLIP-2 pretraining), testdev 0%; ITM grounding is much sharper on seen images (AUC 0.603 vs 0.544), so val over-weights grounding
 - **Fix**: Reported the pre-specified result unchanged and added 5-fold image-grouped cross-validation on testdev: CW-MPVR 41.2% vs 40.7% majority (p = 0.13), stable weights across folds
 - **Lesson**: A calibration split must match the test image source; a model's own confidence can be inflated on its pretraining data
+
+### E05 (2026-10-25)
+- **Where**: 04 / 04b cross-validation (CV folds)
+- **Error**: `The same cross-validation gave 41.16% (notebook 04) and 41.32% (notebook 04b)`
+- **Cause**: Folds were regenerated in each notebook; the assignment of equally sized image groups to folds differed between runs
+- **Fix**: A seeded image-to-fold assignment is saved once to data/cv_folds.csv and used for every CV result in notebook 05
+- **Lesson**: Store CV folds as data, not as code that re-creates them

@@ -1,0 +1,2501 @@
+id,Greedy,Majority vote,Answer-only,CW-MPVR (val-tuned),Answer-only (CV),Grounding-only (CV),CW-MPVR (CV),LXMERT
+201153597,man,man,man,man,man,man,man,trees
+201360960,t shirt,hat,hat,t shirt,hat,hat,hat,shirt
+2093863,giraffe,giraffe,giraffe,giraffe,giraffe,giraffe,giraffe,giraffe
+20285195,no,no,no,no,no,no,no,yes
+201175273,cat,cat,cat,cat,cat,cat,cat,curtain
+201447047,mirrors,mirrors,mirrors,no,mirrors,mirrors,mirrors,yes
+20631691,batter,catcher is standing before catcher,catcher is standing before catcher,catcher is standing before catcher,catcher is standing before catcher,catcher is standing before catcher,catcher is standing before catcher,batter
+201947834,yes,yes,yes,yes,yes,yes,yes,no
+202262289,no,no,no,no,no,no,no,yes
+20836479,no,no,no,no,no,no,no,no
+20226601,no,no,no,no,no,no,no,no
+202121334,no,no,no,no,no,no,no,no
+20479849,right side,right side,right side,right side,right side,right side,right side,left
+201391870,couch,couch,couch,couch,couch,couch,couch,couch
+201608370,brown mud,grass,grass,grass,grass,grass,grass,no
+2066069,right side,right side,right side,left side,right side,right side,right side,left
+201235692,bananas,bananas,bananas,bananas,bananas,bananas,bananas,bananas
+201804466,television,monitor,monitor,mp3 speaker,monitor,monitor,fish tank,television
+201498423,no,no,no,no,no,no,no,no
+201735318,computer,computer,computer,computer,computer,computer,computer,keyboard
+20667311,yes,yes,yes,no,yes,yes,yes,no
+20618704,orange,orange,orange,orange,orange,orange,orange,pink
+20797844,cat,cat,cat,cat,cat,cat,cat,cat
+202262837,yes,yes,yes,yes,yes,yes,yes,yes
+20480729,to right,to right,to right,to right,to right,to right,to right,left
+202258092,it is small,it is small,it is small,not enough information,it is small,it is small,not enough information,large
+20247144,city,park,park,park,park,park,park,pavement
+201407247,white,white,white,white,white,white,white,green
+201404246,cow,cow,cow,cow,cow,cow,cow,people
+20622098,no,no,no,no,no,no,no,yes
+20870436,pitcher,one of players,one of players,one of players,one of players,one of players,one of players,player
+201826665,to right,to right,to right,to right,to right,to right,to right,right
+201068697,shirt,shirt,shirt,shirt,shirt,shirt,shirt,sweatshirt
+201504737,logo,logo,logo,girl,logo,logo,logo,flower
+202231873,dark brown,dark brown,dark brown,dark brown,dark brown,dark brown,dark brown,brown
+201393599,pants,black,pants,sweater,pants,black,pants,shirt
+201804660,fish tank,television,tv,fish tank,tv,television,tv,television
+20887085,desk,room,room,computer desk,room,room,room,office
+20942901,girl,girl,girl,girl in red,girl,girl,girl,girl
+202041862,city,city,city,city,city,city,city,street
+202243924,no,yes,yes,no,yes,yes,yes,yes
+20656831,city,city,city,city,city,city,city,city
+201624100,woman,woman,woman,girl,woman,woman,woman,man
+202041863,city,city,city,city,city,city,city,street
+201735587,wood,wood,wood,wood,wood,wood,wood,wood
+201498764,keyboard,keyboard,keyboard,keyboard,keyboard,keyboard,keyboard,keyboard
+201663162,cabinet,cabinet,cabinet,cabinet,cabinet,cabinet,cabinet,cabinet
+20120277,rubber,rubber,rubber,rubber,rubber,rubber,rubber,cloth
+20473045,boy,boy,boy,boy,boy,boy,boy,boy
+201947700,yes,yes,yes,yes,yes,yes,yes,no
+202003923,yes,yes,yes,no,yes,yes,yes,no
+202122062,table,table,table,table,table,table,table,sink
+202037035,white,white,white,white,white,white,white,orange
+201080103,blue,blue,blue,blue,blue,blue,blue,blue
+20853902,right,left,left,right,left,right,left,left
+201676306,to right,to right,to right,to right,to right,to right,to right,left
+201428852,plastic,plastic,plastic,plastic,plastic,plastic,plastic,wood
+201247296,plant,plant,plant,plant,plant,plant,plant,plant
+201704622,cow,cow,cow,cow,cow,cow,cow,cow
+201068396,cell phone,cell phone,cell phone,cell phone,cell phone,cell phone,cell phone,phone
+20754874,no,yes,yes,yes,yes,no,no,no
+20836930,table with luggage,table,table,table,table,table,table,table
+20982122,no,no,no,no,no,no,no,yes
+20942273,no,no,no,no,no,no,no,no
+201079949,to right,to left,to left,to right,to left,to left,to left,right
+201638935,man,man,man,man,man,man,man,people
+201902726,computer,computer,computer,laptop,computer,computer,computer,computer monitor
+201935230,to right,to right,to right,to right,to right,to right,to right,right
+20692388,no,no,no,no,no,no,no,no
+2075615,no,no,no,no,no,no,no,no
+20120324,no,no,no,no,no,no,no,no
+201641293,no,no,no,no,no,no,no,yes
+201832442,no,no,no,no,no,no,no,no
+2055667,bus,bus,bus,bus,bus,bus,bus,bus
+201704677,cows,cows,cows,cows,cows,cows,cows,cows
+201763981,beds,beds,beds,beds,beds,beds,beds,bed
+20954135,man,woman,woman,woman,woman,woman,woman,lady
+2046530,yes,yes,yes,yes,yes,yes,yes,yes
+20149892,toilet,toilet,toilet,toilet,toilet,toilet,toilet,drawer
+201143241,comfortable,comfortable,comfortable,comfortable,comfortable,comfortable,comfortable,healthy
+20247290,tree,tree,tree,bushes,tree,tree,tree,grass
+20836659,yes,yes,yes,yes,yes,yes,yes,no
+201490980,woman,woman,woman,woman,woman,woman,woman,man
+20645735,clean,clean,clean,clean,clean,clean,clean,dirty
+201430778,white shirt,white tie,white tie,white suit and tie,white tie,white tie,white tie,tie
+20600193,zebra,zebra,zebra,rhinoceros,zebra,zebra,zebra,zebra
+20866345,no,no,no,no,no,no,no,no
+20136473,they are both white,they are both in bathroom,they are both in bathroom,they are both in bathroom,they are both in bathroom,they are both in bathroom,they are both in bathroom,color
+201576758,sheep,sheep,sheep,sheep,sheep,sheep,sheep,sheep
+20536279,rhino,rhino,rhino,rhino,rhino,rhino,rhino,cow
+20303066,older woman,older person,older person,older person,older person,older person,older person,lady
+201896258,no,no,no,no,no,no,no,no
+20837051,to right,to right,to right,to right,to right,to right,to right,left
+20645492,right side,right side,right side,right side,right side,right side,right side,left
+20340834,wide,it is wide,it is wide,no,it is wide,no,it is wide,narrow
+201056232,man,man,man,referee,man,man,man,people
+20898685,he s waiting for light to change,he s waiting for light to change,he s waiting for light to change,standing next to red traffic light,he s waiting for light to change,he s waiting for light to change,he s waiting for light to change,talking
+20492042,rocky ground,rocky ground,grass,rocky ground,grass,rocky ground,grass,ground
+20691479,right side,right side,right side,right side,right side,right side,right side,left
+201228117,car,car,van,car,van,van,van,car
+201434061,no,no,no,no,no,no,no,no
+20306483,no,no,no,no,no,no,no,no
+201639189,no,no,no,no,no,no,no,no
+201859509,donut,donut,donut,donut,donut,donut,donut,donut
+201663040,yes,yes,yes,yes,yes,yes,yes,no
+20489530,bed,bed,bed,bed,bed,bed,bed,bed
+201227907,yes,no,no,no,no,no,no,no
+201896270,knife,knife,knife,knife,knife,knife,knife,large
+20427673,man,man with tie,man with tie,man wearing shirt,man with tie,man with tie,man with tie,man
+20480057,yes,no,no,no,no,no,no,no
+201882905,television,tv,tv,tv,tv,tv,tv,television
+201979212,no,no,no,no,no,no,no,no
+20491641,it is snowing,snowy,snowy,it is cloudy,snowy,it is cloudy,it is cloudy,cloudy
+20781843,no,no,no,no,no,no,no,no
+20412213,white,white,white,white,white,white,white,white
+201080114,it is small,it is small,it is small,it is small,it is small,it is small,it is small,small
+20637062,pot,pot,pot,pot,pot,pot,pot,stove
+201498211,monitor,monitor,monitor,monitor,monitor,monitor,monitor,keyboard
+201887106,cauliflower,cauliflower,cauliflower,cauliflower,cauliflower,cauliflower,cauliflower,broccoli
+201758116,laptop,laptop,laptop,laptop,laptop,laptop,laptop,computer
+201428998,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator
+201227992,yes,yes,yes,yes,yes,yes,yes,front
+201481761,white,white,white,white,white,white,white,white
+202122019,refrigerator,refrigerator,refrigerator,dishwasher,refrigerator,refrigerator,refrigerator,stove
+201682208,no,no,no,no,no,no,no,no
+201595885,no,no,no,no,no,no,no,yes
+202003666,white,white,white,white,white,white,white,white
+201447004,no,no,no,no,no,no,no,yes
+20473052,young boy,young boy,boy,young boy,boy,young boy,young boy,boy
+20461875,no,no,no,no,no,no,no,no
+20898561,they are both on ground,they are on ground,they are on ground,they are in distance,they are on ground,they are on ground,they are round,color
+201590198,man that is standing watching,coach,coach,person playing with frisbee,coach,coach,coach,people
+20117918,yes,yes,yes,yes,yes,yes,yes,yes
+201623609,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator,tiles
+201509781,black,black,black,black,black,black,black,green
+2076617,no,no,no,no,no,no,no,yes
+202053348,team,players,two people,batter catcher,two people,batter catcher,batter catcher,man
+201481815,no,no,no,no,no,no,no,yes
+2059436,field,field,field,field,field,field,field,field
+201713334,no,no,no,no,no,no,no,yes
+201879230,man,person,person,cook,person,cook,person,woman
+201982311,couch,couch,couch,couch,couch,couch,couch,couch
+20412198,table and chairs,table,table,tables,table,table,table,table
+201638802,car,car,car,two cars,car,car,car,car
+20456334,left side,right side,right side,left side,right side,left side,left side,right
+202284971,banana,banana,bananas,banana,bananas,banana,banana,fruit
+202081338,mirror,mirror,mirror,mirror,mirror,mirror,mirror,mirror
+202258332,to right,to right,to right,to right,to right,to right,to right,left
+20672817,no,no,no,no,no,no,no,yes
+20306197,no,no,no,no,no,no,no,yes
+201882487,no,no,no,no,no,no,no,no
+20746599,bridge,bridge,bridge,bridge,bridge,bridge,bridge,bridge
+202082119,no,no,no,no,no,no,no,no
+20169749,yellow,green,green,green,green,green,green,green
+20262718,blue,blue,blue,blue,blue,blue,blue,blond
+20306358,blue jacket,blue jacket,blue pants,blue jacket,blue pants,blue jacket,orange top and pair of blue ski,pants
+201997001,chair,chair,chair,chair,chair,chair,chair,car
+201804498,fish tank,fish tank,fish tank,fish tank,fish tank,fish tank,fish tank,entertainment center
+202110134,bottom,bottom,bottom,bottom,bottom,bottom,bottom,bottom
+201757743,laptop,laptop,laptop,laptop,laptop,laptop,laptop,laptop
+202285449,beans,eggs,eggs,eggs,eggs,eggs,eggs,sausage
+202102948,dishwasher,dishwasher,dishwasher,dishwasher,dishwasher,dishwasher,dishwasher,dishwasher
+20862787,yes,yes,yes,yes,yes,yes,yes,yes
+201030428,no,yes,yes,no,yes,yes,yes,no
+202116756,no,no,no,no,no,no,no,no
+201988073,no,no,no,no,no,no,no,yes
+202248991,black,red,red,white,red,red,red,silver
+201711248,no,no,no,no,no,no,no,no
+20480548,no,no,no,no,no,no,no,no
+20381367,computer,computer,computer,computer,computer,computer,computer,desk
+20922860,no,no,no,no,no,no,no,no
+201337043,rubber,rubber,rubber,rubber,rubber,rubber,rubber,wood
+201859035,no,no,no,no,no,no,no,no
+201641427,pole,pole,pole,pole,pole,pole,pole,pole
+202257181,white,white,white,white,white,white,white,brown
+201462547,middle,middle,middle,middle,middle,middle,middle,left
+201640551,not fat,not enough information,not enough information,not enough information,not enough information,not enough information,not enough information,skinny
+20715831,no,no,no,no,no,no,no,no
+20491941,large bear,large bear looking at large bear,man,man,man,man,image of glacier,water
+2076266,yes,yes,yes,yes,yes,yes,yes,yes
+20673099,chair,chair,chair,chair,chair,chair,chair,chair
+20865903,no,yes,yes,yes,yes,yes,yes,no
+201109160,no,no,no,no,no,no,no,no
+20588948,white shirt,white shirt,white shirt,white shirt,white shirt,white shirt,white shirt,jeans
+201576675,no,no,no,no,no,no,no,no
+201621328,wall,wall,wall,wall,wall,wall,wall,wall
+20637066,yes,yes,yes,yes,yes,yes,yes,yes
+20862942,no,no,no,no,no,no,no,yes
+20468943,no,no,no,no,no,no,no,yes
+202023352,bookcase,bookcase,bookcase,bookcases,bookcase,bookcase,bookcase,bookshelf
+201498390,no,no,no,yes,no,no,no,yes
+202023526,blue,blue,blue,blue,blue,blue,blue,dark
+20655138,width of side walk is narrow,it is narrow,it is narrow,narrow sidewalk,it is narrow,it is narrow,narrow,wide
+20896228,hook,hook,hook,hook,hook,hook,hook,door
+20923068,fire truck,fire truck,fire truck,fire truck,fire truck,fire truck,fire truck,tractor
+201756728,cat,cat,cat,cat,cat,cat,cat,cat
+20836922,no,no,no,no,no,no,no,yes
+202108087,no,no,no,no,no,no,no,yes
+201175676,no,no,no,no,no,no,no,no
+201047422,suit,suit,suit,suit,suit,suit,suit,suit
+20306469,man and woman,man,man,man,man,man,man,people
+20856666,no,no,no,no,no,no,no,no
+20151498,no,no,no,no,no,no,no,no
+202244109,carrots,carrots,carrots,carrots,carrots,carrots,carrots,cucumber
+201498101,right side,right side,right side,right side,right side,right side,right side,left
+20204527,coffee cup,coffee cup,coffee cup,coffee cup,coffee cup,coffee cup,coffee cup,door
+20177846,yes,yes,yes,no,yes,no,no,no
+201983886,jacket,jacket,jacket,jacket,jacket,jacket,jacket,shirt
+20536085,giraffe,giraffe,giraffe,buffalo,giraffe,giraffe,giraffe,giraffe
+202036951,pizza,pizza,pizza,pizza,pizza,pizza,pizza,sausage
+20427836,no,no,no,yes,no,no,no,no
+2046245,yes,no,no,no,no,no,no,no
+202121645,no,yes,yes,yes,yes,yes,yes,yes
+201571092,purse,purse,purse,purse,purse,purse,purse,purse
+20177867,carrots,carrots,carrots,lettuce,carrots,carrots,lettuce,tomato
+201621358,wood,wood,wood,wood,wood,wood,wood,wood
+202073386,ground,ground,ground,tall tree,ground,ground,ground,trees
+201207375,broccoli,broccoli,broccoli,broccoli,broccoli,broccoli,broccoli,broccoli
+201879906,no,no,no,no,no,no,no,yes
+20929653,no,no,no,no,no,no,no,yes
+20856847,purse,bag,bag,purse,bag,purse,purse,bed
+201428547,no,no,no,yes,no,no,no,yes
+20492069,bear,bear,bear,bear,bear,bear,bear,mountains
+201873172,yes,no,yes,no,yes,no,yes,yes
+2046539,yes,yes,yes,yes,yes,yes,yes,yes
+202036663,green pepper,peppers,peppers,green pepper,peppers,peppers,peppers,pepper
+202246021,laptop,laptop,laptop,laptop,laptop,laptop,laptop,computer
+202243895,cucumber,broccoli,broccoli,cucumber,broccoli,broccoli,broccoli,pickles
+202246179,desk,desk,desk,desk,desk,desk,desk,desk
+202004129,gray shirt,t shirt,t shirt,t shirt,t shirt,t shirt,t shirt,shirt
+20667369,wii remote,wii remote,wii remote,wii remote,wii remote,wii remote,wii remote,game controller
+20827258,bar stools,staircase,staircase,bar table,staircase,staircase,staircase,table
+201951597,woman,girl,girl,woman,girl,woman,woman,woman
+201623698,no,no,no,no,no,no,no,no
+20724158,yes,no,yes,no,yes,yes,yes,yes
+20183208,walking down street,walking down street,walking down street,walking down street,walking down street,walking down street,walking down street,walking
+202284773,they are both white,they are both white,they are both white,they are both containing coffee,they are both white,they are both white,they are both white,material
+201556750,printer,printer,printer,phone,printer,printer,printer,calculator
+20177768,yes,yes,yes,yes,yes,yes,yes,yes
+2076738,yes,yes,yes,yes,yes,yes,yes,yes
+202081859,it is small,it is small,it is small,it is small,it is small,it is small,it is small,large
+201896533,at table,at table,at table,at table,at table,at table,at table,table
+20462051,man and woman,two people,two people,man,two people,two people,two people,people
+20894200,boy,skateboarder,skateboarder,skateboarder,skateboarder,skateboarder,skateboarder,boy
+20285417,beige,beige,beige,beige,beige,beige,beige,white
+201303198,plastic,plastic,plastic,plastic,plastic,plastic,plastic,plastic
+201623309,they are made of wood,they are made of wood,they are made of wood,they are made of wood,they are made of wood,they are made of wood,they are made of wood,material
+202060122,dog,dog,dog,dog,dog,dog,dog,dog
+20786320,orange,orange,orange,orange,orange,orange,orange,brown
+202005797,it is small,it is small,it is small,it is small,it is small,it is small,it is small,large
+202144664,blender,blender,blender,blender,blender,blender,blender,blender
+20954137,group of people,group of people,group of people,group of people,group of people,group of people,group of people,lady
+20667402,wii remote,video game controller,game console,video game,game console,video game controller,game console,controller
+201599788,chair,chair,chair,chair,chair,chair,chair,chair
+20853873,no,yes,yes,yes,yes,yes,yes,no
+20183254,man,person,person,woman,person,man,man,man
+20330547,bus,bus,bus,bus,bus,bus,bus,car
+201504922,surfboard,surfboard,surfboard,surfboard,surfboard,surfboard,surfboard,surfboard
+202169380,right side,right side,right side,left side,right side,right side,right side,left
+201879236,no,no,no,no,no,no,no,no
+20302864,beach,beach,beach,beach,beach,beach,beach,bench
+202223087,no,no,no,no,no,no,no,no
+20836297,table,table,table,table,table,table,table,chair
+20982337,to right,to right,to right,to right,to right,to right,to right,right
+201984137,woman,woman,woman,woman,woman,woman,woman,woman
+20541479,couches,couches,couch bed dresser tv,couches,couches,couches,desk sofa and chairs,shelves
+20306764,snowboard,snowboard,snowboard,snowboard,snowboard,snowboard,snowboard,snow
+201153076,right side,right side,right side,right side,right side,right side,right side,right
+20508721,wii remote,remote,game controller,controller,game controller,remote,game controller,controller
+201759360,no,no,no,no,no,no,no,no
+201492336,open,open,open,open,open,open,open,open
+2058588,no,no,no,no,no,no,no,no
+20385298,no,no,no,no,no,no,no,yes
+201068839,t shirt,t shirt,t shirt,t shirt,t shirt,t shirt,t shirt,sweatshirt
+202262456,no,no,no,no,no,no,no,no
+201885238,pool,pool,pool,pool,pool,pool,pool,air
+20308625,white,white,white,white,white,white,white,brown
+202080859,no,no,no,no,no,no,no,yes
+201347387,boy,boy,boy,boy,boy,person,boy,man
+201556454,no,no,no,no,no,no,no,no
+2012597,they are both alcoholic,they are both liquid,they are both liquid,they are both soda,they are both liquid,they are both liquid,they are both liquid,color
+202012624,bookcase,bookcase,bookcase,bookcase,bookcase,bookcase,bookcase,cabinet
+202060018,hat,hat,hat,hat,hat,hat,hat,hat
+201037259,gold,gold,gold,gold,gold,gold,gold,yellow
+20308749,silver,silver,silver,silver,silver,silver,silver,silver
+202125967,blue shirt,hat,hat,white shirt,hat,blue shirt,hat,shorts
+202102652,small,large,large,large,large,large,large,large
+20757048,woman,pan,pan,sauce pan,pan,pan,pan,bowl
+201429017,microwave,microwave,microwave,microwave,microwave,microwave,microwave,stove
+201902491,chair,chair,chair,chair,chair,chair,chair,drawers
+201068865,no,no,no,no,no,no,no,yes
+202106209,yes,yes,yes,yes,yes,yes,yes,yes
+201704674,cow,cow,cow,cow,cow,cow,cow,cow
+201498370,computer,computer,computer,computer mouse,computer,computer,computer,keyboard
+20482522,no,no,no,no,no,no,no,no
+20295677,bed,bed,bed,bed,bed,bed,bed,bed
+2053521,yes,no,no,no,no,no,no,yes
+20345133,tennis racket,racket,racket,racket,racket,racket,racket,racket
+20258752,boy,boy,boy,boy,boy,boy,boy,boy
+20341098,on side of road,on street,on street,in front of brick building,on street,on street,next to building,grass
+201983054,laptop,laptop,laptop,laptop,laptop,laptop,laptop,remote control
+201638906,walking down street,walking,walking,walking,walking,walking,watching people in store,sitting
+201064873,chair,chair,chair,chair,chair,chair,chair,chair
+202159192,no,no,no,no,no,no,no,no
+20306399,couch,couch,couch,couch,couch,couch,couch,couch
+201080527,no,no,no,no,no,no,no,yes
+201987844,it is small,it is small,it is small,it is small,it is small,it is small,it is small,small
+201207447,left side,left side,right side,left side,right side,left side,right side,right
+20518649,wooden table,table,table,towel rack,table,table,counter,shelf
+201438282,baseball,baseball,baseball,baseball,baseball,baseball,baseball,fence
+20308704,stove,stove,stove,stove,stove,stove,stove,stove
+201616068,toilet,toilet,toilet,toilet,toilet,toilet,toilet,toilet
+201185217,no,no,no,no,no,no,no,no
+201498043,monitor,monitor,monitor,monitor,monitor,monitor,monitor,desk
+20162446,baseball field,baseball field,baseball field,baseball field,baseball field,baseball field,baseball field,bushes
+201623767,to right,to right,to right,to right,to right,to right,to right,right
+202073126,no,no,no,no,no,no,no,no
+201428832,plastic,plastic,plastic,plastic,plastic,plastic,plastic,plastic
+20262438,not enough information,not enough information,not enough information,not enough information,not enough information,not enough information,not enough information,heavy
+20567632,no,no,no,no,no,no,no,yes
+201068704,no,no,no,no,no,no,no,yes
+20954191,two women,woman,woman,two ladies,woman,woman,two women,lady
+202133725,fences,fences,fences,fences,fences,fences,fences,no
+202180474,no,no,no,no,no,no,no,yes
+20551476,train,train,train,train,train,train,train,train
+201759290,yes,no,no,yes,no,no,no,yes
+20244509,london,london,london,london,london,london,london,street
+20344951,right,right,right,right,right,right,right,left
+20162477,yes,yes,yes,yes,yes,yes,yes,no
+20724292,no,no,no,no,no,no,no,no
+201832385,yes,yes,yes,yes,yes,yes,yes,no
+201756488,pineapple,pineapple,pear,pear,pear,pineapple,pear,banana
+202080916,no,no,no,no,no,no,no,yes
+20648141,no,no,no,yes,no,no,yes,yes
+20427913,man and woman,picture of man,picture of man,picture of man and,picture of man,picture of man and,picture of man and,chair
+20827542,kitchen counter,kitchen,kitchen,bar table,kitchen,kitchen,kitchen,table
+20865358,field,field,field,field,field,field,field,pasture
+201704553,tall,tall,tall,tall,tall,tall,tall,tall
+201156310,no,yes,yes,yes,yes,yes,yes,yes
+20480225,laptop,desk,desk,table,desk,desk,desk,desk
+20866397,yes,no,no,yes,no,no,no,no
+20518691,no,yes,yes,no,yes,yes,no,no
+20667683,wii remote,wii,wii,wii,wii,wii,wii,remote control
+20797688,cat,cat,cat,cat,cat,cat,cat,cat
+20709786,no,no,no,no,no,no,no,yes
+201996992,boy,boy,boy,boy,boy,boy,boy,man
+201711139,no,no,no,no,no,no,no,no
+20414431,people,people,group of people,group of people,group of people,people,group of people,people
+202156896,no,no,no,yes,no,no,no,yes
+20756646,cabinet,cabinet,cabinet,cabinet,cabinet,cabinet,cabinet,cabinet
+20899818,no,no,no,no,no,no,no,yes
+20482531,no,no,no,no,no,no,no,yes
+201067716,donut,donut,donut,donut,donut,donut,donut,teddy bear
+201770700,bottle,bottle,bottle,bottle,bottle,bottle,bottle,wall
+20857035,plastic,metal,metal,metal,metal,metal,metal,plastic
+20637091,cutting board,cutting board,cutting board,cutting board,cutting board,cutting board,cutting board,cutting board
+202108016,no,no,no,no,no,no,no,no
+20621983,no,no,no,no,no,no,no,no
+201640614,woman,woman,woman,woman,woman,woman,woman,woman
+201908821,cup,cup,cup,cup,cup,cup,cup,napkin
+20717065,black,black,black,black,black,black,black,black
+20182873,down street,down street,down street,down street,down street,down street,down street,street
+20899024,hat,hat,hat,hat,hat,hat,hat,jeans
+2062420,surfer,surfer,surfer,surfer,surfer,surfer,surfer,surfer
+201175666,mirror,mirror,mirror,mirror,mirror,mirror,mirror,mirror
+201974976,black,black,black,tennis shoes,black,black,headgear,skirt
+201711244,yes,no,no,yes,no,no,yes,yes
+201536489,umpire,umpire,umpire,crowd,umpire,umpire,umpire,spectator
+201536382,crowd,crowd,crowd,crowd,crowd,crowd,crowd,spectator
+201654660,horse,horses,horses,horses,horses,horses,horses,horses
+20589011,crowd,crowd,crowd,crowd,crowd,crowd,crowd,crowd
+201393802,no,no,no,no,no,no,no,no
+201346485,no,no,no,no,no,no,no,yes
+202073222,zebra,zebra,zebra,zebra,zebra,zebra,zebra,zebra
+202244106,carrots,cupcakes,cupcakes,cupcakes,cupcakes,cupcakes,cupcakes,cupcakes
+20936263,no,no,no,1,no,no,no,yes
+201682270,swinging tennis racket,swinging tennis racket,swinging tennis racket,he is playing tennis,swinging tennis racket,he is playing tennis,he is playing tennis,playing
+202258314,horse,horse,horse,horse,horse,horse,horse,horse
+201935802,bookcase,bookcase,bookcase,book stand,bookcase,bookcase,bookcase,shelf
+202158779,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete
+20652429,yes,yes,yes,yes,yes,yes,yes,no
+20811146,no,no,no,no,no,no,no,no
+201766571,girl,girl,girl,little girl,girl,girl,girl,girl
+201030700,blue,blue,blue,blue,blue,blue,blue,blue
+201935924,small,large,large,large,large,large,large,large
+20734076,man,one person,person,person carrying surfboard,person,one person,person carrying surfboard,woman
+20706140,keyboard,cup,keyboard,keyboard,keyboard,cup,keyboard,keyboard
+20631451,no,no,no,no,no,no,no,yes
+201737843,bottom,bottom,bottom,bottom,bottom,bottom,bottom,top
+20940047,sink,sink,sink,sink,sink,sink,sink,toilet
+201480490,baseball player,baseball field,baseball field,baseball field,baseball field,baseball field,baseball field,tree
+20169893,clean,they are clean,they are clean,not enough information,they are clean,they are clean,not enough information,dirty
+20482257,no,no,no,no,no,no,no,no
+202286941,plastic,plastic,plastic,plastic,plastic,plastic,plastic,concrete
+202257249,no,no,no,no,no,no,no,yes
+201109556,car,car,car,car,car,car,car,car
+20120496,yes,no,no,no,no,no,no,yes
+201047306,cell phone,cell phone,cell phone,cell phone,cell phone,cell phone,cell phone,remote control
+20705853,wood,wood,wood,wooden desk,wood,wood,wood,wood
+202227946,full,full,full,full,full,full,full,full
+201957277,no,no,no,no,no,no,no,no
+201528064,woman,woman,woman,woman,woman,woman,woman,woman
+201654673,horse,horse,horse,horse,horse,horse,horse,horses
+20491916,top of mountain,top of mountain,top of mountain,lake,top of mountain,top of mountain,top of mountain,beach
+201030605,wii remote,remote control,remote control,wii remote,remote control,remote control,remote control,controller
+201882554,bed,bed,bed,bed,bed,bed,bed,bed
+201997205,no,no,no,no,no,no,no,no
+20262511,blue,blue,blue,blue,blue,blue,blue,purple
+202100453,yes,yes,yes,yes,yes,yes,yes,yes
+202144715,blender,blender,blender,blender,blender,blender,blender,blender
+201935861,no,no,no,no,no,no,no,no
+20491789,display,display,display,glass case,display,display,display,sky
+20753515,yes,yes,yes,yes,yes,yes,yes,yes
+202060203,no,no,no,no,no,no,no,yes
+201570982,woman,woman,woman,woman,woman,woman,woman,woman
+201065452,chandelier,chandelier,chandelier,chandelier,chandelier,chandelier,chandelier,ground
+201430956,no,no,no,no,no,no,no,no
+202144469,no,no,no,no,no,no,no,yes
+201467540,yes,yes,yes,yes,yes,yes,yes,yes
+201951619,yes,yes,yes,no,yes,yes,yes,no
+20637269,yes,yes,yes,no,yes,yes,yes,no
+202218502,no,no,no,no,no,no,no,no
+2098281,no,no,no,no,no,no,no,no
+202246122,large,large,large,large,large,large,large,large
+20414337,yes,yes,yes,yes,yes,yes,yes,yes
+201175109,no,no,no,no,no,no,no,no
+20306354,woman,man,man,woman,man,man,man,woman
+20302763,smooth,rough,smooth,smooth,smooth,rough,rough,smooth
+201527960,woman,woman,woman,woman,woman,woman,woman,woman
+20480292,no,no,no,no,no,no,no,no
+201428862,no,no,no,no,no,no,no,yes
+20349975,no,no,no,no,no,no,no,yes
+201621612,sofa,couch,couch,couch,couch,couch,couch,cabinet
+20942172,woman,woman,woman,woman,woman,woman,woman,woman
+201431009,yes,no,no,no,no,no,no,yes
+20891617,short sleeved,short sleeved,short sleeved,short sleeved,short sleeved,short sleeved,short sleeved,long sleeved
+20361447,yes,yes,yes,yes,yes,yes,yes,yes
+20567615,no,no,no,no,no,no,no,yes
+202121523,blind,blind,curtains,curtains,curtains,curtains,curtains,curtains
+20381224,desk,desk,desk,desk,desk,desk,desk,desk
+201757736,laptop,chair,chair,chair,chair,chair,chair,chair
+201979214,skateboarder,person,person,skateboarder,person,person,person,boy
+201391831,wii remote,controller,wii remote,video game controller,wii remote,controller,wii remote,controller
+201593943,short sleeved,short sleeved,short sleeved,short sleeved,short sleeved,short sleeved,short sleeved,short sleeved
+20169862,no,no,no,no,no,no,no,no
+202144703,blender,blender,blender,blender,blender,blender,blender,blender
+201951991,vw bus,van,van,vw pop up van,van,vw pop up van,vw pop up van,flag
+20940239,it is small,it is small,it is small,it is small,it is small,it is small,it is small,large
+201738980,baseball player,baseball player,baseball player,baseball pitcher,baseball player,baseball player,baseball player,pitcher
+20320400,young,young,young,young,young,young,young,young
+201957408,television,television,tv,television,tv,tv,tv,shelf
+20381592,no,no,no,no,no,no,no,no
+201832652,bed,bed,bed,bed,bed,bed,bed,bed
+201952625,no,no,no,no,no,no,no,yes
+201757688,yes,yes,yes,yes,yes,yes,yes,yes
+20656845,stop sign,stop sign,stop sign,stop sign,stop sign,stop sign,stop sign,traffic sign
+201347393,boy,boy,boy,boy,boy,boy,boy,boy
+201571001,no,no,no,no,no,no,no,no
+202226313,yes,yes,yes,yes,yes,yes,yes,yes
+202081185,microwave,microwave,microwave,microwave,microwave,microwave,microwave,stove
+20178004,grill,pan,pan,fry basket,pan,pan,pan,cutting board
+201737745,they are both white,they are both white,they are white,they are both white,they are white,they are both white,they are both white,color
+202023467,bed,chair,chair,chair,chair,chair,chair,bed
+20756908,long sleeved shirt,shirt,shirt,sweater,shirt,shirt,shirt,sweater
+201346680,black,black,black,black,black,black,black,silver
+20631541,no,no,no,no,no,no,no,no
+20902701,no,no,no,no,no,no,no,no
+201887320,brown,brown,brown,brown,brown,brown,brown,brown
+201987466,bicycle,bicycle,bicycle,bicycle,bicycle,bicycle,bicycle,motorcycle
+201974999,yes,yes,yes,yes,yes,yes,yes,yes
+201430953,no,no,no,no,no,no,no,yes
+20306467,man,man,person,man,person,man,man,man
+20308576,no,no,no,yes,no,no,no,yes
+201428809,white,white,white,white,white,white,white,black
+20151524,latte,bag,bag,sugar,bag,bag,bag,straw
+201056166,man,man,man,man,man,man,man,man
+20794332,yes,yes,no,no,no,no,no,yes
+20151843,latte,latte,latte,coffee,latte,latte,coffee,coffee
+202162226,no,yes,yes,yes,yes,no,yes,yes
+201887120,left side,left side,left side,left side,left side,left side,left side,right
+201247158,cat,cat,cat,cat,cat,cat,cat,cat
+201996557,yes,yes,yes,no,yes,yes,yes,no
+201886879,table,table,table,chair,table,table,table,table
+20942180,no,no,no,no,no,no,no,no
+202053220,no,no,no,no,no,no,no,no
+20511521,red,red,red,red,red,red,red,orange
+202106341,chain link,metal,metal,chain link,metal,metal,metal,metal
+202005783,table,table,table,table,table,table,table,cabinet
+201983709,glass door,bags,glass door,doorway,glass door,glass door,glass door,glass
+202246186,yes,yes,yes,yes,yes,yes,yes,yes
+20541288,to right,to right,to right,to right,to right,to right,to right,left
+201407175,yes,yes,yes,yes,yes,yes,yes,yes
+20262704,girl,girl,girl,girl,girl,girl,girl,child
+201428803,no,no,no,no,no,no,no,no
+201153281,man,man,man,man,man,man,man,woman
+201400130,no,no,no,yes,no,no,no,yes
+20204614,chair,chair,chair,chair,chair,chair,chair,chair
+2090994,no,no,no,no,no,no,no,yes
+202053153,long sleeved,long sleeved,long sleeved,long sleeved,long sleeved,long sleeved,long sleeved,long sleeved
+201574126,no,no,no,no,no,no,no,yes
+20462129,no,no,no,no,no,no,no,no
+201207201,apples,apples,apples,apples,apples,apples,apples,apples
+201713532,in front of mirror,in front of mirror,in front of mirror,in bathroom,in front of mirror,in front of mirror,in front of mirror,sink
+202257442,no,no,no,no,no,no,no,no
+20489787,no,no,no,no,no,no,no,no
+20655442,bottom,bottom,top,bottom,top,bottom,top,bottom
+201975144,tennis player,woman,woman,woman,woman,woman,woman,woman
+201411134,no,no,no,yes,no,no,no,no
+202119734,no,no,no,no,no,no,no,no
+201055998,car,car,car,car,car,car,car,car
+202106239,no,no,no,no,no,no,no,no
+201976943,no,no,no,no,no,no,no,no
+202144330,no,no,no,no,no,no,no,no
+20442171,no,no,no,no,no,no,no,yes
+201556919,laptop,laptop,laptop,laptop,laptop,laptop,laptop,laptop
+201866734,yes,yes,yes,yes,yes,yes,yes,yes
+202249044,no,no,no,no,no,no,no,yes
+20978247,black,black,black,black,black,black,black,blond
+20210979,no,no,no,no,no,no,no,no
+201175370,yes,yes,yes,yes,yes,yes,yes,no
+201832310,white,white,brown,unanswerable,brown,brown,brown,blue
+201879056,short skirt,skirt is short,skirt is short,short skirt,skirt is short,short skirt,short skirt,long
+20953092,no,no,no,no,no,no,no,no
+2056008,green,green,green,green,green,green,green,green
+201079730,no,no,no,no,no,no,no,yes
+20667975,television,wii controller,tv remote,wii remote,tv remote,wii controller,wii remote,can
+20705833,it is small desk,it is small desk,it is small desk,it is small desk,it is small desk,it is small desk,it is small desk,large
+202107846,blue,blue,blue,blue,blue,blue,blue,white
+20922967,brown,brown,brown,brown,brown,brown,brown,brown
+20631593,catcher,catcher,catcher,catcher,catcher,catcher,catcher,umpire
+201056130,yes,yes,yes,yes,yes,yes,yes,yes
+20797834,cat,pair of shoes,pair of shoes,pair of shoes,pair of shoes,pair of shoes,pair of shoes,palm tree
+201984162,bag,bag,bag,purse,bag,bag,bag,purse
+202023459,chair,chair,chair,chair,chair,chair,chair,shelf
+201682364,no,no,no,no,no,no,no,no
+201175365,cat,cat,cat,cat,cat,cat,cat,dog
+201068277,black shirt,black shirt,black shirt,black shirt,black shirt,black shirt,black shirt,sweater
+2017189,horse,horse,horse,horse,horse,horse,horse,horse
+201593338,no,no,no,no,no,no,no,no
+20177951,cutting board,cutting board,cutting board,cutting board,cutting board,cutting board,cutting board,cutting board
+20705671,no,no,no,yes,no,no,no,no
+201068434,girl,girl,girl,girl,girl,girl,girl,child
+20258659,no,no,no,no,no,no,no,yes
+201711208,suitcase,suitcase,suitcase,cello,suitcase,suitcase,suitcase,flowers
+202180460,no,no,no,no,no,no,no,yes
+201861403,motorcycle,motorcycle,motorcycle,motorcycle,motorcycle,motorcycle,motorcycle,motorcycle
+20340484,no,no,no,no,no,no,no,yes
+2076227,small,not enough information,not enough information,not enough information,not enough information,not enough information,not enough information,small
+20518323,no,no,no,no,no,no,no,no
+201804303,it is small,it is small,it is small,it is small,it is small,it is small,it is small,small
+20692344,it is small,it is small,it is small,it is small,it is small,it is small,it is small,large
+20462075,helmet,helmet,helmet,ski suit,helmet,helmet,ski suit,pants
+201510335,apple,apple,apple,apple,apple,apple,apple,apple
+20452282,vase,table,table,vase,table,table,table,table
+20699276,suit,suit,suit,tuxedo,suit,suit,suit,jacket
+20673040,to right,to right,to right,to right,to right,to right,to right,right
+201889508,to right,to right,to right,to right,to right,to right,to right,left
+202073369,few feet,no,no,no,no,no,no,wide
+202082277,mouse,mouse,mouse,keyboard,mouse,mouse,mouse,keyboard
+20911222,man,person,person,person,person,person,person,skateboarder
+20942863,soccer ball,ball,ball,ball,ball,ball,ball,ball
+20644677,they are dirty,not clean,not clean,not clean,not clean,not clean,not clean,dirty
+201982730,caucasian,caucasian,caucasian,caucasian,caucasian,caucasian,caucasian,asian
+201972682,no,no,no,no,no,no,no,no
+20647844,no,no,no,no,no,no,no,yes
+201760610,yes,yes,yes,no,yes,yes,yes,no
+201480491,baseball player,baseball,baseball,baseball,baseball,baseball,baseball,tree
+202227840,no,no,no,no,no,no,no,no
+202000703,no,no,no,no,no,no,no,yes
+20567431,sunny,it is sunny,it is sunny,it is cloudy,it is sunny,it is sunny,it is sunny,cloudy
+202262430,no,no,no,no,no,no,no,no
+20618692,tennis court,tennis court,tennis court,tennis court,tennis court,tennis court,tennis court,forest
+201536272,to left,to left,to left,to left,to left,to left,to left,right
+201885541,yes,yes,yes,yes,yes,yes,yes,yes
+202133633,male,male,male,male,male,male,male,male
+2017243,man,hat,hat,horse,hat,hat,hat,coat
+20240864,table,table,table,table,table,table,table,table
+201482038,no,no,no,no,no,no,no,no
+201682342,to right,to right,to right,to right,to right,to right,to right,left
+201498046,desk,desk,desk,desk,desk,desk,desk,desk
+201947832,wall,wall,wall,wall,wall,wall,wall,wall
+202285527,no,no,no,yes,no,no,no,no
+202081040,no,no,no,no,no,no,no,yes
+20860978,tie,tie,tie,tie,tie,tie,tie,pants
+201479126,left side,left side,left side,right side,left side,left side,left side,left
+201889331,man,man,man,man,man,man,man,boy
+20341037,no,no,no,no,no,no,no,yes
+201067797,black,white,white,black,white,white,white,black
+201739131,red,red,red,red,red,red,red,blue
+201481489,no,no,no,no,no,no,no,yes
+201233938,train,train,train,train,train,train,train,bench
+201399884,couch,couch,couch,couch,couch,couch,couch,couch
+20492198,polar bear,bear,bear,display,bear,bear,void,mountain
+20942893,yes,yes,yes,yes,yes,yes,yes,no
+20621839,closed,closed,closed,closed,closed,closed,closed,closed
+202073174,zebras,zebra,zebra,deer and zebra,zebra,zebra,zebra,zebras
+201346310,no,no,no,no,no,no,no,no
+201751799,no,no,no,no,no,no,no,yes
+202244653,yes,yes,yes,yes,yes,yes,yes,yes
+202246752,desk,desk,desk,desk,desk,desk,desk,desk
+201908920,yes,yes,yes,yes,yes,yes,yes,yes
+20285576,red,red,red,white,red,red,red,yellow
+201751740,no,no,no,no,no,no,no,yes
+20827471,kitchen,kitchen,kitchen,counter,kitchen,kitchen,kitchen,windows
+20942853,no,no,no,no,no,no,no,no
+20647406,player,player,baseball player,baseball player,baseball player,baseball player,baseball player,man
+201735385,no,yes,yes,no,yes,yes,yes,yes
+202101080,two people,two people,two people,two boys,two people,two people,two people,man
+201957062,to right,to right,to right,to right,to right,to right,to right,right
+201571014,no,no,no,no,no,no,no,yes
+20740933,left,left,left,left,left,left,left,left
+202227832,yes,no,no,no,no,no,no,no
+201556593,no,no,no,no,no,no,no,no
+20863391,man,man,man,man,man,man,man,man
+20120201,yes,yes,yes,yes,yes,yes,yes,yes
+20177468,pickles,pickles,pickles,pickles,pickles,pickles,pickles,pickles
+20866512,long,long,long,long,long,long,long,long
+20541412,television,couch,couch,couch,couch,couch,couch,couch
+20385461,no,no,no,no,no,no,no,no
+20157293,bacon,bacon,bacon,bacon,bacon,bacon,bacon,bacon
+20508847,it is same size as one on,it is small,it is small,it is small,it is small,it is small,it is small,large
+20652444,car,car,car,no vehicles,car,car,car,cars
+20894206,boy,person,boy,boy,boy,boy,boy,boy
+20963956,toilet,sink,sink,sink,sink,sink,sink,shelf
+201983605,yes,yes,yes,yes,yes,yes,yes,no
+201548875,no,no,no,no,no,no,no,no
+20306179,ski jacket,snowboard,snowboard,snowboard,snowboard,snowboard,snowboard,jacket
+201975091,left side,right side,right side,opposite side,right side,right side,right side,right
+202121605,yes,no,no,no,no,no,no,no
+201663079,cabinets,cabinets,cabinets,cabinets,cabinets,cabinets,cabinets,cabinets
+202246740,no,no,no,no,no,no,no,no
+20442446,refrigerator,refrigerator,refrigerator,white fridge,refrigerator,refrigerator,refrigerator,plant
+201795103,grey,grey,grey,gray,grey,grey,grey,brown
+201886793,bottom,bottom,bottom,bottom,bottom,bottom,bottom,top
+201447126,toilet,sink,sink,toilet,sink,toilet,toilet,shelf
+20295549,bed,bed,bed,bed,bed,bed,bed,bed
+201887285,cauliflower,cauliflower,cauliflower,cauliflower,cauliflower,cauliflower,cauliflower,broccoli
+201957003,man,man,man,man,man,man,man,shelf
+202121348,no,no,no,no,no,no,no,yes
+201908948,plastic container,box,box,box,box,box,box,napkin
+201247081,window,window,window,window,window,window,window,window
+202121601,sofas,chairs,chairs,chairs,chairs,chairs,chairs,cabinets
+201795639,red,red,red,red,red,red,red,red
+201557047,desk,desk,desk,desk,desk,desk,desk,desk
+202081958,right side,right side,right side,right side,right side,right side,right side,right
+201765767,shorts,shorts,shorts are short,not enough information,shorts are short,shorts,not enough information,short
+201080477,man,man,man,man,man,man,man,man
+201998145,no,no,no,no,no,no,no,yes
+20241172,plastic,plastic,plastic,glass,plastic,plastic,plastic,plastic
+202101149,yes,yes,yes,yes,yes,yes,yes,no
+20667690,couch,couch,couch,couch,couch,couch,couch,coffee table
+20952949,no,no,no,no,no,no,no,yes
+20550547,no,no,no,no,no,no,no,no
+20655296,man,person,person,man,person,person,person,woman
+202006408,tan,tan,tan,tan,tan,tan,tan,tan
+20827497,bar stools,table,table,bar stools,table,tall bookcase,tall bookcase,table
+201878321,red jacket,jacket,jacket,red coat,jacket,jacket,jacket,hat
+2097752,laptop,laptop,laptop,laptop,laptop,laptop,laptop,keyboard
+202107911,no,no,no,no,no,no,no,no
+202042072,motorcycle,motorcycle,motorcycle,motorcycle,motorcycle,motorcycle,motorcycle,motorcycle
+20887376,dog,dog,dog,dachshund,dog,dog,dog,dog
+201676459,sofa,couch,couch,couch,couch,couch,table,table
+201751835,yes,no,no,no,no,no,no,no
+201739024,no,no,no,no,no,no,no,no
+201492367,behind,behind,behind,behind,behind,behind,behind,front
+20964060,in middle of room,in bathroom,in bathroom,in window,in bathroom,in bathroom,in bathroom,bathroom
+20647343,not enough information,not enough information,not enough information,not tall,not enough information,not enough information,not enough information,short
+20340560,table,table,table,table,table,table,table,table
+20344935,tennis player,tennis ball,tennis ball,tennis ball,tennis ball,tennis ball,tennis ball,fence
+202053361,batter,batter,batter,player,batter,batter,batter,player
+201574205,no,no,no,no,no,no,no,no
+20330169,right side,right side,right side,right side,right side,right side,right side,left
+202053173,catcher,catcher,catcher,catcher,catcher,catcher,catcher,man
+201207427,plate,plate,plate,plate,plate,plate,plate,table
+202006459,no,no,no,no,no,no,no,no
+201322493,buses,buses,no,buses,no,buses,buses,yes
+20611699,ice cream,ice cream,ice cream,ice cream,ice cream,ice cream,ice cream,fruit
+201393601,shirt,shirt,shirt,shirt,shirt,shirt,shirt,sock
+201752756,crowd of people,crowd,crowd,crowd,crowd,crowd,crowd,water bottle
+20257244,male,male,male,male,male,male,male,male
+201998276,table,table,table,table,table,table,table,table
+20308996,white,white,silver,white,white,white,silver,brown
+201882757,no,no,no,no,no,no,no,yes
+201574048,right,right,right,right,right,right,right,left
+201079862,desk,desk,desk,desk,desk,desk,desk,couch
+202119751,no,no,no,no,no,no,no,no
+201935899,book shelf,book shelf,book shelf,book shelf,book shelf,book shelf,book shelf,shelf
+20518339,no,no,no,no,no,no,no,no
+201951790,pink vw bus,tin can,tin of ham,food van,tin of ham,food van,food van,sign
+2097607,no,yes,yes,yes,yes,yes,yes,no
+202162558,no,no,no,no,no,no,no,no
+20309019,yes,yes,yes,no,yes,no,no,no
+202000910,man,man,man,man,man,man,man,boy
+201987210,no,no,no,no,no,no,no,no
+201393427,no,no,no,no,no,no,no,no
+20511621,no,no,no,no,no,no,no,no
+20307199,ski lift,ski lift,ski lift,snowboard,ski lift,ski lift,snowboard,camera
+20151649,t shirt,t shirt,shirt,sweatshirt,shirt,t shirt,shirt,sweater
+201621308,no,no,no,no,no,no,no,no
+20169603,no,no,no,no,no,no,no,no
+201491082,no,no,no,no,no,no,no,yes
+201880467,glass,glass,glass,glass,glass,glass,glass,glass
+20636924,yes,yes,yes,no,yes,yes,yes,no
+202286763,bear,bears,bears,bears,bears,bears,bears,teddy bear
+20652608,right side,right side,right side,right side,right side,right side,right side,right
+202006826,table,wooden table,wooden table,wooden table,wooden table,wooden table,wooden table,cabinet
+2012711,man,man,man,male,man,man,man,female
+201510486,clean,it is clean,it is clean,not enough information,it is clean,it is clean,it is clean,clean
+201391967,wii remote,game controller,game controller,game controller,game controller,game controller,game controller,controller
+201998003,not fat,not enough information,not enough information,not enough information,not enough information,not enough information,not enough information,skinny
+202169094,car,car,car,parked cars,car,car,car,cars
+201504720,it is small,not enough information,not enough information,not enough information,not enough information,not enough information,not enough information,large
+20330480,bus,bus,bus,unanswerable,bus,bus,bus,car
+201370439,no,no,no,no,no,no,no,yes
+201360938,small,small,small,small,small,small,small,small
+201935905,bookcase,bookcase,bookcase,bookshelf,bookcase,bookcase,bookcase,shelf
+2059757,batter,batter,batter,batter,batter,batter,batter,batter
+201711281,no,no,no,no,no,no,no,no
+202121530,no,no,no,no,no,no,no,no
+20963877,wood,wood,wood,wood,wood,wood,wood,wood
+201895947,no,no,no,no,no,no,no,yes
+202003710,laptop,two laptops,laptop,laptops,laptop,two laptops,two laptops,computer
+201882969,television,television,television,television,television,television,television,chair
+201303364,table,table,table,tables,table,tables,tables,table
+20412245,yes,yes,yes,yes,yes,yes,yes,yes
+20456660,no,no,no,no,no,no,no,no
+201337106,no,no,no,yes,no,no,no,no
+20794360,shirt and pants,pants,pants,pants,pants,pants,pants,jeans
+202144693,blender,blender,blender,blender,blender,blender,blender,blender
+202258395,horse,horse,horse,horse,horse,horse,horse,horse
+20631436,catcher,catcher,catcher,umpire,catcher,catcher,catcher,player
+202228228,black,black,black,red and black,black,black,black,brown
+201067918,no,no,no,no,no,no,no,no
+20883097,no,no,no,no,no,no,no,no
+20240935,table,table,table,table,table,table,table,table
+20657206,no,no,no,no,no,no,no,yes
+20827468,bar stools,bar,table,bar stools,table,bar,bar,couch
+202219022,no,no,no,no,no,no,no,no
+201068695,shirt,shirt,shirt,shirt,shirt,shirt,shirt,sweatshirt
+201527508,yes,yes,yes,yes,yes,yes,yes,no
+202126091,man,man,man,man,man,man,man,man
+20667289,long sleeved,long sleeved,long sleeved,long sleeved,long sleeved,long sleeved,long sleeved,short sleeved
+20856845,bag,no,no,unanswerable,no,no,no,cookie
+201621285,no,no,no,no,no,no,no,no
+201030233,no,no,no,no,no,no,no,no
+202257407,yes,yes,yes,yes,yes,yes,yes,yes
+20511418,top,top,top,top,top,top,top,top
+20954153,t shirt,shirt,t shirt,red shirt,t shirt,t shirt,t shirt,glasses
+20120148,short,short,short,short,short,short,short,short
+202240360,white,white,white,white,white,white,white,gray
+20416562,knife,knife,knife,knife,knife,knife,knife,spatula
+201228357,no,no,no,no,no,no,no,no
+202286600,teddy bear,teddy bear,teddy bear,teddy bear,teddy bear,teddy bear,teddy bear,bear
+201303362,table,table,table,tables,table,table,table,table
+201979159,yes,yes,yes,yes,yes,yes,yes,yes
+201641228,cobblestone,cobblestone,cobblestone,cobblestone,cobblestone,cobblestone,cobblestone,cobblestone
+201623628,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator
+20434837,eating,eating pizza,eating pizza,pointing to pizza box,eating pizza,eating pizza,pointing to pizza box,eating
+20699197,man,man,man,man,man,man,man,guy
+201984082,no,no,no,no,no,no,no,no
+201455876,small,it is small car,it is small car,it is small car,it is small car,it is small car,it is small car,small
+202227952,desk,desk,desk,table,desk,desk,desk,dvd player
+20177601,no,no,no,no,no,no,no,yes
+201434366,no,no,no,no,no,no,no,no
+2097959,laptop,computer,computer,computer,computer,computer,computer,curtain
+20648080,motorcycles,motorcycles,motorcycles,motorcycles,motorcycles,motorcycles,motorcycles,motorcycle
+201623314,no,no,no,no,no,no,no,no
+201947624,yes,yes,yes,yes,yes,yes,yes,no
+202245957,no,no,no,no,no,no,no,no
+201957264,remote control,game,wii remote,game,wii remote,game,wii remote,television
+20622061,not enough information,not enough information,not enough information,not enough information,not enough information,not enough information,not enough information,large
+201064667,hamburger,hamburger,hamburger,hamburger,hamburger,hamburger,hamburger,pizza
+201654394,yes,yes,yes,yes,yes,yes,yes,no
+201576499,no,no,no,no,no,no,no,no
+201110869,right side,right side,right side,right side,right side,right side,right side,right
+201067727,yes,yes,yes,no,yes,yes,yes,yes
+20609323,watermelon,watermelon,watermelon,watermelon,watermelon,watermelon,watermelon,watermelon
+201438619,yes,yes,yes,yes,yes,yes,yes,yes
+20411801,apples,carrots,carrots,carrots,carrots,carrots,carrots,carrots
+202285337,beans,beans,beans,beans,beans,beans,beans,potatoes
+201704624,no,no,no,no,no,no,no,yes
+20896502,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator
+202286636,no,no,no,no,no,no,no,no
+201640213,no,no,no,no,no,no,no,no
+2017082,mountain,horse,horse,horse,horse,horse,horse,mountains
+201770744,no,no,no,no,no,no,no,yes
+20752482,no,no,no,no,no,no,no,no
+20715689,yes,yes,yes,yes,yes,yes,yes,yes
+201770658,yes,yes,yes,yes,yes,yes,yes,yes
+202003720,laptops,laptops,laptops,laptops,laptops,laptops,laptops,laptops
+201983608,no,no,no,no,no,no,no,no
+201467601,large,large,large,it is large,large,large,large,large
+20911333,bottom,bottom,bottom,bottom part,bottom,bottom,bottom part,top
+201873359,fire truck,fire truck,fire truck,fire truck,fire truck,fire truck,fire truck,car
+201758426,stuffed animal,stuffed animal,doll,stuffed animal,doll,stuffed animal,stuffed animal,stuffed animal
+201883135,clean,clean,clean,clean,clean,clean,clean,clean
+202023342,yes,yes,yes,no,yes,yes,yes,yes
+201765935,boats,boats,boats,boats,boats,boats,boats,boats
+201067449,no,no,no,yes,no,no,no,no
+20963659,vase,vase,vase,vase,vase,vase,vase,vase
+20204738,laptop,laptop,laptop,laptop,laptop,laptop,laptop,laptop
+201504726,no,no,no,yes,no,no,no,no
+202012476,man,man,man,man,man,man,man,man
+20541497,no,no,no,no,no,no,no,yes
+201880434,white,white,white,white,white,white,white,gray
+2075474,giraffe,giraffe,giraffe,deer,giraffe,giraffe,giraffe,deer
+20939895,no,no,no,no,no,no,no,yes
+20411497,no,no,no,yes,no,no,no,no
+20786160,yes,yes,yes,yes,yes,yes,yes,yes
+20903167,to right,to right,to right,to left,to right,to right,to right,left
+201873269,fire truck,fire truck,fire truck,fire truck,fire truck,fire truck,fire truck,small
+201757773,laptop,laptop,laptop,laptop,laptop,laptop,laptop,laptop
+20456571,yes,yes,yes,yes,yes,yes,yes,yes
+202042101,no,no,no,no,no,no,no,yes
+20935904,no,no,no,no,no,no,no,no
+201879511,yes,yes,yes,yes,yes,yes,yes,yes
+201972712,blue,blue,blue,blue,blue,blue,blue,blue
+20753471,right side,right side,right side,right side,right side,right side,right side,left
+2056049,bus,bus,bus,bus,bus,bus,bus,building
+201864490,to right,to right,to right,to right,to right,to right,to right,left
+2075820,no,no,no,no,no,no,no,yes
+20204868,no,no,no,no,no,no,no,no
+20953019,tennis player,man,tennis player,man,tennis player,tennis player,tennis player,man
+2072789,no,no,no,no,no,no,no,no
+20827523,no,no,no,no,no,no,no,yes
+201987211,no,no,no,no,no,no,no,no
+20412256,yes,yes,yes,yes,yes,yes,yes,no
+201068772,no,no,no,no,no,no,no,no
+201735202,no,no,no,no,no,no,no,no
+20340632,resting,resting,resting,resting,resting,resting,resting,playing
+20794134,yes,no,yes,yes,yes,yes,yes,yes
+201624006,right side,right side,right side,right side,right side,right side,right side,left
+201759554,to right,to right,to right,to right,to right,to right,to right,right
+201873167,fire truck,fire truck,fire truck,fire truck,fire truck,fire truck,fire truck,bus
+201983017,right side,right side,right side,right side,right side,right side,right side,left
+2053598,not clean,not clean,not clean,it is dirty,not clean,not clean,not clean,dirty
+20811159,small,not enough information,not enough information,not enough information,not enough information,not enough information,not enough information,small
+202240326,no,no,no,no,no,no,no,no
+20667283,blue,blue,blue,blue,blue,blue,blue,blue
+20622082,brown,brown,brown,brown,brown,brown,brown,brown
+202244211,no,no,no,rice,no,no,no,rice
+201462494,catcher,catcher,catcher,catcher,catcher,catcher,catcher,catcher
+202036708,yes,yes,yes,yes,yes,yes,yes,no
+201974842,woman,woman,woman,woman,woman,woman,woman,player
+20340412,no,no,no,no,no,no,no,yes
+20637190,no,no,no,no,no,no,no,no
+20340772,table and chairs,table and chairs,table and chairs,table and chairs,table and chairs,table and chairs,table and chairs,table
+201882834,yes,yes,yes,no,yes,yes,yes,no
+201595829,yes,yes,yes,yes,yes,yes,yes,no
+20503835,no,no,no,no,no,no,no,yes
+202161968,white,white,white,white,white,white,red,white
+201233937,train,train,train,train,train,train,train,train
+20724405,dry,dry,dry,dry,dry,dry,dry,dry
+20340746,concrete slab,concrete slab,concrete slab,ground,concrete slab,concrete slab,ground,patio
+20636922,no,no,no,yes,no,yes,no,no
+20668072,couch,couch,couch,couch,couch,couch,couch,coffee table
+201548879,no,no,no,no,no,no,no,no
+20489494,no,no,no,no,no,no,no,no
+20162086,baseball field,baseball field,baseball field,baseball field,baseball field,baseball field,baseball field,field
+201110674,no,no,no,no,no,no,no,no
+20672944,right side,right side,right side,right side,right side,right side,right side,left
+201763807,left side,right side,right side,right side,right side,right side,right side,right
+20412471,white,white,white,white,white,white,white,white
+202158981,no,no,no,no,no,no,no,yes
+20285314,chair,chair,chair,chair,chair,chair,chair,chair
+20162325,pitcher,boy,boy,child,boy,boy,boy,boy
+20295672,bed,bed,bed,bed,bed,bed,bed,bed
+202006252,no,no,no,no,no,no,no,no
+201065609,man,man,man,man in suit,man,man,man,people
+20257105,no,no,no,no,no,no,no,no
+201879725,sunny,it is sunny,it is sunny,it is sunny,it is sunny,it is sunny,it is sunny,sunny
+20891231,chinese restaurant,city,city,city,city,city,city,street
+2055962,no,no,no,no,no,no,no,no
+201407073,no,no,no,no,no,no,no,no
+201654313,horse,horse,horse,horses,horse,horse,horse,horses
+201765906,man,man,man,man,man,man,man,man
+201301990,they are clean,not enough information,not enough information,not enough information,not enough information,not enough information,not enough information,dirty
+201055699,no,no,no,no,no,no,no,yes
+20716785,bed,bed,bed,headboard,bed,bed,bed,bed
+20169956,yes,no,no,no,no,no,no,no
+201902750,no,no,no,no,no,no,no,no
+201037289,no,no,no,no,no,no,no,no
+20899424,open,open,open,open,open,open,open,closed
+201065125,yes,yes,yes,yes,yes,yes,yes,yes
+20741080,yes,yes,yes,yes,yes,yes,yes,yes
+202226049,large,large,large,large,large,large,large,large
+201030434,no,no,no,no,no,no,no,no
+202126055,man,man,man,man,man,man,man,player
+202257136,yes,yes,yes,yes,yes,yes,yes,no
+20645561,yes,yes,yes,yes,yes,yes,yes,no
+201235467,no,no,no,no,no,no,no,no
+201110717,whipped cream,whipped cream,whipped cream,whipped cream,whipped cream,whipped cream,whipped cream,strawberry
+202119151,man,person,man,person,man,person,person,people
+201571127,it is small suitcase,it is square,it is square,it is square,it is square,it is square,it is square,small
+201621526,couch,couch,couch,couch,couch,couch,couch,couch
+20827448,no,no,no,no,no,no,no,no
+202228250,no,no,no,no,no,no,no,yes
+20717086,no,yes,yes,yes,yes,yes,yes,yes
+20818654,no,no,no,no,no,no,no,no
+201153298,giraffe,giraffe,giraffe,giraffe,giraffe,giraffe,giraffe,giraffe
+201663610,no,no,no,yes,no,no,no,yes
+20866124,bottle of water,container,bottle of water,bottle,bottle of water,container,can,jar
+201752641,no,no,no,no,no,no,no,yes
+20811131,dog,dog,dog,dog,dog,dog,dog,dog
+201621809,television,computer,computer,speaker,computer,computer,computer,speaker
+20887464,computer,computer,computer,computer,computer,computer,computer,computer mouse
+20511444,boat,boat,boat,boat,boat,boat,boat,helicopter
+20863517,not enough information,not enough information,not enough information,not enough information,not enough information,not enough information,not enough information,tall
+201264173,behind,behind,behind,behind,behind,behind,behind,front
+201412492,man,person,person,person,person,person,person,people
+20609229,tablecloth,tablecloth,tablecloth,tablecloth,tablecloth,tablecloth,tablecloth,table
+20489490,yes,yes,yes,yes,yes,yes,yes,yes
+20511543,no,no,no,2,no,no,no,no
+201504907,no,no,no,no,no,no,no,yes
+20551620,train,train,train,train,train,train,train,train
+20245735,no,no,no,no,no,no,no,no
+2044716,umbrella,umbrella,umbrella,umbrella,umbrella,umbrella,umbrella,umbrella
+202036678,to right,to right,to right,right,to right,to right,to right,left
+201207174,unanswerable,unanswerable,unanswerable,unanswerable,unanswerable,unanswerable,unanswerable,carrot
+201175119,yes,yes,yes,no,yes,yes,yes,yes
+20894261,no,no,no,no,no,no,no,yes
+20341097,on side of road,on side of road,on side of road,on side of street,on side of road,on side of road,on side of road,grass
+20866139,in refrigerator,in refrigerator,in refrigerator,inside refrigerator,in refrigerator,in refrigerator,in refrigerator,kitchen
+202244150,no,no,no,no,no,no,no,yes
+20827399,no,no,no,no,no,no,no,yes
+201682285,crowd,crowd,crowd,crowd,crowd,crowd,crowd,spectator
+201482117,hood,hood,umbrella,umbrella,umbrella,hood,umbrella,umbrella
+201751701,no,yes,yes,no,yes,yes,yes,no
+202180335,ground,field,field,soccer field,field,field,soccer field,field
+20781983,yes,yes,yes,no,yes,yes,yes,yes
+202102628,cabinets,cabinets,cabinets,kitchen cabinets,cabinets,cabinets,cabinets,cabinets
+201109403,it is small house,it is small house,it is small house,it is small,it is small house,it is small house,it is small house,large
+202081504,no,no,no,no,no,no,no,yes
+201738917,baseball,baseball game,baseball game,baseball game,baseball game,baseball game,baseball game,game
+20157006,pancakes,pancakes,pancakes,pancakes,pancakes,pancakes,pancakes,egg
+201621708,to right,to right,to right,to right,to right,to right,to right,right
+202100722,stove,stove,stove,stove,stove,stove,stove,stove
+20349768,no,no,no,no,no,no,no,no
+202270905,skateboarder,person on skateboard,skateboarder,skateboarder,skateboarder,skateboarder,skateboarder,boy
+201391824,couch,couch,couch,couch,couch,couch,couch,couch
+20692061,it is clean,it is clean,it is clean,it is clean,it is clean,it is clean,it is clean,clean
+20810874,light brown,light brown,light brown,light brown,light brown,light brown,light brown,light brown
+202082077,yes,yes,yes,yes,yes,yes,yes,no
+201759210,yes,yes,yes,yes,yes,yes,yes,yes
+201976395,yes,yes,yes,yes,yes,yes,yes,yes
+201528126,microwave,stove,stove,unanswerable,stove,refrigerator,refrigerator,cooker
+202049253,no,no,no,no,no,no,no,no
+20299811,yes,yes,yes,yes,yes,yes,yes,yes
+20226355,no,no,no,no,no,no,no,yes
+202262196,no,no,no,no,no,no,no,no
+20782942,yes,no,no,yes,no,no,no,yes
+202042088,silver,silver,silver,silver,silver,silver,silver,white
+201079758,yes,yes,yes,no,yes,yes,yes,no
+202285105,yes,yes,yes,yes,yes,yes,yes,no
+201400112,yes,no,no,no,no,no,no,no
+201548857,red,red,red,red,red,red,red,brown
+201795377,elephant,elephant,elephant,elephant,elephant,elephant,elephant,boy
+20902498,no,no,no,no,no,no,no,no
+202119775,no,no,no,no,no,no,no,no
+202228670,no,no,no,no,no,no,no,yes
+201571011,small,small,small,small,small,small,small,large
+20894302,skateboarder,skateboarder,skateboarder,boy,skateboarder,skateboarder,skateboarder,boy
+201935943,no,no,no,no,no,no,no,yes
+20177725,brisket,brisket,brisket,brisket,brisket,brisket,brisket,burger
+20648146,blue,blue,blue,blue,blue,blue,blue,white
+201347404,boy,boy,boy,boy,boy,boy,boy,boy
+202101163,hat,hat,hat,hat,hat,hat,hat,pants
+202100280,it is cloudy,it is cloudy,it is cloudy,it is cloudy,it is cloudy,it is cloudy,it is cloudy,foggy
+20984305,no,no,no,yes,no,no,no,no
+201319540,woman,woman,woman,woman,woman,woman,woman,woman
+20385662,no,no,no,no,no,no,no,yes
+20810927,presents,presents,presents,presents,presents,presents,ornaments,chandelier
+202053464,batter,batter,batter,batter,batter,batter,batter,batter
+201616254,toilet,dresser,dresser,toilet,dresser,dresser,dresser,table
+201864553,no,no,no,no,no,no,no,no
+201935211,no,no,no,no,no,no,no,yes
+20452131,chair,chair,chair,chair,chair,chair,chair,table
+2072778,it is very clean,it is dirty,it is dirty,not enough information,it is dirty,it is dirty,not enough information,dirty
+201153459,no,no,no,no,no,no,no,no
+20609412,yes,yes,yes,yes,yes,yes,yes,no
+201064925,three children,three children,three children,three kids,three children,three children,three children,girl
+20963940,no,no,no,no,no,no,no,no
+20901792,no,no,no,no,no,no,no,no
+20151749,tan,tan,tan,tan,tan,tan,tan,tan
+201983882,jacket,jacket,jacket,jacket,jacket,jacket,jacket,shirt
+201711356,no,no,no,no,no,no,no,yes
+202059909,living room,living room,living room,living room,living room,living room,living room,living room
+201982149,no,no,no,no,no,no,no,no
+20856611,no,no,no,no,no,no,no,no
+201947707,toothbrush,toothbrush,toothbrush,toothbrush,toothbrush,toothbrush,toothbrush,toothbrush
+20340766,white,white,white,white,white,white,white,white
+20306370,snowboard,snowboard,snowboard,snowboard,snowboard,snowboard,snowboard,camera
+20541680,woman,woman,woman,woman,woman,woman,woman,woman
+201593894,no,no,no,yes,no,no,no,yes
+20710216,man,person,person,father,person,person,person,child
+202081246,white,white,white,white,white,white,white,brown
+201156214,yes,yes,yes,yes,yes,yes,yes,yes
+20482065,no,no,no,no,no,no,no,no
+20452100,vase,painting,painting,painting,painting,painting,painting,table
+201803824,no,no,no,no,no,no,no,no
+201528132,no,yes,yes,no,yes,yes,yes,no
+20480359,cat,cat,cat,cat,cat,cat,cat,cat
+20706376,computer,monitor,monitor,computer,monitor,monitor,monitor,computer
+201410953,yes,yes,yes,yes,yes,yes,yes,yes
+201879238,cook,person,person,woman,person,woman,woman,customer
+20306828,snowboard,snowboard,snowboard,ski lift,snowboard,snowboard,snowboard,ski lift
+202082273,mouse,mouse,mouse,mouse,mouse,mouse,mouse,wire
+201822286,small toilet seat,small toilet seat,small toilet seat,small toilet seat,small toilet seat,small toilet seat,small toilet seat,large
+201207239,left side,left side,left side,left side,left side,left side,left side,right
+201061137,yes,yes,yes,yes,yes,yes,yes,yes
+20385585,no,no,no,no,no,no,no,no
+202102634,cabinet,cabinet,cabinet,cabinets,cabinet,cabinet,cabinet,cabinets
+20856646,no,no,no,no,no,no,no,no
+20211227,no,no,no,no,no,no,no,yes
+20901959,no,no,no,no,no,no,no,yes
+2075825,it is small,it is small,it is small,it is small,it is small,it is small,it is small,small
+201067732,no,no,no,no,no,no,no,yes
+20891541,to right,to right,to right,to left,to right,to right,to right,left
+202060228,white,white,white,white,white,white,white,blue
+201481493,yes,yes,yes,yes,yes,yes,yes,no
+201462295,catcher,catcher,catcher,catcher,catcher,catcher,catcher,batter
+201467436,gray,dark,dark,dark,dark,dark,dark,dark
+201360984,blue,white,white,white,white,white,white,black
+201713544,right,right,right,right,right,right,right,left
+201935966,book shelf,book shelf,book shelf,book shelf,book shelf,book shelf,book shelf,shelf
+202107931,no,no,no,no,no,no,no,no
+20789865,sandy,sandy,sandy,sandy,sandy,sandy,sandy,sandy
+201770809,no,no,no,no,no,no,no,no
+20226791,fireplace,mirror,mirror,window,mirror,mirror,mirror,curtains
+201590129,man,man,man,man,man,man,man,man
+201153170,man,man,man,man,man,man,man,man
+202144720,drink,beer,beer,something liquid,beer,beer,beer,liquid
+20894271,no,no,no,no,no,no,no,yes
+20473063,boy,boy,boy,child,boy,boy,boy,boy
+201110743,no,no,no,no,no,no,no,yes
+20306831,man,man,man,man,man,man,man,people
+20866526,white,white,white,white,white,white,white,light
+201574098,it is narrow,it is narrow,it is narrow,it is narrow,it is narrow,it is narrow,it is narrow,narrow
+202081102,toaster,toaster,toaster,toaster,toaster,toaster,toaster,toaster
+201206907,plate,plate,plate,plate,plate,plate,plate,table
+20811124,dog,dog,dog,dog,dog,dog,dog,dog
+201175306,bottom,bottom,bottom,bottom,bottom,bottom,bottom,bottom
+201077120,white,white,white,white,white,white,white,black
+202100898,stove,stove,stove,stove,stove,stove,stove,stove
+202174260,no,no,no,no,no,no,no,no
+202156847,walking,walking on rocks,walking on rocks,they are standing near rocks,walking on rocks,walking on rocks,walking on rocks,standing
+20968496,no,no,no,no,no,no,no,no
+20862915,no,no,no,no,no,no,no,no
+20468644,white,white,white,white,white,white,white,white
+20631666,bat,bat,bat,bat,bat,bat,bat,bat
+20883250,no,no,no,no,no,no,no,no
+202144637,right side,right side,right side,right side,right side,right side,right side,right
+202231519,trash can,tree,tree,tree,tree,tree,tree,trash can
+201156303,boy,boy,boy,child,boy,boy,boy,boy
+20600137,rhino,rhino,rhino,rhinoceros,rhino,rhino,rhino,grass
+20752432,no,no,no,no,no,no,no,no
+202240287,no,no,no,no,no,no,no,no
+201883124,white,white,white,red,white,red,red,red
+201883056,no,no,no,no,no,no,no,no
+202161870,no,no,no,no,no,no,no,no
+201347376,boy,boy,boy,person,boy,boy,boy,boy
+20452237,couch,couch,couch,chair,couch,couch,couch,chair
+20733996,building,building,building,city,building,building,building,buildings
+201988072,sandwiches,sandwiches,sandwiches,sandwiches,sandwiches,sandwiches,sandwiches,sandwiches
+20543082,elephant,zoo,zoo,zoo,zoo,zoo,zoo,plant
+20394879,tuxedo,shirt,dress,tuxedo,dress,dress,tuxedo,suit
+201407268,white,white,white,white,white,white,white,orange
+202244266,sandwich,sandwich,tzatziki sauce,dip,tzatziki sauce,sandwich,ricotta,cookies
+201080033,no,no,no,no,no,no,no,no
+202144374,no,yes,yes,no,yes,yes,yes,no
+20149593,marble,marble,marble,marble,marble,marble,marble,porcelain
+20891632,he is sitting on bench,he is sitting on bench,he is sitting on bench,he is firefighter,he is sitting on bench,he is sitting on bench,he is sitting on bench,walking
+201959715,yes,yes,yes,no,yes,yes,yes,yes
+201504689,no,no,no,no,no,no,no,no
+202169091,parked cars,cars,cars,parked cars,cars,cars,cars,cars
+20753175,baby,baby,baby,baby,baby,baby,baby,child
+201641288,red light,street sign,street sign,traffic signal,street sign,street sign,street sign,street sign
+201998116,open,open,open,open,open,open,open,open
+202174587,no,no,no,no,no,no,no,yes
+20182864,umbrella,umbrella,umbrella,umbrella,umbrella,umbrella,umbrella,book
+20136474,no,no,no,no,no,no,no,no
+202125988,voids,chairs,unanswerable,unanswerable,chairs,chairs,unanswerable,chairs
+201751564,white,blue,blue,white,blue,white,white,blond
+201803701,no,no,no,no,no,no,no,no
+2053786,no,no,no,no,no,no,no,yes
+20896154,no,no,no,yes,no,no,no,no
+20963887,yes,yes,yes,yes,yes,yes,yes,no
+20178097,fries,fries,fries,burger and fries,fries,fries,fries,fries
+20715608,no,no,no,no,no,no,no,no
+201504740,surfboard,surfboard,surfboard,surfboard,surfboard,surfboard,surfboard,surfboard
+20963817,no,no,no,no,no,no,no,yes
+20226921,man,man,man,girl,man,man,man,people
+201873347,fire truck,fire truck,fire truck,fire truck,fire truck,fire truck,fire truck,fire truck
+201347405,boy,boy,boy,boy,boy,boy,boy,boy
+20479977,laptop,laptop,laptop,lap top,laptop,laptop,laptop,desk
+202162463,no,no,no,no,no,no,no,no
+20403173,no,no,no,no,no,no,no,yes
+201859716,no,no,no,no,no,no,no,no
+20508281,no,no,no,no,no,no,no,no
+2075931,no,no,no,no,no,no,no,yes
+201410973,no,no,no,no,no,no,no,no
+201206959,blue,blue,blue,blue,blue,blue,blue,blue
+20177871,no,no,no,no,no,no,no,yes
+201535661,dark brown,dark brown,dark brown,dark brown,dark brown,dark brown,dark brown,white
+201055656,blue,blue,blue,blue,blue,blue,blue,silver
+201798375,no,no,no,no,no,no,no,no
+20896617,stainless steel,wood,wood,stainless steel,wood,wood,wood,metal
+20300407,no,no,no,no,no,no,no,yes
+202040122,platform,platform,platform,platform,platform,platform,platform,platform
+20818791,yes,yes,yes,no,yes,yes,yes,yes
+20963662,sink,sink,sink,bathroom sink,sink,sink,sink,shelf
+202101231,right,right,right,right,right,right,right,left
+20896282,plastic,plastic,plastic,wood,plastic,plastic,plastic,plastic
+20492194,snowy blanket,snow,snow,snow,snow,snow,snow,snow
+201400167,no,no,no,no,no,no,no,no
+20472943,no,no,no,no,no,no,no,yes
+20573716,to right,to right,to right,to right,to right,to right,to right,right
+20550523,yes,yes,yes,yes,yes,yes,yes,yes
+202244204,cupcakes,cupcakes,cupcakes,cupcakes,cupcakes,cupcakes,cupcakes,desserts
+20896410,no,no,no,no,no,no,no,yes
+2091118,no,no,no,no,no,no,no,no
+201766006,white,white,white,white,white,white,white,brown
+20515124,fence,fence,fence,herd of sheep,fence,fence,fence,trees
+202226085,no,no,no,no,no,no,no,no
+201883195,bed,bed,bed,bed,bed,bed,bed,bed
+201536472,yes,yes,yes,yes,yes,yes,yes,yes
+201885430,diving into pool,he s diving into pool,he s diving into pool,he s diving into pool,he s diving into pool,he s diving into pool,he s diving into pool,jumping
+201482126,blanket,blanket,blanket,blanket,blanket,blanket,blanket,blanket
+201669708,no,no,no,yes,no,no,no,no
+20306985,ski chair,table,table,chair,table,table,chair,chair
+201864453,right,right,right,right,right,right,right,left
+201621549,no,no,no,no,no,no,no,no
+202161933,no,no,no,no,no,no,no,no
+2097555,keyboard,keyboard,keyboard,laptop,keyboard,keyboard,keyboard,keyboard
+20308094,no,no,no,no,no,no,no,no
+20435196,table,round table,round table,pizza box,round table,round table,round table,chair
+202266073,couch,couch,couch,couch,couch,couch,couch,couch
+201988067,sign,sign,sign,picture of bread and sandwiches,sign,sign,picture of bread and sandwiches,paper
+20514992,blue,blue,blue,blue,blue,blue,blue,blue
+201760659,white,white,white,white,white,white,white,brown
+20827017,sofa,sofa,sofa,kitchen counter,sofa,sofa,sofa,chair
+201987765,sandwiches,sandwiches,sandwiches,sandwiches,sandwiches,sandwiches,sandwiches,bread
+201770946,no,no,no,no,no,no,no,no
+202228416,cat,cat,cat,cat,cat,cat,cat,cat
+20716852,no,no,no,no,no,no,no,yes
+201760730,man,man,man,man,man,man,man,man
+201480345,no,no,no,no,no,no,no,yes
+201878388,yes,yes,yes,yes,yes,yes,yes,no
+2097936,glass,glass,glass,glass,glass,glass,glass,desk
+201737890,white shirt and blue pants,uniform,uniform,white baseball uniform,uniform,uniform,uniform,helmet
+20978741,motorcycle,motorcycle,motorcycle,motorcycle,motorcycle,motorcycle,motorcycle,motorcycle
+202147805,bed,sofa,sofa,chair,sofa,sofa,chair,chair
+20295390,no,no,no,yes,no,no,no,no
+20308121,bread,bread,cookies,cookies,cookies,cookies,cookies,bread
+202102614,cabinets,cabinets,cabinets,wooden cabinet washer dryer and sink,cabinets,cabinets,cabinets,cabinets
+201976752,no,no,no,no,no,no,no,no
+20385939,plastic,plastic,plastic,plastic,plastic,plastic,plastic,plastic
+201573989,people,people,people,people,people,people,people,people
+20210825,no,no,no,no,no,no,no,yes
+20149672,toilet,toilet,toilet,toilet,toilet,toilet,toilet,drawer
+20746527,tall,not enough information,not enough information,not enough information,not enough information,not enough information,not enough information,short
+201880490,full,full,full,full,full,full,full,full
+2017455,sheep,sheep,sheep,sheep,sheep,sheep,sheep,sheep
+20287518,open,closed,closed,closed,closed,closed,closed,closed
+20452101,yes,yes,yes,yes,yes,yes,yes,yes
+201640605,man,man,man,man,man,man,man,woman
+201738992,baseball,baseball,ball,ball,ball,ball,ball,ball
+20711546,teddy bear,teddy bear,teddy bear,teddy bear,teddy bear,teddy bear,teddy bear,teddy bear
+202180320,ball,ball,ball,ball,ball,ball,ball,ball
+20899217,yes,yes,yes,yes,yes,yes,yes,no
+20706050,yes,yes,yes,yes,yes,yes,yes,yes
+201480359,catcher,baseball player,baseball player,baseball player,baseball player,baseball player,baseball player,boy
+201322641,multicolored,multicolored,multicolored,multicolored,multicolored,multicolored,multicolored,blue
+202258128,closed,closed,closed,closed,closed,closed,closed,open
+20691792,washing machine,washer,washing machine,mirrors,washing machine,washer,washing machine,towel
+202285154,no,no,no,no,no,no,no,no
+20631706,no,no,no,no,no,no,no,no
+201952896,train,train,train,train,train,train,train,car
+201037178,woman,woman,woman,woman,woman,woman,woman,woman
+202012524,tv stand,tv stand,tv stand,tv stand,tv stand,tv stand,tv stand,cabinets
+202218892,pot,pot,pot,pot,pot,pot,pot,toaster
+201735547,desk,desk,desk,desk,desk,desk,desk,desk
+201207039,yes,no,no,no,no,no,no,no
+201264312,left side,right side,right side,right side,right side,right side,right side,left
+20518747,toilet,toilet,toilet,toilet paper holder,toilet,toilet,toilet paper holder,faucet
+20205093,laptop bag,laptop bag,laptop bag,laptop carrying bag,laptop bag,laptop bag,laptop bag,backpack
+20891690,boy,child,child,child,child,child,child,child
+201492498,no,no,no,no,no,no,no,no
+20451928,wood,wood,wood,wood,wood,wood,wood,wood
+202108035,small,not enough information,not enough information,small,not enough information,not enough information,not enough information,large
+201866743,no,no,no,no,no,no,no,yes
+201982138,man,man,man,man,man,man,man,guy
+2055924,double decker bus,bus,bus,double decker bus,bus,bus,double decker bus,bus
+202101162,man,man,man,man,man,man,man,man
+20911211,riding,riding,riding,riding,riding,riding,riding,skating
+20752413,no,yes,yes,yes,yes,yes,yes,no
+201498261,computer,computer,computer,keyboard,computer,computer,computer,computer
+20120396,no,no,no,no,no,no,no,no
+201983080,few inches,not enough information,not enough information,not enough information,not enough information,not enough information,as wide as men s legs,small
+201319541,woman,woman,woman,woman,woman,woman,woman,woman
+201765899,man,man,man,man,man,man,man,man
+201056263,group of people,soccer player,soccer player,soccer player with pink jersey,soccer player,soccer player,soccer player,people
+20320380,repairing motorcycle,repairing motorcycle,repairing motorcycle,repairing motorcycle,repairing motorcycle,repairing motorcycle,repairing motorcycle,bending
+20442230,no,no,no,no,no,no,no,no
+20285323,chair,round,round,chair,round,chair,round,square
+201974872,right side,right side,right side,right side,right side,right side,right side,left
+20667306,no,no,no,no,no,no,no,yes
+201556988,no,no,no,no,no,no,no,no
+20706152,computer,computer,computer,computer,computer,computer,computer,keyboard
+201997173,chair,chair,chair,chair,chair,chair,chair,chair
+20480227,bed,bed,bed,bookcase,bed,bed,bed,bookcase
+201235835,looking at bananas,looking at bananas,looking at bananas,looking at bananas,looking at bananas,looking at bananas,looking at bananas,bending
+201498762,monitor,monitor,monitor,monitor,monitor,monitor,monitor,keyboard
+20482298,blue,blue,blue,blue,blue,blue,blue,blue
+201498771,computer,computer,computer,computer,computer,computer,computer,cord
+20978739,motorcycle,motorcycle,motorcycle,motorcycle,motorcycle,motorcycle,motorcycle,motorcycle
+202100572,not enough information,not enough information,not enough information,not enough information,not enough information,not enough information,not enough information,large
+201491070,cows,cows,cows,cow,cows,cows,cows,cows
+20330177,5 8,he is taller than statue,he is taller than statue,tall,he is taller than statue,tall,he is taller than statue,short
+201444986,sign,sign,sign,sign,sign,sign,sign,bench
+202060045,couch,couch,couch,couch,couch,couch,couch,couch
+202161879,bed,bed,bed,bed,bed,bed,bed,bed
+20508383,small,small,small,small,small,small,small,small
+20790005,two people,two people,two people,two people,two people,two people,two people,man
+201576932,sheep,sheep,sheep,sheep,sheep,sheep,sheep,dog
+2056096,no,no,no,no,no,no,no,no
+202180330,girl,girl,girl,goalie,girl,girl,girl,boy
+201156262,young boy,boy,boy,young man,boy,boy,boy,boy
+201429108,no,no,no,no,no,no,no,no
+2097631,laptop,laptop,laptop,laptop,laptop,laptop,laptop,keyboard
+201064997,hamburger,hamburgers,hamburgers,hamburger,hamburgers,hamburgers,hamburgers,hamburger
+202244695,yes,no,no,no,no,no,no,yes
+20480465,cat,cat,cat,cat,cat,cat,cat,cat
+202262746,in park,in park,in park,in park,in park,in park,in park,park
+201576980,no,no,no,no,no,no,no,no
+201360709,toothbrush,toothbrush,toothbrush,toothbrush,toothbrush,toothbrush,toothbrush,cake
+2075239,no,no,no,yes,no,no,no,no
+201510593,no,no,no,no,no,no,no,no
+201462359,no,no,no,no,no,no,no,no
+202159012,yes,yes,yes,yes,yes,yes,yes,yes
+202081099,microwave,microwave,microwave,microwave,microwave,microwave,microwave,stove
+201556499,desk,desk,desk,desk,desk,desk,desk,chair
+20631990,very clean,not clean,it is clean,not clean,it is clean,not clean,not clean,dirty
+20982544,table,table,table,table,table,table,table,table
+20482240,no,no,no,no,no,no,no,no
+2076475,on right,on left,on left,on left,on left,on left,on left,right
+20673114,yes,yes,yes,yes,yes,yes,yes,yes
+202240950,shirt,glasses,glasses,blouse,glasses,glasses,shirt,sweater
+202040262,train,train,train,train,train,train,train,train
+20515865,no,no,no,no,no,no,no,no
+201873603,yes,yes,yes,yes,yes,yes,yes,yes
+2098117,it is small,it is small,it is small,it is small,it is small,it is small,it is small,large
+201492454,no,no,no,no,no,no,no,no
+20746556,birds,birds,birds,birds,birds,birds,birds,birds
+201885326,right side,right side,right side,right side,right side,right side,right side,right
+201735220,laptop,laptop,laptop,laptop,laptop,laptop,laptop,books
+20856865,no,no,no,no,no,no,no,yes
+201639129,giraffes,giraffe,giraffe,giraffes,giraffe,giraffe,giraffe,tree
+202012559,bookcase,bookcase,bookcase,bookcase,bookcase,bookcase,bookcase,cabinet
+20307050,snowboard,snowboard,snowboard,snowboard,snowboard,snowboard,snowboard,table
+201509813,trailer,street,brick path,brick path,brick path,brick path,brick path,roof
+20468600,right side,right side,right side,right side,right side,right side,right side,left
+201758587,it is small,it is small,it is small,it is small,it is small,it is small,it is small,small
+20489464,laying on bed,laying down,laying down,he is sleeping,laying down,laying down,laying down,sleeping
+2059600,umpire,umpire,umpire,umpire,umpire,umpire,umpire,batter
+201760535,chair,chair,chair,chair,chair,chair,chair,chair
+202081846,yes,yes,yes,yes,yes,yes,yes,yes
+201322631,right,right,right,right,right,right,right,left
+20177541,no,no,no,no,no,no,no,yes
+20442212,refrigerator,it is refrigerator,refrigerator,it is refrigerator,refrigerator,it is refrigerator,it is refrigerator,small
+201982135,yes,yes,yes,yes,yes,yes,yes,yes
+202081877,desk,desk,desk,desk,desk,desk,desk,table
+2017336,goat,goat,goat,goat,goat,goat,goat,calf
+202006421,5 feet,chair is at same height as table,chair is at same height as table,it is same height as table,chair is at same height as table,chair is at same height as table,it is below table,short
+20177485,no,no,no,no,no,no,no,no
+201896109,right,right,right,right,right,right,right,right
+201429105,rectangular,square,square,rectangle,square,square,rectangle,rectangular
+201624182,pan,pan,pan,pan,pan,pan,pan,spatula
+2091013,blue,blue,blue,blue,blue,blue,blue,yellow
+20468429,long pipe,long pipe,not enough information,long pipe,not enough information,long pipe,not enough information,small
+201247119,no,no,no,no,no,no,no,no
+201064974,to right,to right,to right,to right,to right,to right,to right,right
+20711536,stuffed bear,stuffed bear,stuffed bear,stuffed bear,stuffed bear,stuffed bear,stuffed bear,stuffed bear
+20863451,no,no,no,no,no,no,no,no
+201974935,no,no,no,no,no,no,no,no
+202053469,field,field,field,outfield,field,field,field,dirt
+20667515,couch,sofa,sofa,sofa,sofa,sofa,sofa,coffee table
+201175142,cap,cap,cap,cap,cap,cap,cap,cap
+201207498,sandwich,sandwich,sandwich,sandwich,sandwich,sandwich,sandwich,hamburger
+202037130,yes,yes,yes,yes,yes,yes,yes,yes
+201153284,giraffe,giraffe,giraffe,giraffe,giraffe,giraffe,giraffe,tree
+20716955,bed,bed,bed,lamp,bed,bed,bed,bed
+201455937,stop sign,stop sign,stop sign,stop sign,stop sign,stop sign,stop sign,mountain
+201153290,man,man,man,man,man,man,man,man
+20567537,yes,yes,yes,yes,yes,yes,yes,yes
+20299841,jet ski,jet ski,jet ski,plane,jet ski,jet ski,jet ski,sailboat
+201624101,woman,woman,woman,girl,woman,woman,woman,man
+20661435,bus,bus,bus,bus,bus,bus,bus,bus
+201763582,they are both in room,they are in room,they are in room,they are in room,they are in room,they are in room,they are in room,material
+201738860,yes,yes,yes,no,yes,yes,yes,no
+20442334,grapes,grapes,grapes,grapes,grapes,grapes,grapes,bananas
+202218839,pan,pan,pan,pan,pan,pan,pan,spatula
+20891599,white,white,white,white,white,white,white,gray
+20317034,no,yes,yes,yes,yes,yes,yes,no
+20434789,in middle of table,in middle of table,in middle of table,in corner,in middle of table,in corner,in middle of table,office
+20381364,desk,desk,desk,desk,desk,desk,desk,chair
+20480010,small,large,large,small,large,small,large,large
+20611956,no,no,no,no,no,no,no,no
+201346713,it is hard,not enough information,not enough information,not enough information,not enough information,not enough information,not enough information,soft
+201663386,yes,yes,yes,yes,yes,yes,yes,yes
+201570768,bottom,bottom,bottom,bottom,bottom,bottom,bottom,top
+201109256,car,car,car,house,car,car,car,car
+20896403,bar stools,stool,stool,stools,stool,stool,chairs,chair
+201866664,on street,next to stop sign,on left side,beside stop sign,on left side,beside stop sign,beside stop sign,street
+20295376,bed,bed,bed,bed,bed,bed,bed,book
+20394865,wedding dress,wedding dress,wedding dress,wedding dress,wedding dress,wedding dress,wedding dress,dress
+201574486,brown,brown,brown,brown,brown,brown,brown,green
+202100830,yes,yes,yes,yes,yes,yes,yes,yes
+201227912,silver,silver,silver,unanswerable,silver,silver,silver,black
+201671739,no,no,no,no,no,no,no,no
+20211055,no,no,no,no,no,no,no,no
+202144524,red,red,red,red,red,red,red,brown
+20853964,men,soccer team,soccer team,people,soccer team,soccer team,soccer team,men
+201763889,no,no,no,no,no,no,no,no
+201739152,red,red,red,red,red,red,red,orange
+20753413,right side,right side,right side,right side,right side,right side,right side,left
+201595976,it is small,not enough information,not enough information,not enough information,not enough information,not enough information,not enough information,large
+20783237,man,man,man,man,man,man,man,drink
+20342293,yes,yes,yes,yes,yes,yes,yes,yes
+20939977,no,no,no,no,no,no,no,no
+201037271,fire hydrant,fire hydrant,fire hydrant,fire hydrant,fire hydrant,fire hydrant,fire hydrant,fire hydrant
+202082279,computer,computer,computer,computer,computer,computer,computer,laptop
+20783053,no,no,no,no,no,no,no,yes
+201974785,female,female,female,female,female,female,female,female
+20754624,watching skateboarder,watching,watching,watching,watching,watching,tying up skateboard,standing
+202012396,right side,right side,right side,other side,right side,right side,right side,right
+20306747,snowboard,snowboard,snowboard,snowboard,snowboard,snowboard,snowboard,camera
+201623758,to left,to left,to left,to right,to left,to left,to left,right
+202003814,desk,desk,desk,desk,desk,desk,desk,desk
+20157102,pancakes,pancakes,pancakes,pancakes,pancakes,pancakes,pancakes,pancakes
+20226388,no,no,no,no,no,no,no,yes
+201735249,no,no,no,no,no,no,no,no
+202060059,sofa,couch,couch,couch,couch,couch,couch,couch
+20794295,bottle of peanut butter,spoon,spoon,bottle of peanut butter,spoon,bottle of peanut butter,bottle of peanut butter,brush
+20781863,no,no,no,no,no,no,no,no
+20818946,gray,gray,gray,gray,gray,gray,gray,red
+201669557,table,table,table,table,table,table,table,table
+20416812,pizza,pizza,pizza,pizza,pizza,pizza,pizza,pizza
+201428519,5 8,not enough information,not enough information,tall,not enough information,not enough information,not enough information,tall
+201593738,chain link,metal,metal,chain link,metal,metal,chain link,metal
+20668069,hard,hard,hard,hard,hard,hard,table,table
+2066047,baseball mitt,baseball mitt,baseball mitt,baseball mitt,baseball mitt,baseball mitt,baseball mitt,glove
+20879086,no,no,no,no,no,no,no,yes
+201498713,yes,yes,yes,yes,yes,yes,yes,no
+202285056,yellow,yellow,yellow,yellow,yellow,yellow,yellow,yellow
+20647422,baseball,baseball,baseball,baseball,baseball,baseball,baseball,ball
+201065556,no,no,no,no,no,no,no,yes
+20631953,catcher,catcher,catcher,catcher,catcher,catcher,catcher,player
+201404023,no,no,no,no,no,no,no,yes
+20177722,no,no,no,no,no,no,no,no
+20866459,jeans,jeans,jeans,jeans,jeans,jeans,jeans,jeans
+20162321,boys,boy,boy,young man and boy,boy,boy,boy,boy
+20340565,no,yes,yes,no,yes,yes,no,yes
+202060004,christmas tree,christmas tree,christmas tree,christmas tree,christmas tree,christmas tree,christmas tree,table
+2046594,yes,yes,yes,no,yes,yes,yes,no
+20480494,yes,yes,yes,yes,yes,yes,yes,yes
+202156673,elephant,elephants,elephants,giraffe,elephants,elephants,elephants,elephant
+201704559,no,no,no,no,no,no,no,no
+201206870,blue,blue,blue,white,blue,blue,blue,white
+20978599,no,no,no,no,no,no,no,no
+2075670,no,no,no,no,no,no,no,no
+20936136,no,no,no,no,no,no,no,no
+201621810,no,no,no,no,no,no,no,yes
+201641286,traffic light,sign,sign,sign,sign,sign,traffic light,street sign
+201959618,no,no,no,no,no,no,no,yes
+201889363,skis,snowboard,skis,skis,snowboard,snowboard,skis,skis
+20480553,no,no,no,no,no,no,no,no
+202080913,they are both electrical,they are both electrical,they are both electrical,they are both electrical,they are both electrical,they are both electrical,they are both electrical,color
+202218894,pot,pot,pot,pot,pot,pot,pot,toaster
+20427560,black,black,black,black,black,black,black,black
+2062379,no,no,no,no,no,no,no,no
+201737756,no,no,no,no,no,no,no,no
+20149767,no,no,no,no,no,no,no,yes
+20827393,bar stools,kitchen table,bar stools,bar,bar stools,bar stools,bar stools,couch
+201639249,in car,in background,in background,in car,in background,in background,behind trees,carriage
+20645648,white,green,white,green,white,green,white,white
+202226142,no,no,no,no,no,no,no,no
+202021472,red,red,red,no color,red,red,red,red
+20711564,no,no,no,no,no,no,no,no
+201175686,yes,yes,yes,yes,yes,yes,yes,no
+201997000,boy,boy,boy,boy,boy,boy,boy,man
+20452255,blue,blue,blue,blue,blue,blue,blue,blue
+20306456,posing for photo,posing,posing,posing for photo,posing,posing,posing,standing
+201404045,cows,cows,cows,cows,cows,cows,cows,cows
+202246359,desk,desk,desk,desk,desk,desk,desk,desk
+20794117,no,no,no,no,no,no,no,no
+202012618,three,tall,tall,tall,tall,tall,tall,tall
+201751739,white,white,white,blue,white,white,white,blond
+20262516,field,field,field,field,field,field,field,grass
+20611724,plate of food,burger,none,burger,none,none,none,fruit
+202147698,shorts,shorts,shorts,shorts,shorts,shorts,shorts,shirt
+202284789,waffles,waffles,waffles,waffles,waffles,waffles,waffles,egg
+20118121,white,white,white,white,white,white,white,brown
+20942883,girls,girls,girls,girl in red,girls,girls,girls,girl
+20226787,table,plate,plate,plate,plate,plate,plate,table
+201889466,no,no,no,no,no,no,no,yes
+201713415,mirror,mirror,mirror,mirror,mirror,mirror,mirror,mirror
+201987565,plastic,plastic,plastic,plastic,plastic,plastic,plastic,plastic
+201621803,black,black,black,black,black,black,black,gray
+202162548,bed,bed,bed,bed,bed,bed,bed,bed
+201153283,giraffe,giraffe,giraffe,giraffe,giraffe,giraffe,giraffe,tree
+20416735,brown,brown,brown,brown,brown,brown,brown,brown
+201859225,yes,yes,yes,yes,yes,yes,yes,no
+201663059,brown,brown,brown,brown,brown,brown,brown,brown
+201347351,yes,yes,yes,yes,yes,yes,yes,yes
+2046712,right side,right side,right side,right side,right side,right side,right side,left
+20489478,bed,bed,bed,bed,bed,bed,bed,bed
+201228177,square,square,square,rectangular,square,square,square,round
+20573778,toilet,toilet,toilet,toilet,toilet,toilet,toilet,cabinet
+202179405,no,no,no,yes,no,no,no,yes
+20637165,stainless steel,stainless steel,stainless steel,stainless steel,stainless steel,stainless steel,stainless steel,stainless steel
+201751695,right,right,right,right,right,right,right,right
+20162327,pitcher,boy,boy,boy,boy,boy,boy,boy
+20456357,teddy bear,teddy bear,teddy bear,teddy bear,teddy bear,teddy bear,teddy bear,desk
+201412341,no,no,no,no,no,no,no,yes
+202040263,in station,in station,in station,in station,in station,in station,in station,station
+20468762,fence,fence,fence,trees,fence,fence,fence,trees
+20883257,tan,tan,tan,tan,tan,tan,tan,blue
+20320453,it is motorcycle,it is motorcycle,it is motorcycle,it is motorcycle,it is motorcycle,it is motorcycle,it is motorcycle,small
+201497845,computer,computer,computer,computer monitor,computer,computer,computer,monitor
+20452182,flowers,flowers,flowers,flowers,flowers,flowers,flowers,flowers
+201711229,it is soft,it is not hard,it is not hard,it is soft,it is not hard,it is not hard,it is not hard,soft
+201760639,in grass,in grass,in grass,in grass,in grass,in grass,in grass,grass
+20385794,cloth,cloth,cloth,cloth,cloth,cloth,cloth,leather
+20631682,catcher,catcher,catcher,catcher,catcher,catcher,catcher,catcher
+20317086,no,yes,yes,yes,yes,yes,yes,no
+201536418,yes,no,no,no,no,no,no,no
+201444978,no parking sign,no parking sign,no parking sign,no parking,no parking sign,no parking sign,no parking sign,street sign
+202262665,right side,right side,right side,right side,right side,right side,right side,right
+202049400,yes,yes,yes,yes,yes,yes,yes,yes
+20600269,rhino,elephant,elephant,rhinoceros,elephant,elephant,rhino,rock
+202100901,stove,stove,stove,stove,stove,stove,stove,stove
+20119207,right side,right side,right side,right side,right side,right side,right side,right
+202120029,wood,wood,wood,wood,wood,wood,wood,metal
+20654949,no,no,no,no,no,no,no,no
+201972923,no,no,no,no,no,no,no,no
+20652462,girl,girl,girl,girl,girl,girl,girl,girl
+202101167,two people,two boys,two boys,two boys,two boys,two boys,two boys,boy
+20982321,no,no,no,no,no,no,no,no
+202265875,bottom,bottom,bottom,bottom,bottom,bottom,bottom,top
+201997016,boy,boy,boy,boy,boy,boy,boy,man
+201983860,to right,to right,to right,to right,to right,to right,to right,right
+201430866,dresser,dresser,dresser,dresser,dresser,dresser,dresser,counter
+20287836,helmet,helmet,helmet,baseball cap,helmet,helmet,helmet,pants
+201412259,man,person,person,man,person,person,person,people
+20468821,horse,horse,horse,horse,horse,horse,horse,car
+201796080,woman,man,woman,woman,woman,man,woman,woman
+201438604,swinging bat,swinging his bat,swinging his bat,swinging at baseball,swinging his bat,swinging his bat,swinging his bat,playing
+20551568,yes,yes,yes,yes,yes,yes,yes,yes
+201047394,no,no,no,no,no,no,no,no
+20480129,to right,to right,to right,to left,to right,to left,to left,right
+20468326,horse show,horse show,horse show,horse show,horse show,horse show,horse show,field
+201974536,they are both black,they are both black,they are both black,they are both black,they are both black,they are both black,they are both black,color
+201885312,rectangular,rectangular,rectangular,rectangular,rectangular,rectangular,rectangular,rectangular
+20621909,no,no,no,no,no,no,no,no
+201641287,traffic light,traffic light,traffic light,stop sign,traffic light,traffic light,traffic light,street sign
+20468529,yes,yes,yes,yes,yes,yes,yes,yes
+201047489,blue,shirt,shirt,blue,shirt,shirt,shirt,shirt
+201153620,man,man,man,man,man,man,man,man
+20503763,no,no,no,no,no,no,no,no
+20411861,hot dogs,hot dogs,hot dogs,hot dogs,hot dogs,hot dogs,hot dogs,carrots
+20954212,no,no,no,no,no,no,no,no
+201739241,red,red,red,red,red,red,red,red
+20491939,bear,bear,bear,bear,bear,bear,bear,bear
+201880417,no,no,no,no,no,no,no,no
+20827553,bar stools,barstools,bar stools,bar stools,bar stools,bar stools,bar stools,bar stool
+20794299,no,no,no,no,no,no,no,no
+2076564,bus,bus,bus,bus,bus,bus,bus,chimney
+201798367,no,no,no,no,no,no,no,no
+202036953,pizza,pizza,pizza,pizza,pizza,pizza,pizza,pepper
+201909086,yes,no,no,no,no,no,no,no
+20836823,no,no,no,no,no,no,no,no
+2017448,yes,yes,yes,no,yes,no,yes,no
+202246054,no,no,no,no,no,no,no,yes
+202060144,yes,yes,yes,yes,yes,yes,yes,yes
+201804720,white,white,white,white,white,white,white,silver
+201983045,no,no,no,no,no,no,no,yes
+201982967,wood,wood,wood,wood,wood,wood,wood,wood
+20752339,bathroom cabinet,cabinet,cabinet,bathroom,cabinet,cabinet,cabinet,cabinet
+20183336,no,no,no,no,no,no,no,yes
+20395105,tables,tables,tables,tables,tables,tables,tables,yes
+202133604,no,no,no,no,no,no,no,no
+20171217,on right,on left,on left,on left,on left,on left,on left,right
+20162357,no,no,no,no,no,no,no,yes
+20508746,wooden,couch,couch,wooden table,couch,couch,couch,chair
+20491764,yes,no,no,no,no,no,no,no
+201822409,white,white,white,white,white,white,white,plastic
+201976532,no,no,no,no,no,no,no,no
+201763916,mirror,mirror,mirror,mirror,mirror,mirror,mirror,water
+202218508,no,no,no,no,no,no,no,no
+20403337,yes,no,no,yes,no,no,no,no
+202169115,cobblestone,stone,stone,stone,stone,stone,stone,stone
+201676186,couch,couch,sofa,couch,sofa,couch,couch,table
+20211012,no,no,no,yes,no,no,no,yes
+201347368,riding,riding,riding,riding,riding,riding,riding,skating
+20308196,wall,wall,wall,wall,wall,cabinet,wall,ceiling
+20511449,helicopter,helicopter,helicopter,helicopter,helicopter,helicopter,helicopter,helicopter
+201068428,girl,girl,girl,girl,girl,girl,girl,child
+20722042,toilet,toilet,toilet,toilet,toilet,toilet,toilet,fire hydrant
+20786154,water hose,game,game,water fountain,game,game,game,water
+20308813,yes,yes,yes,yes,yes,yes,yes,no
+20120553,tennis court,tennis court,tennis court,girl playing tennis,tennis court,tennis court,tennis court,tree
+20308872,silver,silver,silver,silver,silver,silver,silver,silver
+2066032,baseball glove,baseball glove,baseball glove,baseball glove,baseball glove,baseball glove,baseball glove,sweater
+20706049,computer keyboard,computer monitor,computer monitor,mug,computer monitor,computer monitor,computer monitor,keyboard
+2058421,no,no,no,no,no,no,no,no
+20248000,bench,bench,bench,bench,bench,bench,bench,bench
+201896084,no,no,no,no,no,no,no,no
+20258686,chair,chair,chair,chair,chair,chair,chair,chair
+202023544,it is small,it is small,it is small,it is small,it is small,it is small,it is small,large
+201983707,glass door,door,glass door,glass door,glass door,glass door,glass door,glass
+20244663,bus,bus,bus,bus,bus,bus,bus,bus
+201481607,yes,yes,yes,yes,yes,yes,yes,no
+20162317,pitcher,boy,boy,young boy,boy,boy,boy,boy
+201976898,best of best,best of best,sign on street below motorcycle is called,sign on street below motorcycle is called,sign on street below motorcycle is called,bbq,sign on street below motorcycle is called,street sign
+202228689,no,no,yes,no,yes,no,no,yes
+201920448,no,no,no,no,no,no,no,no
+202243659,no,no,no,no,no,no,no,yes
+202240734,white shirt,white shirt,white shirt,white shirt,white shirt,white shirt,white shirt,shirt
+20157336,yes,yes,yes,yes,yes,yes,yes,yes
+20342383,bus,bus,bus,bus,bus,bus,bus,bus
+201319581,pizza,pizza,pizza,pizza,pizza,pizza,pizza,salad
+201079794,it is small,it is small,it is small,it is small,it is small,it is small,it is small,small
+20149668,copper,metal,metal,copper,metal,copper,iron,plastic
+201765991,tree,trees,tree,tree roots,tree,trees,tree roots,tree
+201662987,no,no,no,no,no,no,no,no
+202102832,washer and dryer,sink,washer and dryer,washer and dryer,washer and dryer,sink,sink,dishwasher
+20441860,no,no,no,no,no,no,no,yes
+201404251,cow,cow,cow,cow,cow,cow,cow,cow
+202156871,dry,dry,dry,dry,dry,dry,dry,dry
+201438721,baseball glove,it is baseball glove,not enough information,it is baseball glove,it is baseball glove,it is baseball glove,not enough information,large
+202024715,park,park,park,park,park,park,park,park
+202081480,no,no,no,no,no,no,no,yes
+201185707,no,no,no,no,no,no,no,no
+20456416,no,no,no,no,no,no,no,no
+201641197,crossing street,crossing street,crossing street,crossing street,crossing street,crossing street,crossing street,skating
+20836314,yes,yes,yes,yes,yes,yes,yes,yes
+20427892,heart,square,square,square,square,square,square,rectangular
+20939898,no,no,no,no,no,no,no,yes
+202258138,plastic,plastic,plastic,plastic,plastic,plastic,plastic,cloth
+201621310,no,no,no,no,no,no,no,no
+20710321,no,no,no,no,no,no,no,yes
+20879072,no,no,no,no,no,no,no,yes
+202081023,toy house,toy house,toy house,toy house,toy house,toy house,toy house,microwave
+201759150,no,no,no,no,no,no,no,no
+202223369,playing,playing,playing,playing,playing,playing,playing,playing
+20899611,wet,wet,wet,dry,wet,wet,wet,dry
+201342403,no,no,no,no,no,no,no,no
+20865360,yes,no,yes,no,yes,no,no,no
+202258443,wood,wood,wood,wood,wood,wood,wood,wood
+201528095,no,no,no,no,no,no,no,no
+201959685,no,no,no,no,no,no,no,no
+201822333,toilet,toilet,toilet,toilet,toilet,toilet,toilet,mat
+20692027,no,no,no,no,no,no,no,no
+202223189,man,man,man,man,man,man,man,woman
+201393567,man,man in white shirt,man,man in white jeans,man,man in white shirt,man,man
+20656922,street sign,street sign,street sign,traffic light,street sign,street sign,street sign,bush
+201663745,cabinets,cabinets,cabinets,cabinets,cabinets,cabinets,cabinets,cabinets
+20596493,no,no,no,no,no,no,no,no
+20891634,sitting on bench,sitting on bench,sitting on bench,sitting on bench,sitting on bench,sitting on bench,sitting on bench,walking
+20210930,square,pie,pie,cake,pie,pie,pie,square
+20120559,behind,behind,behind,behind,behind,behind,behind,front
+2075475,giraffe,giraffe,giraffe,deer,giraffe,giraffe,giraffe,deer
+201153042,no,no,no,no,no,no,no,yes
+20340887,brick,brick,brick,brick,brick,brick,brick,brick
+20508584,yes,yes,yes,no,yes,yes,no,no
+201444996,sign,sign,sign,pole with signs and string,sign,sign,sign,rock
+201616220,yes,yes,yes,yes,yes,yes,yes,yes
+201064665,no,no,no,no,no,no,no,no
+201593499,rocky,rocky,rocky,rocky,rocky,rocky,rocky,grassy
+201185896,frisbee,frisbee,frisbee,frisbee,frisbee,frisbee,frisbee,frisbee
+20655070,yes,no,yes,yes,yes,no,no,yes
+20473057,boy,boy,boy,child,boy,boy,boy,boy
+20162430,rectangular,rectangular,rectangular,rectangular,rectangular,rectangular,rectangular,rectangular
+202156891,elephants,elephants,elephants,elephants,elephants,elephants,elephants,elephants
+20721892,purple,purple,purple,pink,purple,purple,purple,pink
+2097987,yes,yes,yes,no,yes,yes,yes,no
+20169578,yes,yes,yes,yes,yes,yes,yes,yes
+201624134,pan,pan,pan,pan,pan,pan,pan,spatula
+20887044,no,no,no,no,no,no,no,no
+20118949,yes,yes,yes,yes,yes,yes,yes,no
+201430835,right side,right side,right side,right side,right side,right side,right side,right
+20480330,laptop,laptop,laptop,laptop,laptop,laptop,laptop,shelf
+20667500,couch,couch,couch,couch,couch,couch,couch,couch
+201896532,woman,woman,woman,older woman,woman,woman,woman,woman
+202126120,tennis court,tennis court,tennis court,crowd,tennis court,tennis court,tennis court,wall
+201984101,her cell phone,cell phone,cell phone,smart phone,cell phone,her phone,her phone,cell phone
+20381422,right side,right side,right side,right side,right side,right side,right side,left
+201947744,mirror,mirror,mirror,mirror,mirror,mirror,mirror,sink
+202208360,no,no,no,no,no,no,no,yes
+201951567,yes,yes,yes,yes,yes,yes,yes,no
+201984106,woman,woman,woman,woman,woman,woman,woman,woman
+202005709,no,no,no,no,no,no,no,no
+2093835,no,no,no,no,no,no,no,no
+201878429,seat,seat,bench,seat,bench,seat,bench,window
+201621776,no,no,no,no,no,no,no,no
+201065138,yes,yes,yes,yes,yes,yes,yes,yes
+20515053,sheep,sheep,sheep,sheep,sheep,sheep,sheep,zebra
+201996560,no,no,no,no,no,no,no,no
+201735420,chicken,chicken,chicken,chicken,chicken,chicken,chicken,cat
+201391961,couch,couch,couch,couch,couch,couch,couch,couch
+201639549,giraffes,giraffes,giraffes,giraffes,giraffes,giraffes,giraffes,giraffes
+201065548,yes,yes,yes,yes,yes,yes,yes,yes
+20306961,chair,chair,chair,chair,chair,chair,chair,chair
+20306250,no,no,no,no,no,no,no,yes
+202100414,no,no,no,no,no,no,no,no
+201654658,horse,horse,horse,horse,horse,horse,horse,horses
+202228579,no,no,no,no,no,no,no,yes
+20385417,yes,no,no,no,no,no,no,yes
+201110828,cake,cake,cake,cake,cake,cake,cake,glass
+201889247,no,no,no,no,no,no,no,no
+202081340,microwave,microwave,microwave,microwave,microwave,microwave,microwave,mirror
+201873004,fire truck,fire truck,fire truck,fire truck,fire truck,fire truck,fire truck,car
+20865427,yes,yes,yes,yes,yes,yes,yes,yes
+201756491,they are yellow,they are yellow,they are yellow,they are yellow,they are yellow,they are yellow,they are yellow,color
+201481737,no,no,no,no,no,no,no,no
+201056055,men,men,men,group of people,men,men,men,people
+202246541,desk,desk,desk,desk,desk,desk,desk,desk
+202125893,crowd,crowd,crowd,crowd,crowd,crowd,crowd,man
+201735337,on right,on right,on right,on right,on right,on right,on right,left
+201322573,bus,bus,bus,tour bus,bus,bus,bus,bus
+20899609,no,no,no,no,no,no,no,yes
+201982950,brown,brown,brown,brown,brown,brown,brown,brown
+20171139,pie plate,pan,pan,plate,pan,pan,pan,clock
+20361313,no,no,no,yes,no,no,no,no
+201481465,running,running,running,sitting,running,running,sitting,sitting
+20262749,no,no,no,no,no,no,no,no
+202228667,right side,right side,right side,left side,right side,left side,left side,left
+201064996,hamburger,hamburger,hamburger,hamburger,hamburger,hamburger,hamburger,hamburger
+201639261,giraffes,giraffes,giraffes,horse,giraffes,giraffes,giraffes,zebras
+20883270,old,old,old,new,old,old,old,new
+201391877,couch,couch,couch,sofa bed,couch,couch,couch,couch
+20287929,no,no,no,no,no,no,no,no
+20968348,no,no,no,no,no,no,no,yes
+202244123,yes,yes,yes,yes,yes,yes,yes,yes
+201153598,man,tree,man,man,man,man,man,trees
+20754730,no,no,no,no,no,no,no,no
+20891295,yes,yes,yes,no,yes,yes,yes,no
+20157256,no,no,no,yes,no,no,no,no
+202169108,it is narrow,it is narrow,it is narrow,it is narrow,it is narrow,it is narrow,it is narrow,narrow
+20878989,person,person,person,person riding his skateboard,person,person,person,man
+20710202,yes,yes,yes,yes,yes,yes,yes,yes
+20308272,yes,yes,yes,yes,yes,yes,yes,yes
+201590123,frisbee,frisbee,frisbee,frisbee,frisbee,frisbee,frisbee,frisbee
+20320241,yes,no,no,no,no,no,no,no
+20183295,blue,white,white,blue,white,white,white,gray
+20929384,yes,yes,yes,yes,yes,yes,yes,yes
+20171188,pie plate,pie plate,pie plate,paper plate,pie plate,pie plate,pie plate,spatula
+201983686,wide,not enough information,not enough information,not enough information,not enough information,not enough information,not enough information,wide
+201037065,stop sign,triangle,stop sign,fire hydrant,stop sign,triangle,stop sign,square
+20412044,hot dogs,hot dogs,hot dogs,hot dogs,hot dogs,hot dogs,hot dogs,eggs
+20724203,person,person,snowboarder,person skiing,person,person,snowboarder,man
+202257414,no,no,no,no,no,no,no,no
+201509729,motorcycle,motorcycle,motorcycle,motorcycle,motorcycle,motorcycle,motorcycle,motorcycle
+201713299,no,no,no,no,no,no,no,yes
+20285347,no,no,no,yes,no,no,no,yes
+201504956,yes,yes,yes,yes,yes,yes,yes,yes
+20631888,catcher,catcher,catcher,batter and catcher,catcher,catcher,catcher,catcher
+20259043,closed,open,open,closed,open,open,open,open
+20857105,right,right,right,right,right,right,right,left
+202265827,no,no,no,no,no,no,no,no
+20169952,no,no,no,no,no,no,no,no
+201640444,blue,blue,blue,blue,blue,blue,blue,silver
+201982709,sitting,sitting,sitting,sitting,sitting,sitting,sitting,sitting
+202006685,no,no,no,no,no,no,no,yes
+201713275,mirror,mirror,mirror,mirror,mirror,mirror,mirror,color
+20588998,black,black,black,black,black,black,black,black
+201997571,chairs,chairs,chairs,chairs,chairs,chairs,chairs,chairs
+201411190,no,no,no,no,no,no,no,no
+2044513,reading,reading,reading,reading,reading,reading,reading,reading
+202042043,police officer,police officer,police officer,police officer,police officer,police officer,police officer,man
+20567702,no,not enough information,not enough information,not enough information,not enough information,not enough information,not enough information,small
+202081979,white,white,white,white,white,white,white,brown
+201623329,no,yes,yes,no,yes,yes,yes,yes
+202286718,teddy bear,teddy bear,teddy bear,teddy bear,teddy bear,teddy bear,teddy bear,bears
+201908969,bottom,bottom,bottom,in top,bottom,bottom,bottom,top
+20144767,no,no,no,no,no,no,no,no
+202125966,short sleeved,short sleeved,short sleeved,short sleeved,short sleeved,short sleeved,short sleeved,short sleeved
+20692443,no,no,no,no,no,no,no,no
+20618836,three people,three people,three people,boy,three people,three people,three young girls,people
+201399878,yes,yes,yes,yes,yes,yes,yes,no
+201976944,to right,to right,to right,to right,to right,to right,to right,right
+20411855,apples,hot dogs,hot dogs,hot dogs,hot dogs,hot dogs,hot dogs,carrots
+201951631,yes,yes,yes,yes,yes,yes,yes,yes
+201896544,woman,woman,woman,old lady,woman,woman,woman,woman
+202243579,right side,right side,right side,right side,right side,right side,right side,right
+201896515,woman,woman,woman,woman,woman,woman,woman,woman
+20753702,yes,yes,yes,yes,yes,yes,yes,no
+202285236,eggs beans and toast,eggs,eggs,eggs,eggs,eggs,eggs,sausage
+20211095,no,no,no,no,no,no,no,yes
+20652299,no,no,no,no,no,no,no,yes
+201599882,no,no,no,no,no,no,no,yes
+201155986,no,no,no,yes,no,no,no,no
+20468367,no,no,no,no,no,no,no,yes
+201404047,cows,cow,cow,cows,cow,cows,cows,cow
+20518674,yes,yes,yes,yes,yes,yes,yes,yes
+201574090,red double decker bus,bus,bus,bus,bus,bus,bus,tree
+20381409,no,no,no,no,no,no,no,no
+20899909,no,no,no,no,no,no,no,no
+201548970,no,no,no,no,no,no,no,no
+201346531,motorcycle,motorcycle,motorcycle,motorcycle,motorcycle,motorcycle,motorcycle,car
+20511704,ocean,ocean,ocean,ocean,ocean,ocean,ocean,ocean
+20492040,bears,bears,bears,bears,bears,bears,bears,bears
+202162622,bed,bed,bed,bed,bed,bed,bed,chair
+201319583,plate,plate,plate,plate,plate,plate,plate,saucer
+20668132,cloth,cloth,cloth,cloth,cloth,cloth,cloth,cloth
+201878369,red jacket,red jacket,red jacket,red jacket,red jacket,red jacket,red jacket,sweater
+201798487,plastic,plastic,plastic,plastic,plastic,plastic,plastic,plastic
+20896207,yes,yes,yes,no,yes,yes,yes,no
+201504952,surfboard,surfboard,surfboard,surfboard,surfboard,surfboard,surfboard,surfboard
+20287517,yes,yes,yes,yes,yes,yes,yes,no
+20962326,no,no,no,no,no,no,no,no
+201430779,white shirt and tie,white shirt and tie,white shirt and tie,white tuxedo,white shirt and tie,white shirt and tie,white shirt and tie,tie
+201030358,spacecraft,spacecraft,spacecraft,spacecraft,spacecraft,spacecraft,spacecraft,controller
+201342325,no,no,no,yes,no,no,no,yes
+20856948,bed,bed,bed,bed,bed,bed,bed,bed
+202110114,sheep,sheep,sheep,cattle,sheep,sheep,sheep,sheep
+201185346,woman,woman,woman,woman with umbrella,woman,woman,umbrella,fence
+20667642,couch,coffee table,coffee table,remote control,coffee table,coffee table,coffee table,coffee table
+202036755,black,black,black,black,black,black,black,white
+20746563,birds,birds,birds,birds,birds,birds,birds,birds
+20621837,no,no,no,no,no,no,no,yes
+20171080,blue,blue,blue,blue,blue,blue,blue,yellow
+201935883,bottom,bottom,bottom,bottom,bottom,bottom,bottom,bottom
+20551694,red,red,red,red,red,red,red,black
+201599835,bottom,bottom,bottom,bottom,bottom,bottom,bottom,top
+20857077,bed,bed,bed,bed,bed,bed,bed,bed
+201455974,stop sign,stop sign,stop sign,stop sign,stop sign,stop sign,stop sign,mountain
+20621824,old,old,old,old,old,old,old,new
+20756805,yes,yes,yes,no,yes,yes,yes,no
+202021465,ugly,ugly,ugly,ugly,ugly,ugly,ugly,beautiful
+20631475,yes,no,no,yes,no,no,no,no
+202144558,man,man,man,man,man,man,man,man
+2098282,no,yes,yes,yes,yes,yes,yes,yes
+201156279,boy,boy,boy,boy,boy,boy,boy,boy
+20710518,on skis,on skis,on skis,on skis,on skis,on skis,on skis,ground
+201143422,bed,bed,bed,bed,bed,bed,bed,table
+20412523,bottom,bottom,bottom,bottom,bottom,bottom,bottom,top
+20403340,rectangular,rectangular,rectangular,rectangular,rectangular,rectangular,rectangular,round
+20262756,it is small,not enough information,not enough information,not enough information,not enough information,not enough information,not enough information,large
+201947717,left side,left side,left side,left side,left side,left side,left side,left
+201669416,top,top,bottom,top,bottom,top,top,bottom
+202240867,table,table,table,table,table,table,table,table
+20361485,no,no,no,no,no,no,no,yes
+20245914,white,white,white,white,white,white,white,gray
+20724265,yes,yes,yes,yes,yes,yes,yes,no
+2044447,blue,blue,blue,blue,blue,blue,blue,black
+20631677,catcher,catcher,catcher,catcher,catcher,catcher,catcher,batter
+20865545,brown,brown,brown,brown,brown,brown,brown,brown
+20953862,no,no,no,no,no,no,no,no
+20361234,snowboarder,snowboarder,snowboarder,snowboarder,snowboarder,snowboarder,snowboarder,snowboarder
+20953870,girl,girl,girl,girl,girl,girl,girl,girl
+202023471,bookcase,chair,chair,bookshelf,chair,chair,bookcase,shelf
+202121678,no,no,no,no,no,no,no,no
+201711314,suitcase,suitcase,suitcase,suitcase,suitcase,suitcase,suitcase,television
+20412279,pink,pink,pink,pink,pink,pink,pink,pink
+202228192,tv,tv,tv,tv,tv,tv,tv,television
+20308268,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator,cabinet
+201428460,tall,short,short,tall,short,short,short,tall
+20611536,no,yes,no,no,no,no,no,no
+201188428,right side,right side,right side,right side,right side,right side,right side,right
+201885557,male,male,male,male,male,male,male,male
+201889389,yes,yes,yes,yes,yes,yes,yes,yes
+20716884,towel,camera,camera,camera,camera,camera,camera,stuffed animal
+202241128,table,table,table,unanswerable,table,table,unanswerable,table
+20120533,aluminum,aluminum,aluminum,aluminum,aluminum,aluminum,aluminum,aluminum
+201765732,no,no,no,no,no,no,no,yes
+20647817,tall,tall,tall,tall,tall,tall,tall,tall
+202004255,no,no,no,no,no,no,no,no
+201882885,television,television,television,television,television,television,television,laptop
+201983719,no,no,no,no,no,no,no,no
+20151796,striped shirt,t shirt,t shirt,shirt,t shirt,t shirt,shirt,sweater
+2053901,black,black and white,black and white,black,black and white,black and white,black and white,gray
+201548700,blender,blender,blender,blender,blender,blender,blender,glass
+202244718,no,yes,yes,yes,yes,yes,yes,no
+20903186,no,no,no,no,no,no,no,no
+202144337,no,no,no,no,no,no,no,no
+201479464,soft,soft,soft,soft,soft,soft,soft,soft
+201455854,yes,yes,yes,yes,yes,yes,yes,yes
+201407163,black,black,black,black,black,black,black,black
+20136709,no,yes,yes,no,yes,yes,yes,no
+20982135,yes,yes,yes,yes,yes,yes,yes,yes
+201412263,yes,yes,yes,yes,yes,yes,yes,yes
+20258542,no,no,no,no,no,no,no,yes
+2062416,surfer,surfer,surfer,surfer,surfer,surfer,surfer,water
+20118987,no,no,no,no,no,no,no,no
+201972765,brown,brown,brown,brown,brown,brown,brown,green
+201616046,no,no,no,no,no,no,no,no
+20836734,no,no,no,no,no,no,no,no
+20381139,yes,yes,yes,yes,yes,yes,yes,no
+20963862,no,no,no,no,no,no,no,yes
+20609320,plate,plate,plate,plate,plate,plate,plate,table
+20899763,no,no,no,no,no,no,no,no
+201982207,short sleeved,short sleeved,short sleeved,short sleeved,short sleeved,short sleeved,short sleeved,short sleeved
+201535906,box,box,box,box,box,box,box,shirt
+20295400,purple,purple,purple,purple,purple,purple,purple,purple
+20120446,yes,no,no,no,no,no,no,no
+201864381,no,no,no,no,no,no,no,no
+20870420,no,no,no,no,no,no,no,no
+201663406,refrigerator,sink,sink,sink,sink,sink,sink,stove
+201360694,child,two kids,two kids,two kids,two kids,two kids,two kids,children
+20451973,plastic,plastic,plastic,plastic,plastic,plastic,plastic,glass
+202228510,cat,cat,cat,cat,cat,cat,cat,cat
+201479357,no,no,no,no,no,no,no,yes
+201527369,right,right,right,right,right,right,right,right
+20756658,yes,yes,yes,no,yes,yes,yes,no
+201322743,bus stop sign,bus stop sign,bus stop sign,bus stop sign,bus stop sign,bus stop sign,bus stop sign,traffic sign
+201759224,clothes,clothes,clothes,clothes,clothes,clothes,clothes,coats
+201056127,man,man,man,man,man,man,man,people
+20403401,on,on,on,on,on,on,on,on
+202106184,man,man,man,man,man,man,man,player
+201247242,chair,chair,chair,chair,chair,chair,chair,chair
+20657195,traffic light,traffic light,traffic light,traffic light,traffic light,traffic light,traffic light,yes
+201480340,boy,boy,boy,boy,boy,boy,boy,boy
+201527506,no,no,no,no,no,no,no,no
+20756977,small stove,small stove,it is small,small stove,it is small,small stove,small stove,large
+202243292,woman,woman,woman,girl,woman,woman,woman,woman
+201947726,silver,not enough information,gray,gray,gray,gray,gray,silver
+202004138,laptops,screen,screen,laptops,screen,screen,screen,laptop
+201064994,plate of food,plate of food,plate of food,plate of food,plate of food,plate of food,plate of food,plate
+20899952,paper,bag,bag,paper bag,bag,bag,bag,basket
+201153081,yes,yes,yes,yes,yes,yes,yes,yes
+2059466,wood,wood,wood,wood,wood,wood,wood,wood
+201756771,no,yes,yes,yes,yes,yes,yes,no
+2012787,yes,yes,yes,yes,yes,yes,yes,yes
+20462158,man,person on skis,person on skis,person on skis,person on skis,person on skis,person on skis,man
+20903082,yes,yes,yes,no,yes,yes,yes,no
+20299624,bottom,bottom,bottom,bottom,bottom,bottom,bottom,bottom
+2017449,sheep,horse,horse,horse,horse,horse,horse,sheep
+20856731,no,no,no,no,no,no,no,no
+202228030,no,no,no,no,no,no,no,no
+201111082,no,no,no,no,no,no,no,no
+20151562,red,red,red,red,red,red,red,red
+201079978,bed,bed,bed,bed,bed,bed,bed,shelf
+20169910,full,full,full,full,full,full,full,empty
+20151606,latte,latte,latte,cola,latte,latte,latte,coffee
+201621321,black,black,black,black,black,black,black,black
+20782996,no,no,no,no,no,no,no,no
+202107938,to right,to right,to right,to right,to right,to right,to right,left
+201510205,on plane,in air,in air,airplane,in air,on plane,on plane,restaurant
+201428959,to right,right,right,right,right,right,to right,right
+201879915,long sleeved,long sleeved,long sleeved,long sleeved,long sleeved,long sleeved,long sleeved,short sleeved
+201067749,table,table,table,table and chairs,table,table,table,table
+20899661,no,no,no,no,no,no,no,no
+20724216,man,person on snowboard,person on snowboard,person skiing down hill,person on snowboard,person on snowboard,person on snowboard,man
+202265979,no,no,no,no,no,no,no,no
+201974979,tops,top,top,top,top,top,top,shirt
+202158885,yes,yes,yes,yes,yes,yes,yes,yes
+20647237,no,no,no,no,no,no,no,no
+2075477,city,city,city,in water,city,city,city,city
+20542857,zoo,zoo,zoo,zoo,zoo,zoo,zoo,zoo
+201548648,yes,yes,yes,yes,yes,yes,yes,yes
+201975139,coach,person,person,person,person,person,person,woman
+20541739,beige,beige,beige,beige,beige,beige,beige,beige
+201055653,no,no,no,no,no,no,no,yes
+201400046,couch,couch,couch,couch,couch,couch,couch,couch
+201621395,right side,right side,right side,right side,right side,right side,right side,right
+2097565,they are glass,they are glass,they are glass,they are made of glass,they are glass,they are glass,they are glass,color
+201859428,right side,right side,right side,right side,right side,right side,side with donut,left
+20157127,pancakes,pancakes,pancakes,pancakes,pancakes,pancakes,pancakes,egg
+201047238,yes,yes,yes,yes,yes,yes,yes,yes
+20734091,beach,sand,sand,beach,sand,sand,sand,sand
+20381460,yes,yes,yes,no,yes,yes,yes,yes
+20412546,table,table,table,table,table,table,table,couch
+201301832,it is hard racket,it is hard racket,it is hard racket,it is hard,it is hard racket,it is hard racket,it is hard racket,hard
+201832644,left side,left side,left side,right side,left side,left side,left side,left
+20901962,red,red,red,red,red,red,red,red
+20903174,bicycle,bicycle,bicycle,bike,bicycle,bicycle,bicycle,car
+202120168,no,no,no,no,no,no,no,no
+201109297,car,car,car,car,car,car,car,car
+20307061,snow shovel,snowboard,snowboard,snowboard,snowboard,snowboard,snowboard,camera
+20479987,cat,couch,chair,table,chair,couch,chair,desk
+201491063,cows,cows,cows,cows,cows,cows,cows,cows
+20573724,right side,right side,right side,right side,right side,right side,right side,left
+201756642,no,no,no,no,no,no,no,no
+20381327,chair,rug,rug,chair,rug,rug,bookshelf,rug
+201982125,white,white,white,white,white,white,white,caucasian
+20516188,no,no,no,no,no,no,no,black
+201573904,white,white,white,white,white,white,white,silver
+201481864,holding black umbrella,holding umbrella,holding umbrella,holding black umbrella,holding umbrella,holding umbrella,holding umbrella,posing
+201794881,yes,no,no,no,no,no,no,yes
+201079861,bed,bed,bed,bed,bed,bed,bed,bed
+201482068,hoodie,hoodie,hoodie,hoodie,hoodie,hoodie,hoodie,umbrella
+201047342,yes,yes,yes,yes,yes,yes,yes,yes
+201207116,yes,yes,yes,yes,yes,yes,yes,yes
+20456409,no,no,no,no,no,no,no,yes
+201319787,no,no,no,no,no,no,no,no
+202144621,beer,drink,drink,beer,drink,drink,beer,beer
+201951730,vw camper van,van,van,van,van,van,van,van
+202000762,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete
+202257504,yes,yes,yes,yes,yes,yes,yes,no
+20611829,no,no,no,no,no,no,no,no
+20414479,skateboarder,skateboarder,skateboarder,skateboarder,skateboarder,skateboarder,skateboarder,man
+201391788,no,no,no,no,no,no,no,no
+20511681,no,no,no,no,no,no,no,yes
+201759403,white,white,white,white,white,white,white,black
+20541130,pattern of flower,pattern of flower,pattern of flower,pattern of flower,pattern of flower,pattern of flower,pattern of flower,striped
+20911295,right side,right side,right side,right side,right side,right side,right side,right
+202162361,bed,bed,bed,bed,bed,bed,bed,poster
+202082061,right side,right side,right side,right side,right side,right side,right side,left
+201556938,metal,metal,metal,metal,metal,metal,metal,plastic
+201758256,no,no,no,no,no,no,no,yes
+2046684,no,no,no,no,no,no,no,yes
+20879007,yes,yes,yes,yes,yes,yes,yes,yes
+20618818,girl,girl,girl,girl,girl,girl,girl,people
+20541727,yes,yes,yes,no,yes,no,no,no
+20954134,woman,woman,woman,woman,woman,woman,woman,lady
+20492200,bears,bears,bears,bears,bears,bears,bears,snow
+202285450,eggs,eggs,eggs,eggs,eggs,eggs,eggs,sausage
+20169970,no,no,no,no,no,no,no,no
+20618842,tennis court,tennis court,tennis court,tennis court,tennis court,tennis court,tennis court,table
+201879247,man,person,person,man,person,person,person,woman
+202156836,elephants,elephants,elephants,elephants,elephants,elephants,elephants,elephants
+20891332,yes,yes,yes,yes,yes,yes,yes,no
+20902667,dog,dog,dog,dog,dog,dog,dog,dog
+201347398,boy,boy,boy,boy,boy,boy,boy,man
+201987314,table,table,table,table,table,table,table,table
+201571243,no,no,no,no,no,no,no,no
+20887451,computer,computer,computer,computer,computer,computer,computer,monitor
+20692296,towel,towel,towel,towels,towel,towel,towel,book
+201498514,computer,computer,computer,computer,computer,computer,computer,monitor
+20786034,no,no,no,no,no,no,no,no
+20753203,no,no,no,no,no,no,no,yes
+201235609,bananas,bananas,bananas,bananas,bananas,bananas,bananas,bananas
+20456644,carpet,carpet,not enough information,not enough information,not enough information,it is made of carpet,it is made of carpet,wood
+20692043,cream colored,cream colored,cream colored,cream colored,cream colored,cream colored,cream colored,cream colored
+201067520,television,television,television,television,television,television,television,screen
+202006950,stainless steel,wood,wood,stainless steel,wood,wood,wood,wood
+20963807,toilet,toilet,toilet,toilet,toilet,toilet,toilet,sink
+2076626,buildings,buildings,buildings,buildings,buildings,buildings,buildings,building
+20515091,no,no,no,no,no,no,no,yes
+201570642,no,no,no,no,no,no,no,no
+201763918,no,no,no,no,no,no,no,yes
+202228467,black,black,black,black,black,black,black,black
+201751826,adidas,adidas,adidas,adidas,adidas,adidas,adidas,nike
+201207163,apple,apple,apple,apple,apple,apple,apple,orange
+202162196,it is small,it is small,it is small,not enough information,it is small,it is small,it is small,small
+201887073,left side,left side,left side,left side,left side,left side,left side,right
+201826737,laying down,laying down,laying down,laying down,laying down,laying down,laying down,standing
+201878417,dog,dog,dog,dog,dog,dog,dog,dog
+202240539,wii remote,wii remote,wii remote,wii remote,wii remote,wii remote,wii remote,controller
+20709968,man,man,man,man,man,man,man,man
+20394863,wedding dress,dress,dress,wedding dress,dress,dress,wedding gown,dress
+202012614,no,no,no,no,no,no,no,no
+20721832,no,no,no,no,no,no,no,no
+202248985,no,no,no,no,no,no,no,yes
+201873454,no,no,no,no,no,no,no,no
+20442455,right side,right side,right side,right side,right side,right side,right side,right
+201056133,people,people,person,people,people,people,person,people
+202121758,wooden,chairs,chairs,cupboards,chairs,chairs,chairs,chair
+20883295,white,white,white,white,white,white,white,gray
+201639040,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete
+202262557,no,no,no,no,no,no,no,no
+201504778,no,no,no,yes,no,no,no,yes
+202053417,behind plate,behind plate,behind home plate,near pitcher,behind home plate,behind plate,behind plate,dirt
+20865560,no,no,no,no,no,no,no,yes
+2091230,no,no,no,no,no,no,no,yes
+202000893,no,no,no,no,no,no,no,yes
+20655012,no,no,no,no,no,no,no,yes
+20940029,no,no,no,no,no,no,no,no
+201765608,beach,beach,beach,beach,beach,beach,beach,beach
+202060268,christmas tree,christmas tree,christmas tree,christmas tree,christmas tree,christmas tree,christmas tree,tree
+202004263,projector,projector,projector,projector,projector,projector,projector,television
+20342343,female,female,female,female,female,female,female,female
+201037132,stop sign,stop sign,stop sign,stop sign,stop sign,stop sign,stop sign,stop sign
+20518752,yes,no,no,no,no,no,no,yes
+201068584,right side,right side,right side,boy s side,right side,right side,right side,right
+20299651,left side,left side,left side,left side,left side,left side,left side,right
+201952759,train,train,train,train,train,train,train,train
+20183209,man,man,man,person,man,person,person,man
+201322478,white,red,white,red,white,red,red,white
+201207451,no,no,no,no,no,no,no,yes
+20756802,no,no,no,no,no,no,no,yes
+201671757,yes,yes,yes,yes,yes,yes,yes,yes
+201480591,no,no,no,no,no,no,no,no
+201902749,computer,computer,computer,computer,computer,computer,computer,keyboard
+202223352,man,man,man,person catching frisbee,man,man,man,people
+20411634,apple,apple,apple,apple,apple,apple,apple,apples
+201822267,toilet paper,toilet paper,toilet paper,tissue papers,toilet paper,toilet paper,toilet paper,cup
+202243510,to right,to right,to right,to right,to right,to right,to right,left
+20316943,pan,pan,pan,pan,pan,pan,pan,cutting board
+20785863,yes,yes,yes,yes,yes,yes,yes,yes
+201175714,cat,cat,cat,cat,cat,cat,cat,dog
+201068842,no,no,no,yes,no,no,no,no
+20247304,yes,yes,yes,yes,yes,yes,yes,yes
+201467297,chair,chair,chair,chair,chair,chair,chair,ground
+201439719,chicken,chicken,chicken,chicken,chicken,chicken,chicken,shirt
+20896225,towel,towel,curtains,towel,curtains,towel,picture,microwave
+202262561,his girlfriend,woman,woman,woman,woman,woman,woman,girl
+201570567,no,no,no,no,no,no,no,yes
+201873543,no,no,no,yes,no,no,no,no
+202180344,girl,girl,girl,two girls,girl,girl,girl,girl
+201663241,new,new,new,new,new,new,new,new
+202169403,man,man,man,man,man,man,man,man
+20149850,toilet,toilet,toilet,toilet,toilet,toilet,toilet,cabinet
+20783521,man,man,man,man,man,man,man,man
+201676068,white,white,white,white,white,white,white,white
+20621796,wide,it is wide,not enough information,not enough information,not enough information,not enough information,not enough information,narrow
+20508279,chair,table,table,chair,table,table,table,chair
+2093853,giraffe,giraffe,giraffe,giraffe,giraffe,giraffe,giraffe,giraffe
+20818661,no,no,no,no,no,no,no,no
+20645616,towel,towel,towel,towel,towel,towel,towel,toilet
+202081081,microwave,microwave,microwave,microwave,microwave,microwave,microwave,toaster
+202101079,two men,two people,two people,two men,two people,two people,two people,boy
+20414571,people watching skateboarder,people,people,people,people,people,no one,people
+2017055,pakistan,desert,desert,desert,desert,desert,desert,road
+201947589,white,white,white,white,white,white,white,silver
+201527460,no,no,no,no,no,no,no,yes
+2076666,wheels are small,wheels are small,wheels are small,wheels are small,wheels are small,wheels are small,not enough information,large
+202081089,microwave,microwave,microwave,microwave,microwave,microwave,microwave,toaster
+202169120,dark brown,dark brown,gray,dark brown,gray,dark brown,dark brown,gray
+202120187,yes,no,no,no,no,no,no,yes
+201826579,it is big,not enough information,not enough information,not enough information,not enough information,not enough information,not enough information,small
+20307172,no,no,no,no,no,no,no,yes
+201640426,wine,wine,wine,wine,wine,wine,wine,wine
+202161925,no,no,no,no,no,no,no,yes
+20637008,spoon,spoon,spoon,spoon,spoon,spoon,spoon,large
+20119067,yes,yes,yes,yes,yes,yes,yes,yes
+202102625,cabinets,cabinets,cabinets,cabinets,cabinets,cabinets,cabinets,cabinets
+201573971,man,man,man,man,man,man,man,woman
+201175285,no,no,no,no,no,no,no,no
+20717119,bed,bed,bed,bed,bed,bed,bed,bed
+202243932,no,no,no,no,no,no,no,no
+201536452,are chasing ball,are chasing ball,are chasing ball,are chasing ball,are chasing ball,are chasing ball,are chasing ball,waiting
+201535625,donuts,donuts,donuts,donuts,donuts,donuts,donuts,donuts
+202073303,zebra,zebra,zebra,zebra,zebra,zebra,zebra,antelope
+20887358,dog,dog,dog,dog,dog,dog,dog,dog
+201997723,open,closed,closed,closed,closed,closed,closed,open
+201462263,catcher,catcher,catcher,catcher,catcher,catcher,catcher,umpire
+201080313,no,no,no,no,no,no,no,no
+201319526,woman,woman,woman,girl,woman,woman,woman,woman
+20982385,sweaters,sweater,sweaters,sweaters,sweaters,sweater,sweater,apron
+20837080,table,table,table,table,table,table,table,table
+202228649,cat,cat,cat,cat,cat,cat,cat,cat
+202156925,elephant,elephants,elephant,elephants,elephant,elephants,elephants,elephant
+202049257,white,white,white,white,white,white,white,white
+202100332,it is small,it is small,it is small,not enough information,it is small,it is small,it is small,large
+201303519,tall,tall,tall,tall,tall,tall,tall,tall
+20518455,no,no,no,no,no,no,no,no
+20182778,concrete,concrete,concrete,concrete,concrete,concrete,concrete,brick
+201549001,rubber,rubber,rubber,rubber,rubber,rubber,rubber,rubber
+20923231,no,no,no,no,no,no,no,no
+20963711,it is very short,it is short,it is short,not enough information,it is short,it is short,not enough information,long
+20442307,left side,right side,right side,left,right side,right side,right side,left
+202286622,no,no,no,no,no,no,no,no
+201497647,no,no,no,no,no,no,no,no
+20551461,modern,modern,modern,modern,modern,modern,modern,old fashioned
+20903027,yes,no,no,no,no,no,no,yes
+201795913,yes,yes,yes,yes,yes,yes,yes,no
+202174381,no,no,no,no,no,no,no,yes
+201153564,no,no,no,no,no,no,no,no
+20734235,buildings,buildings,buildings,buildings,buildings,buildings,buildings,bushes
+20441933,no,no,no,no,no,no,no,no
+20462063,on skis,on skis,on skis,on skis,on skis,on skis,on skis,snow
+202257420,no,no,no,no,no,no,no,yes
+201438644,bat,bat,bat,baseball bat,bat,bat,bat,baseball bat
+20691469,washing machine,washer,washing machine,washer,washing machine,washer,washing machine,basket
+20451949,square,square,square,square,square,square,square,round
+202219060,pot,pot,pot,oven,pot,pot,pot,toaster
+20856795,cloth,cloth,cloth,cloth,cloth,cloth,cloth,cloth
+201803842,yes,yes,yes,yes,yes,yes,yes,yes
+202262061,yes,no,yes,no,yes,no,no,no
+201068528,small,it is small,it is small,small phone,it is small,it is small,it is small,small
+20716953,blanket,blanket,blanket,sheets blankets and pillow,blanket,blanket,blanket,teddy bear
+201621476,couch,couch,couch,couch,couch,couch,couch,couch
+201428488,wii remote,video game controller,video game controller,wii remote,video game controller,wii remote,wii remote,controller
+2044638,no,no,no,no,no,no,no,yes
+20442155,wood,wood,wood,wood,wood,wood,wood,glass
+201497890,no,no,no,no,no,no,no,no
+201765981,boats,boat,boat,boats,boat,boat,boats,tree
+202060210,tree,tree,tree,tree,tree,tree,tree,tree
+20503730,red,red,red,red,red,red,red,white
+20442097,no,yes,yes,yes,yes,yes,yes,yes
+201577009,low,low,high,low,high,low,low,low
+20320461,no,no,no,no,no,no,no,yes
+20923256,fire truck,fire truck,fire truck,fire truck,fire truck,fire truck,fire truck,truck
+201407334,yes,no,yes,yes,yes,yes,yes,no
+201996815,glass,glass,glass,glass,glass,glass,glass,glass
+201399921,yes,yes,yes,yes,yes,yes,yes,no
+202006149,wood,wood,wood,wood,wood,wood,wood,metal
+202042069,police officer,police officer,police officer,police officer,police officer,police officer,police officer,man
+202156728,cloudy,cloudy,cloudy,cloudy,cloudy,cloudy,cloudy,cloudy
+201803709,they are both white,they are both in living room,they are white,they are both in living room,they are white,they are both in living room,they are both in living room,color
+202144396,shirt,shirt,shirt,shirt,shirt,shirt,shirt,shirt
+201576662,sheep,dog,dog,dog,dog,dog,dog,sheep
+20468832,horse,horse,horse,horse,horse,horse,horse,bus
+202258139,yes,yes,yes,yes,yes,yes,yes,yes
+201370411,no,no,no,no,no,no,no,yes
+201467606,no,no,no,no,no,no,no,no
+201976559,cat,cat,cat,cat,cat,cat,cat,elephant
+201996668,no,no,no,no,no,no,no,yes
+201832697,bed,bed,bed,bedstead,bed,bed,bed,bed
+202081155,white,white,white,white,white,white,white,white
+2012881,ice cream,ice,ice,ice cream,ice,ice,ice,plastic
+201654639,no,no,no,no,no,no,no,no
+201447103,mirror,mirror,mirror,sink,mirror,mirror,mirror,mirror
+202036627,no,no,no,no,no,no,no,no
+20636999,no,no,no,no,no,no,no,no
+20724204,person,person,person,person,person,person,person,man
+201996962,smiling,smiling,smiling,smiling,smiling,smiling,smiling,sitting
+20300522,yes,yes,yes,yes,yes,yes,yes,yes
+202122066,sink,sink,sink,sink,sink,sink,sink,chair
+201947515,mirror,mirror,mirror,mirror,mirror,mirror,mirror,curtain
+202246610,no,yes,yes,no,yes,yes,yes,no
+20178147,no,no,no,no,no,no,no,no
+20489803,no,no,no,no,no,no,no,yes
+201068429,girl,girl,girl,girl,girl,girl,girl,child
+20381583,monitor,monitor,monitor,monitor,monitor,monitor,monitor,monitor
+20262533,no,no,no,no,no,no,no,yes
+20452231,couch,couch,couch,chair,couch,couch,couch,chair
+202162123,no,no,no,no,no,no,no,no
+201763797,small,not enough information,not enough information,not enough information,not enough information,not enough information,not enough information,small
+201624241,plate,plate,plate,silver tray,plate,plate,plate,table
+20427509,plastic,plastic,plastic,plastic,plastic,plastic,plastic,metal
+20600235,zebra,zebra,zebra,zebra,zebra,zebra,zebra,zebra
+20706336,yes,yes,yes,yes,yes,yes,yes,no
+20482414,blue,blue,blue,blue,blue,blue,blue,blue
+202227950,desk,desk,desk,dining table,desk,desk,desk,dvd player
+201510344,apple,apple,apple,apple,apple,apple,apple,apple
+202162516,no,no,no,no,no,no,no,no
+202012477,tv,tv,tv,tv,tv,tv,tv,television
+20381395,right side,right side,right side,right side,right side,right side,right side,right
+202119260,elephant,elephant,elephant,elephant,elephant,elephant,elephant,elephant
+20984413,male,male,male,male,male,male,male,male
+20257138,no,no,no,no,no,no,no,no
+201185319,yes,yes,yes,yes,yes,yes,yes,yes
+201207164,apples,apples,apples,apples,apples,apples,apples,apples
+201175630,sweater,sweater,sweater,shirt,sweater,sweater,sweater,sweater
+202244115,no,no,no,no,no,no,no,no
+201882797,no,no,no,no,no,no,no,yes
+201951877,yes,yes,yes,yes,yes,yes,yes,no
+201556556,desk,desk,desk,desk,desk,desk,desk,desk
+20752459,rectangular,rectangular,rectangular,rectangular,rectangular,rectangular,rectangular,square
+202243836,cupcakes,cupcakes,cupcakes,cupcake,cupcakes,cupcakes,cupcakes,cupcake
+2046516,table,table,table,dining table,table,table,table,table
+201713366,yes,yes,yes,yes,yes,yes,yes,yes
+202006262,steel,steel,steel,steel,steel,steel,steel,granite
+20722070,square,square,square,square,square,square,square,rectangular
+201303292,no,no,no,yes,no,no,no,no
+20177477,cast iron pan,pan,pan,grill basket,pan,grill,grill basket,cutting board
+2066041,gloves,gloves,gloves,gloves,gloves,gloves,gloves,glove
+20588933,man,man,man,person,man,man,man,skateboarder
+20744331,white,white,white,white,white,white,white,white
+202036874,right,right,right,right,right,right,right,right
+20550383,no,no,no,no,no,no,no,no
+20226648,no,no,no,no,no,no,no,no
+201065412,yes,yes,yes,yes,yes,yes,yes,no
+201983204,no,no,no,no,no,no,no,no
+202006695,yes,yes,yes,yes,yes,yes,yes,yes
+20381301,no,no,no,no,no,no,no,no
+20316977,no,no,no,no,no,no,no,no
+20307042,black,black,black,black,black,black,black,black
+2046438,he is 74 year old man,not enough information,not enough information,he is young man,not enough information,he is young man,he is young man,old
+201574148,wood,wood,wood,wood,wood,wood,wood,metal
+2062403,black,black,black,black,black,black,black,green
+20887460,computer,computer,computer,computer,computer,computer,computer,keyboard
+20411550,table,table,table,table,table,table,table,table
+202162151,stained,stained,stained,stained,stained,stained,stained,stained
+202286719,teddy bear,teddy bears,teddy bears,teddy bears,teddy bears,teddy bears,teddy bears,bear
+201188385,suit,jacket,jacket,jacket,jacket,jacket,jacket,coat
+2094004,3 feet,it is short,it is short,not enough information,it is short,it is short,it is almost at eye level,short
+20902798,dogs,dogs,dogs,no,dogs,dogs,dogs,no
+202100819,stove,stove,stove,stove,stove,stove,stove,stove
+20247660,pants,pants,pants,pants,pants,pants,pants,jacket
+201947523,yes,yes,no,no,no,no,no,yes
+201065497,brunette,brunette,brunette,brunette,brunette,brunette,brunette,brunette
+201859621,white,white,white,white,white,white,white,white
+201412282,man,person,person,man,person,person,person,man
+201640613,woman,woman,woman,woman,woman,woman,woman,woman
+20978509,it is small motorcycle,it is small,it is small,it is small,it is small,it is small,it is small,large
+201400148,couch,couch,couch,bookcase,couch,couch,couch,couch
+202081095,microwave,toaster,toaster,toaster,toaster,toaster,toaster,stove
+20492197,bear,bear,bear,mountains,bear,bear,glacial lake,mountain
+201998131,it is large,it is large,it is large,it is large,it is large,it is large,it is large,small
+201770690,no,no,no,no,no,no,no,no
+20756563,bottom,bottom,bottom,top,bottom,bottom,bottom,top
+202180276,yes,yes,yes,yes,yes,yes,yes,yes
+201758190,brown,brown,brown,brown,brown,brown,brown,brown
+20182868,yes,yes,yes,yes,yes,yes,yes,yes
+20244719,no,no,no,no,no,no,no,yes
+201641141,white,white,white,unanswerable,white,white,unanswerable,tan
+201879319,truck,truck,truck,truck,truck,truck,truck,bus
+201765905,man,man,man,man,man,man,man,man
+20515932,yes,yes,yes,yes,yes,yes,yes,yes
+20968350,woman,woman,woman,girl,woman,woman,woman,woman
+201987317,no,no,no,no,no,no,no,no
+201336930,they are in park,they are outdoors,they are outdoors,they are outdoors,they are outdoors,they are outdoors,they are outdoors,color
+201909081,metal,metal,metal,metal,metal,metal,metal,plastic
+201301948,man,woman,woman,woman,woman,person,woman,girl
+202284976,banana,banana,banana,banana,banana,banana,banana,sausage
+20473058,boy,boy,boy,young boy,boy,boy,boy,boy
+202106445,no,no,no,no,no,no,no,yes
+202049475,yes,yes,yes,yes,yes,yes,yes,yes
+201711375,cello,cello,cello,cello,cello,cello,cello,books
+20647501,no,no,no,no,no,no,no,no
+20711616,desk,desk,desk,desk,desk,desk,desk,desk
+20631671,catcher,catcher,batter,catcher,batter,baseball player,baseball player,batter
+20543027,no,no,no,no,no,no,no,yes
+201671819,rectangular,rectangular,rectangular,rectangular,rectangular,rectangular,rectangular,rectangular
+201861409,no,no,no,no,no,no,no,no
+20644779,cat,cat,cat,cat,cat,cat,cat,cat
+20637175,white,white,white,white,white,white,white,silver
+202285327,to right,to right,to right,to left,to right,to right,to right,left
+20149842,modern furniture is furniture that is made of materials that,bathroom furniture,bathroom furniture,modern furniture is style of furniture that is,bathroom furniture,bathroom furniture,bathroom furniture,drawer
+20667423,blue,brown,brown,brown,brown,brown,blue,pink
+20226661,yes,yes,yes,yes,yes,yes,yes,yes
+202133659,yes,yes,yes,yes,yes,yes,yes,yes
+202262744,to right,to right,to left,to right,to left,to left,to left,right
+201908664,they are both containing food,they are both containing food,they are both containing food,they are both containers,they are both containing food,they are both containing food,they are both containing food,material
+20942097,woman,woman,woman,woman,woman,woman,woman,woman
+20385472,no,no,no,no,no,no,no,yes
+201188325,no,no,no,no,no,no,no,no
+20157379,table,table,table,table,table,table,table,table
+20754697,yes,yes,yes,yes,yes,yes,yes,no
+201479425,biscuits,bread,bread,biscuits,bread,bread,bread,biscuit
+202040317,old,old,old,old,old,old,old,new
+201438385,yes,yes,yes,yes,yes,yes,yes,yes
+2044442,yes,yes,yes,no,yes,yes,yes,yes
+202257495,no,no,no,no,no,no,no,no
+201467253,no,no,no,no,no,no,no,yes
+201228265,no,no,no,no,no,no,no,no
+202208385,stop sign,stop sign,stop sign,streetcars not allowed,stop sign,stop sign,stop sign,traffic sign
+202040353,it is small,not enough information,not enough information,not enough information,not enough information,not enough information,not enough information,large
+20262540,long,long,long,long,long,long,long,long
+201037015,no,no,no,no,no,no,no,no
+20403498,yes,yes,yes,yes,yes,yes,yes,yes
+20412222,tables and chairs,chairs,chairs,table and chairs,chairs,chairs,table and chairs,tables
+202225815,no,no,no,no,no,no,no,no
+201574315,yes,yes,yes,yes,yes,yes,yes,no
+20468822,horse,horse,horse,horse,horse,horse,horse,trees
+201735588,wood,wood,wood,wood,wood,wood,wood,wood
+20797611,yes,yes,yes,yes,yes,yes,yes,no
+20783343,black,black,black,black,black,black,black,black
+201319553,no,no,no,no,no,no,no,yes
+201593721,no,no,no,no,no,no,no,yes
+201446986,no,no,no,no,no,no,no,no
+20246053,man,person,skateboarder,man,skateboarder,skateboarder,skateboarder,man
+2046513,table,table,table,dining table,table,table,table,chair
+20361335,girl,girl,girl,woman,girl,girl,girl,woman
+201153193,no,no,no,no,no,no,no,no
+201479496,chicken,chicken,chicken,chicken,chicken,chicken,chicken,chicken
+201982173,yes,yes,yes,yes,yes,yes,yes,no
+2044578,two people,two people,two people,two people,two people,two people,two people,woman
+201616120,yes,yes,yes,yes,yes,yes,yes,no
+201654656,car,car,car,jockey,car,car,car,cart
+20285316,chair,chair,chair,chair,chair,chair,chair,table
+202228077,box,cabinet,cabinet,cabinet,cabinet,cabinet,cabinet,cabinet
+20508864,blue,blue,blue,blue,blue,blue,blue,red
+20205098,yes,yes,yes,yes,yes,yes,yes,yes
+201574200,red,red,red,blue,red,red,red,black
+201822188,mirror,mirror,mirror,towel,mirror,mirror,mirror,sink
+20361329,girl,person,girl,person riding snowboard,person,person,girl,woman
+201738047,no,no,no,no,no,no,no,yes
+20178146,small,small,small,large,small,small,small,small
+202000853,no,no,no,yes,no,no,no,no
+201987605,no,no,no,no,no,no,no,yes
+20652312,large,large,large,large,large,large,large,small
+20827214,bar stools,table,dining table,bar,dining table,table,table,chair
+20878983,skateboarder,person,person,person,person,person,person,man
+20403352,mirror,mirror,mirror,mirror,mirror,mirror,mirror,mirror
+201360481,no,no,no,no,no,no,no,no
+20461994,no,no,no,no,no,no,no,no
+201638973,man,man,man,man,man,man,man,people
+20863702,yes,yes,yes,yes,yes,yes,yes,yes
+201490922,no,no,no,no,no,no,no,no
+20797537,no,no,no,no,no,no,no,yes
+201951566,two people,two people,two people,two people,two people,two people,two people,women
+201864508,yes,yes,yes,yes,yes,yes,yes,yes
+202121522,window,windows,window,windows,window,windows,windows,window
+201455961,yes,yes,yes,yes,yes,yes,yes,yes
+201935806,no,no,no,no,no,no,no,yes
+202258523,no,no,no,no,no,no,no,no
+202258271,horse,horse,horse,horse,horse,horse,horse,horse
+201704522,cow,cow,cow,cow,cow,cow,cow,cow
+201068342,not enough information,not enough information,not enough information,not enough information,not enough information,not enough information,not enough information,little
+202240702,no,no,no,no,no,no,no,yes
+201322694,no,no,no,no,no,no,no,no
+201976963,no,no,no,no,no,no,no,no
+20226381,table,table,table,table,table,table,table,chair
+20316971,no,no,no,yes,no,no,no,no
+201207118,broccoli,broccoli,broccoli,broccoli,broccoli,broccoli,broccoli,broccoli
+20883215,young man,man,man,boy,man,man,man,man
+20171183,yes,yes,yes,yes,yes,yes,yes,no
+202243831,chocolate chips,chocolate chips,chocolate chips,cream cheese,chocolate chips,chocolate chips,salt and pepper,herbs
+20151844,latte,latte,latte,coffee,latte,latte,coffee,coffee
+2094034,no,no,no,no,no,no,no,yes
+202122173,no,no,no,no,no,no,no,no
+201593873,tennis ball,tennis ball,tennis ball,ball,tennis ball,tennis ball,tennis ball,ball
+201228350,yes,yes,yes,yes,yes,yes,yes,yes
+202246540,desk,desk,desk,table,desk,desk,desk,desk
+20303094,ocean,ocean,ocean,ocean,ocean,ocean,ocean,umbrella
+20320414,looking down,waiting,waiting,looking down,waiting,waiting,waiting,waiting
+201235855,basket,basket,black handbag,black bag,basket,basket,basket,purse
+201462514,catcher,catcher,catcher,catcher,catcher,catcher,catcher,catcher
+202006979,knife,utensils,utensils,utensils,utensils,utensils,utensils,bread
+201336960,no,no,no,no,no,no,no,no
+20865414,no,cow,no,cow,no,cow,no,yes
+20710050,car,car,car,car,car,car,car,car
+202023357,bed,bed,bed,bed,bed,bed,bed,bed
+20710412,family,family,family,family,family,family,family,child
+201798458,no,no,no,no,no,no,no,no
+20637192,yes,no,no,no,no,no,no,yes
+201623372,cabinet,table,table,wooden furniture,table,table,wooden furniture,cabinets
+201704623,cows,cows,cows,cows,cows,cows,cows,cows
+201872912,no,no,no,no,no,no,no,no
+201438766,it is baseball field,it is baseball field,it is baseball field,not enough information,it is baseball field,it is baseball field,it is baseball field,small
+20395140,yes,yes,yes,yes,yes,yes,yes,no
+20647259,black,black,black,black,black,black,black,black
+2044903,to right,to right,to right,to right,to right,to right,to right,left
+201972737,tall,tall,tall,tall,tall,tall,tall,short
+20609506,no,no,no,no,no,no,no,no
+202121755,refrigerator stove and sink,chairs,chairs,chairs,chairs,chairs,chairs,chairs
+20827540,bar stools,bar,sofa,bar,sofa,bar,bar,couch
+20306514,snowboard,snowboard,snowboard,snowboard,snowboard,snowboard,snowboard,camera
+201412272,skier,man,man,person in red,man,man,man,man
+2013048,no,no,no,no,no,no,no,no
+2066045,baseball mitt,baseball mitt,baseball mitt,baseball mitt,baseball mitt,baseball mitt,baseball mitt,glove
+20414478,skateboarder,man,skateboarder,man,man,man,skateboarder,man
+20226872,plate,plate,plate,plate,plate,plate,plate,napkin
+202226166,right side,right side,right side,right side,right side,right side,right side,left
+202159042,bus,bus,bus,bus,bus,bus,bus,buildings
+201804113,yes,no,no,no,no,no,no,yes
+202106408,no,no,no,no,no,no,no,no
+20514980,high,high,high,high,high,high,high,high
+20789886,no,no,no,no,no,no,no,no
+20427536,no,yes,yes,yes,yes,yes,yes,yes
+201623452,refrigerator,microwave,microwave,microwave,microwave,microwave,microwave,oven
+201979208,skateboarder,person,person,person,person,person,person on skateboard,boy
+20940366,no,no,no,yes,no,no,no,yes
+202121546,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator,dishwasher
+20865519,cow,cow,cow,cow,cow,cow,cow,cow
+201676461,white,white,white,sofa,white,white,white,table
+201713523,no,no,no,no,no,no,no,no
+202144681,blender,blender,blender,blender,blender,blender,blender,blender
+201438339,baseball,dirt,dirt,dirt,dirt,tarp,dirt,grass
+201738085,no,no,no,no,no,no,no,no
+201370431,no,no,no,no,no,no,no,no
+201595808,it is raining,it is raining,it is raining,it is raining,it is raining,it is raining,it is raining,cloudy
+20922778,yes,yes,yes,yes,yes,yes,yes,yes
+201307275,no,no,no,yes,no,no,no,yes
+20412157,suit,suit,suit,suit,suit,suit,suit,suit
+201110526,cake,cake,cake,cake,cake,cake,cake,dessert
+201407280,not enough information,it is clean,it is clean,not enough information,it is clean,it is clean,it is clean,dirty
+202144538,beer,beer,beer,beer,beer,beer,beer,juice
+201037195,woman,woman,woman,woman,woman,woman,woman,woman
+20295746,purple,purple,purple,purple,purple,purple,purple,red
+202060119,sofa,couch,couch,sofa,couch,couch,couch,table
+20211261,dessert,dessert,dessert,dessert,dessert,dessert,dessert,dessert
+202060198,sofa,sofa,sofas,sofa,sofas,sofa,sofas,couch
+202262174,no,no,no,no,no,no,no,yes
+201987763,container of sandwiches,container of cookies,container of sandwiches,container of sandwiches,container of sandwiches,container of cookies,container of sandwiches,box
+201623368,refrigerator and microwave,refrigerator and microwave,refrigerator and microwave,microwave,refrigerator and microwave,refrigerator,refrigerator and microwave,cabinets
+201639551,giraffes,giraffes,giraffes,giraffes and zebras,giraffes,giraffes,giraffes,giraffes
+201879278,cooks,person,person,cook,person,cook,person,people
+202162542,blanket,blanket,blanket,pink and white pillow spread,blanket,blanket,blanket,pillow
+20827555,yes,yes,yes,no,yes,yes,yes,yes
+20247330,no,no,no,no,no,no,no,no
+20518748,toilet,sink,sink,toilet,sink,sink,toilet,mirror
+202003761,desk,desk,desk,desk,desk,desk,desk,desk
+201998096,they are clean,they are clean,they are clean,they are clean,they are clean,they are clean,they are clean,clean
+201030621,wii remote,remote,remote,remote,remote,remote,remote,controller
+201498773,computer,computer,computer,computer,computer,computer,computer,cord
+202006666,wooden table,wooden table,wooden table,kitchen table,wooden table,wooden table,wooden table,table
+20511408,helicopter,helicopter,helicopter,helicopter,helicopter,helicopter,helicopter,helicopter
+201535630,donuts,donuts,donuts,donuts,donuts,donuts,donuts,donuts
+20596530,yes,yes,yes,yes,yes,yes,yes,yes
+20797548,sole,sole,sole,cat,sole,sole,sole,logo
+202036902,no,no,no,no,no,no,no,no
+202120071,in front of refrigerator,in room,in room,near refrigerator,in room,in room,in room,floor
+202122064,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator,dishwasher
+202133780,closed,closed,closed,closed,closed,closed,closed,open
+20857065,blue,green,green,black,green,green,green,green
+20340468,no,no,no,no,no,no,no,yes
+202179448,right side,right side,right side,right side,right side,right side,right side,left
+20136582,toilet,toilet,toilet,toilet,toilet,toilet,toilet,toilet
+201336939,tree,tree,tree,tree,tree,tree,tree,bicycle
+20794323,small bottle,it is small,it is small,not enough information,it is small,it is small,it is small,small
+201593617,to right,to right,to right,to right,to right,to right,to right,right
+20247449,no,no,no,no,no,no,no,no
+202249016,right side,right side,right side,right side,right side,right side,right side,left
+201987897,no,no,no,no,no,no,no,no
+201676418,no,no,no,no,no,no,no,no
+201064885,blue,blue,blue,blue,blue,blue,blue,white
+201759555,bench,chair,chair,chair,chair,chair,chair,table
+202121626,wood,wood,wood,wood,wood,wood,wood,plastic
+201976899,best tennis,sign that says best tennis in town,sign that says best tennis in town,sign that is behind tennis players,sign that says best tennis in town,sign that says best tennis in town,sign that is behind tennis players,street sign
+20709924,hot dog,hot dog,hot dog,hot dog,hot dog,hot dog,hot dog,counter
+20416592,no,yes,no,no,no,no,no,yes
+201399926,red,red,red,red,red,red,red,white
+201974790,woman,woman,woman,woman,woman,woman,woman,player
+20385842,no,no,no,no,no,no,no,yes
+202228346,plastic,plastic,plastic,plastic,plastic,plastic,plastic,metal
+20631547,players,players,players,players,players,players,players,batter
+202037070,to right,to left,to right,to left,to right,to right,to right,right
+20427885,no,no,no,no,no,no,no,no
+20511462,no,no,no,no,no,no,no,yes
+201982741,no,no,no,no,no,no,no,no
+20511456,helicopter,helicopter,helicopter,helicopter,helicopter,helicopter,helicopter,helicopter
+201510935,no,no,no,no,no,no,no,no
+201061315,no,no,no,yes,no,no,no,no
+20306657,no,no,no,no,no,no,no,no
+202119900,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator
+20302888,no,no,no,no,no,no,no,yes
+201480380,boy,boy,boy,boy,boy,boy,boy,boy
+202284962,banana,banana,banana,banana,banana,banana,banana,banana
+201982860,laptop,laptop,laptop,laptop,laptop,laptop,laptop,remote control
+201593899,girl,girl,girl,girl,girl,girl,girl,lady
+201756564,cat,cat,cat,cat,cat,cat,cat,cat
+20706024,computer,computer,computer,computer,computer,computer,computer,keyboard
+20244644,yellow,yellow,yellow,yellow,yellow,yellow,yellow,yellow
+201438588,no,no,no,no,no,no,no,yes
+202144675,blender,blender,blender,blender,blender,blender,blender,blender
+20492150,no,no,no,no,no,no,no,no
+20883166,no,no,no,no,no,no,no,no
+20740868,yes,yes,yes,yes,yes,yes,yes,yes
+202133635,american,american,american,american,american,american,american,asian
+2012752,yes,yes,yes,yes,yes,yes,yes,yes
+202049336,black,black,black,black,black,black,black,silver
+201273316,crosswalk sign,pedestrian crossing sign,crosswalk sign,pedestrian street sign,crosswalk sign,crosswalk sign,crosswalk sign,street sign
+201882512,red,red,red,red,red,red,red,white
+202218495,yes,yes,yes,yes,yes,yes,yes,yes
+20480529,no,no,no,no,no,no,no,yes
+2017267,red,red,red,red,red,red,red,red
+20247595,park,park,park,park,park,park,park,porch
+201593667,no,no,no,no,no,no,no,yes
+20573791,white,white,white,white,white,white,white,white
+20978749,no,no,no,no,no,no,no,yes
+20818967,white,white,white,white,white,white,white,black
+201593652,tree,tree,tree,tree,tree,tree,tree,trees
+20573613,to left,to left,to right,to left,to right,to right,to right,left
+202005788,cabinet,cabinet,cabinet,table,cabinet,cabinet,cabinet,cabinet
+20705744,computer,computer,computer,computer,computer,computer,computer,keyboard
+201621346,white,black,black,black,black,black,black,gray
+20911237,person,person,person,person on ledge,person,person,person,skateboarder
+201996733,unanswerable,unanswerable,unanswerable,unanswerable,unanswerable,unanswerable,unanswerable,airplane
+201188393,brown,brown,brown,tan,brown,brown,brown,gray
+201370409,plastic plate,table,plastic,floor,plastic,plastic,floor,mat
+202243297,woman,woman on motorcycle,woman on motorcycle,woman on motorcycle,woman on motorcycle,woman on motorcycle,woman on motorcycle,woman
+20403441,yes,yes,yes,no,yes,no,no,yes
+201887127,purple,purple,purple,purple,purple,purple,purple,purple
+201077061,white,white,white,white,white,white,white,white
+202060019,hat,hat,hat,santa hat,hat,hat,hat,hat
+201735472,laptop,laptop,laptop,laptop,laptop,laptop,laptop,computer
+201737899,no,no,no,no,no,no,no,no
+202158897,in city,in street,in street,in street,in street,in street,in street,parking lot
+20600207,rhino,rhino,rhino,rhino,rhino,rhino,rhino,rock
+201621303,no,no,no,no,no,no,no,yes
+201752809,no,no,no,no,no,no,no,yes
+201528079,no,no,no,no,no,no,no,no
+201759373,yes,yes,yes,yes,yes,yes,yes,yes
+201935877,no,no,no,no,no,no,no,yes
+202241127,table,table,table,plate,table,table,table,table
+201322695,no,no,no,yes,no,no,no,yes
+20710194,no,no,no,no,no,no,no,yes
+202208435,no,no,no,no,no,no,no,no
+20637278,knife,knife,knife,knife,knife,knife,knife,cutting board
+201342113,runway,airport,airport,airport,airport,airport,airport,airport
+20118038,elephant,elephant,elephant,elephant,elephant,elephant,elephant,elephant
+201455887,yes,yes,yes,no,yes,yes,yes,no
+201947661,right,right,right,right,right,right,right,right
+201878404,dog,dog,dog,chihuahua,dog,dog,dog,dog
+202012488,right side,right side,right side,right side,right side,right side,right side,right
+2017430,in grass,in grass,in grass,in grass,in grass,in grass,in grass,road
+20797684,cat,cat,cat,cat,cat,cat,cat,cat
+20295729,yes,yes,yes,yes,yes,yes,yes,yes
+201997912,it is long table,it is long table,it is long table,it is long table,it is long table,it is long table,it is long table,large
+201590142,no,no,no,no,no,no,no,yes
+201896499,wood,wood,wood,wood,wood,wood,wood,wood
+20781896,no,no,no,no,no,no,no,no
+20870462,three baseball players,three baseball players,three baseball players,three baseball players,three baseball players,three baseball players,three baseball players,player
+201759370,no,no,no,no,no,no,no,yes
+20245821,concrete,concrete,concrete,cement,concrete,concrete,concrete,metal
+20171133,pie plate,plate,plate,paper plate,plate,plate,plate,cutting board
+20226855,no,no,no,no,no,no,no,yes
+202037104,pepperoni,pepperoni,pepperoni,pepperoni,pepperoni,pepperoni,pepperoni,cheese
+20903215,no,no,no,no,no,no,no,no
+20636792,left side,right side,right side,right side,right side,right side,right side,left
+201247168,cat,cat,cat,cat,cat,cat,cat,cat
+20258939,bottom,bottom,bottom,bottom,bottom,bottom,bottom,top
+20514965,yes,yes,yes,yes,yes,yes,yes,no
+202100817,stovetop,stovetop,stovetop,stovetop,stovetop,stovetop,stovetop,burner
+201959594,yes,yes,yes,yes,yes,yes,yes,no
+20797685,cat,cat,cat,cat,cat,cat,cat,cat
+20978418,no,no,no,no,no,no,no,no
+20302965,no,no,no,no,no,no,no,no
+20968332,street sign,street sign,street sign,street sign,street sign,street sign,street sign,pole
+20856758,bed,bed,bed,bed,bed,bed,bed,bed
+201902743,computer,computer,computer,computer,computer,computer,computer,computer
+20618932,girl,one of people,one of people,one of people,one of people,one of people,one of people,people
+2017235,brown,brown,brown,brown,brown,brown,brown,black

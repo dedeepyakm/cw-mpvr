@@ -1,0 +1,6 @@
+,Greedy,Majority vote,CW-MPVR (CV),LXMERT,n
+query,27.3,27.9,28.1,45.1,1353
+verify,58.6,56.8,56.6,78.7,447
+logical,60.4,61.8,63.2,75.8,359
+choose,43.8,46.4,46.9,76.8,224
+compare,50.4,50.4,50.4,63.2,117
