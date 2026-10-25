@@ -49,3 +49,21 @@ def push(message: str) -> None:
     url = f"https://{token}@github.com/{_remote_path()}"
     _run(["git", "push", url, "HEAD:main"], secret=token)
     print(f"Pushed: {message}")
+
+
+def save_notebook(repo_path: str) -> None:
+    """Write the notebook currently open in Colab to repo_path (e.g. 'notebooks/01_data_eda.ipynb')."""
+    import json
+    from google.colab import _message
+    nb = _message.blocking_request("get_ipynb", timeout_sec=60)["ipynb"]
+    out = REPO_ROOT / repo_path
+    out.parent.mkdir(parents=True, exist_ok=True)
+    with open(out, "w") as f:
+        json.dump(nb, f, indent=1, ensure_ascii=False)
+    print(f"Saved notebook -> {repo_path}")
+
+
+def save_and_push(repo_path: str, message: str) -> None:
+    """Save the open notebook into the repo, then commit and push everything."""
+    save_notebook(repo_path)
+    push(message)
