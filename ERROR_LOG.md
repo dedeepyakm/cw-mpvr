@@ -35,3 +35,10 @@ Entries are added with `log_error(...)` from `src/errorlog.py` (or by hand, same
 - **Cause**: Hugging Face removed the Faster R-CNN checkpoint used by the official LXMERT demo to extract image features
 - **Fix**: Used the original LXMERT object features for GQA testdev released by the authors (gqa_testdev_obj36), the same features as in the paper
 - **Lesson**: Third-party checkpoints can disappear; prefer authors' released artefacts and keep fallbacks
+
+### E04 (2026-10-25)
+- **Where**: 04_cwmpvr / steps 6-8 (final evaluation)
+- **Error**: `Weights tuned on calibration (val) lowered testdev accuracy (39.6% vs 40.7% majority); calib/eval accuracy surfaces correlated -0.33`
+- **Cause**: Distribution shift: val images are 100% Visual Genome (seen in BLIP-2 pretraining), testdev 0%; ITM grounding is much sharper on seen images (AUC 0.603 vs 0.544), so val over-weights grounding
+- **Fix**: Reported the pre-specified result unchanged and added 5-fold image-grouped cross-validation on testdev: CW-MPVR 41.2% vs 40.7% majority (p = 0.13), stable weights across folds
+- **Lesson**: A calibration split must match the test image source; a model's own confidence can be inflated on its pretraining data
