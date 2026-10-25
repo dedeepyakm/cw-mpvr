@@ -1,0 +1,4 @@
+,"calib (val, seen images)","eval (testdev, new images)"
+answer confidence,0.4943,0.5095
+evidence grounding (ITM),0.603,0.5442
+answer grounding (QA-ITM),0.4875,0.5024

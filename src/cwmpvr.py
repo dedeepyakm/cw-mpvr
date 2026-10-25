@@ -27,7 +27,7 @@ EPS = 1e-6
 def grounding_signal(paths: pd.DataFrame, kind: str = "itm") -> np.ndarray:
     """ITM is a probability -> use its log; ITC is a similarity -> use as is."""
     v = paths[kind].values.astype(float)
-    return np.log(np.clip(v, EPS, 1.0)) if kind == "itm" else v
+    return np.log(np.clip(v, EPS, 1.0)) if kind.endswith("itm") else v
 
 
 def path_scores(paths, beta, gamma, grounding="itm"):

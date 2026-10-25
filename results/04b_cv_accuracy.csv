@@ -1,0 +1,8 @@
+,accuracy,ci_low,ci_high
+Answer-only (CV),41.04,38.92,43.13
+Evidence grounding-only (CV),41.04,39.02,43.07
+CW-MPVR evidence (CV),41.32,39.24,43.4
+QA grounding-only (CV),40.6,38.54,42.67
+CW-MPVR QA (CV),41.08,39.03,43.15
+Majority vote,40.68,38.62,42.74
+Greedy,40.2,38.16,42.23
