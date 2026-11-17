@@ -1,0 +1,2501 @@
+id,Greedy,Majority vote,Answer-only,CW-MPVR (pre-specified),Answer-only (CV),Grounding-only (CV),CW-MPVR (CV)
+07877562,bus,bus,bus,bus,bus,bus,bus
+06315267,chair,chair,chair,chair,chair,chair,chair
+06377815,carrots,carrots,carrots,carrots,carrots,carrots,carrots
+00250541,no,no,no,no,no,no,no
+13354944,man,man,man,man,man,man,man
+04860266,chairs,chairs,chairs,chairs,chairs,chairs,chairs
+06423811,sausage,sausage,sausage,sauerkraut,sausage,sausage,sauerkraut
+0467128,no,no,no,no,no,no,no
+1482085,no,no,no,no,no,no,no
+11283846,no,no,no,yes,no,yes,yes
+16643130,yes,yes,yes,yes,yes,yes,yes
+02962581,to right,to right,to right,to left,to right,to right,to right
+15284438,right side,right side,right side,right side,right side,right side,right side
+00295694,elephant,elephant,elephant,elephant,elephant,elephant,elephant
+17504894,no,no,no,no,no,no,no
+16922129,right side,right side,right side,other side,right side,right side,right side
+13876913,toilet,toilet,toilet,toilet,toilet,toilet,toilet
+08113184,skateboarder,skateboard,skateboard,skateboard,skateboard,skateboard,skateboard
+02223670,no,no,no,no,no,no,no
+12697739,catcher,catcher,catcher,catcher,catcher,catcher,catcher
+08651479,no,no,no,no,no,no,no
+11409071,right side,right side,right side,right side,right side,right side,right side
+19452631,no,no,no,no,no,no,no
+1573635,no,no,no,no,no,no,no
+06752634,indoors,indoors,indoors,indoors,indoors,indoors,indoors
+07944882,not enough information,not enough information,not enough information,not enough information,not enough information,not enough information,not enough information
+16946310,box,box,box,box,box,box,box
+011002001,blue,blue,blue,blue,blue,blue,blue
+151015707,man,man,man,man,man,man,man
+001025416,no,no,no,no,no,no,no
+17150347,horse,horse,horse,horse,horse,horse,horse
+12103111,indoors,indoors,indoors,indoors,indoors,indoors,indoors
+17748355,zoo,zoo,zoo,zoo,zoo,zoo,zoo
+19686096,no,no,no,no,no,no,no
+16432505,black,black,black,black,black,black,black
+09993317,shirt,shirt,shirt,shirt,shirt,shirt,shirt
+17522922,baseball field,baseball field,baseball field,home plate,baseball field,baseball field,baseball field
+02253016,pole,pole,pole,ceiling,pole,ceiling,ceiling
+13719690,yes,yes,yes,yes,yes,yes,yes
+19929645,plate,plate,plate,plate,plate,plate,plate
+10758673,no,no,no,yes,no,no,no
+19774664,sink,sink,sink,sink,sink,sink,sink
+12889619,black dress,black dress,black dress,black dress,black dress,black dress,black dress
+17437082,mirror,picture,picture,mirror,picture,paintings,paintings
+14740457,black,black,black,black,black,black,black
+141010514,man,person,person,man,person,man,man
+02571151,street sign,street sign,street sign,street sign,street sign,street sign,street sign
+06742831,bending,bending,bending,bending,bending,bending,bending
+17336287,monitor,monitor,monitor,monitor,monitor,monitor,monitor
+11615254,no,no,no,yes,no,no,no
+16801656,no,no,no,no,no,no,no
+04740683,hot dog,hot dog,hot dog,hot dog,hot dog,hot dog,hot dog
+0481251,it is small,it is small,it is small,it is small,it is small,it is small,it is small
+01150469,cloth,cloth,cloth,glass,cloth,glass,glass
+05749330,right,right,right,right,right,right,right
+05295305,to right,to right,to right,to right,to right,to right,to right
+1638224,right side,left side,left side,left side,left side,left side,left side
+01557868,wall,wall,wall,wall,wall,wall,wall
+14579049,bag,bag,bag,bag,bag,bag,bag
+19612928,wii remote,wii remote,video game controller,video game console,video game controller,wii remote,wii remote
+1599922,no,no,no,yes,no,yes,yes
+14196998,mashed potatoes,sandwich,sandwich,potato salad,sandwich,potato salad,potato salad
+19311728,to right,to right,to right,to left,to right,to left,to left
+12669963,no,no,no,no,no,no,no
+15874674,truck,truck,truck,truck,truck,truck,truck
+01162741,skate park,skate park,skate park,skate park,skate park,skate park,skate park
+03695025,horse,horse,horse,horse,horse,horse,horse
+19954239,carrots,carrots,carrots,carrots,carrots,carrots,carrots
+00698815,no,no,no,no,no,no,no
+181041667,no,no,no,no,no,no,no
+03150276,no,no,no,no,no,no,no
+1755317,no,no,no,no,no,no,no
+03156770,no,no,no,no,no,no,no
+09729140,fruit,chocolate dessert,chocolate dessert,fruit dessert,chocolate dessert,fruit dessert,fruit dessert
+04639773,corn,corn,corn,corn,corn,corn,corn
+08903597,rice,rice,rice,rice,rice,rice,rice
+01310969,train station,train station,train station,station building,train station,train station,train station
+02112521,no,no,no,no,no,no,no
+1067385,teddy bear,teddy bear,teddy bear,teddy bear,teddy bear,teddy bear,teddy bear
+07153620,bottom,bottom,bottom,bottom,bottom,bottom,bottom
+12518184,chair,blanket,chair,deck,chair,deck,deck
+10872359,yes,yes,yes,yes,yes,yes,yes
+06550250,yes,no,no,no,no,no,no
+00139783,top,top,top,top,top,top,top
+14175295,in middle of street,in middle of street,in middle of street,in middle of street,in middle of street,in middle of street,in middle of street
+13324615,broccoli,broccoli,broccoli,broccoli,broccoli,broccoli,broccoli
+16614397,no,no,no,no,no,no,no
+15495056,to right,to right,to right,to right,to right,to right,to right
+05334621,catcher,catcher,catcher,batter,catcher,catcher,catcher
+18297424,orange,banana,banana,banana,banana,banana,banana
+11309165,piece of pizza,slice of pizza,slice of pizza,piece of pizza,slice of pizza,piece of pizza,piece of pizza
+10982333,no,no,no,no,no,no,no
+01354044,to right,to right,to right,to right,to right,to right,to right
+03909492,left side,right side,right side,right side,right side,right side,right side
+06860052,right side,left side,left side,left side,left side,left side,left side
+16998389,tennis court,tennis racket,tennis racket,tennis player,tennis racket,tennis player,tennis player
+05738443,meat,meat,meat,meat,meat,meat,meat
+12977449,lamp,lamp,lamp,lamp,lamp,lamp,nightstand
+03262861,white,white,white,white,white,white,white
+10331420,shelf,shelf,shelf,bookcase,shelf,shelf,shelf
+11821383,no,no,no,no,no,no,no
+12316054,no,no,no,no,no,no,no
+04903769,no,no,no,yes,no,no,no
+09713584,barn,sheep,barn,sheep,sheep,sheep,sheep
+15801943,no,no,no,no,no,no,no
+10239176,city,city,city,park,city,city,city
+1323392,no,donuts,no,no,no,no,no
+09587484,left side,left side,left side,left side,left side,left side,left side
+16713310,chandelier,chandelier,chandelier,chandelier,chandelier,chandelier,chandelier
+02987713,yes,yes,yes,no,yes,yes,yes
+03719411,white shirt,hat,hat,hat,hat,hat,hat
+07749212,no,no,no,no,no,no,no
+07320258,private jet,private jet,private jet,small airplane,private jet,private jet,private jet
+05479801,no,no,no,no,no,no,no
+03262818,white,white,white,white,white,white,white
+01107348,blue,black,black,black,black,black,black
+03726931,wii remote,wii remote,wii remote,wii remote,wii remote,wii remote,wii remote
+04416364,train,train,train,train,train,train,train
+03566191,tv,tv,tv,tv,tv,tv,tv
+07527868,man,man,man,skateboarder,man,man,man
+03946562,to right,to left,to left,to right,to left,to right,to right
+01695468,to right,to right,to right,to right,to right,to right,to right
+19640759,green,green,green,green,green,green,green
+17772715,monitor,monitor,monitor,monitor,monitor,monitor,monitor
+02962346,yes,no,no,yes,no,yes,yes
+16840610,no,no,no,no,no,no,no
+091008525,right side,right side,right side,right side,right side,right side,right side
+15170145,yes,yes,yes,yes,yes,yes,yes
+01782720,cat,cat,cat,cat,cat,cat,cat
+01501268,to right,to right,to right,to right,to right,to right,to right
+13643896,to right,to right,to right,to right,to right,to right,to right
+13571711,man,man,man,man,man,man,man
+01860106,yes,yes,yes,yes,yes,yes,yes
+19402680,laptop,laptop,laptop,laptop,laptop,laptop,laptop
+17700711,it is small,it is small,it is small,it is small,it is small,it is small,it is small
+17867780,no,no,no,no,no,no,no
+0868760,train station,train station,train station,train station,train station,train station,train station
+11713996,yes,yes,yes,yes,yes,yes,yes
+17811042,train,train,train,train,train,train,train
+16880895,yes,yes,yes,yes,yes,yes,yes
+14279340,no,no,no,no,no,no,no
+08126174,train,train,train,train,train,train,train
+08243873,rice,rice,rice,rice,rice,rice,rice
+07509250,on corner,on pole,on pole,on red pole next to grass,on pole,on pole,on pole
+10253895,cabinets,cabinets,cabinets,cabinets,cabinets,cabinets,cabinets
+1369967,computer desk,computer desk,computer desk,computer desk,computer desk,computer desk,computer desk
+0832734,dog,dog,dog,donkey,dog,donkey,donkey
+0113960,to right,to right,to right,to right,to right,to right,to right
+0316240,cow,cow,cow,cow,cow,cow,cow
+11611486,yes,yes,yes,yes,yes,yes,yes
+10662525,yes,no,no,no,no,no,no
+19992497,lamp shade,lamp shade,lamp shade,lamp shade,lamp shade,lamp shade,lamp shade
+19702117,no,no,no,no,no,no,no
+10212547,left side,right side,right side,left side,right side,left side,left side
+11804662,pink,white,white,pink,white,pink,pink
+19780442,white airplane,blue airplane,blue airplane,blue airplane,blue airplane,blue airplane,blue airplane
+12657298,skateboard,skateboard,skateboard,skateboard,skateboard,skateboard,skateboard
+17396401,girl,girl,girl,girl,girl,girl,girl
+10651458,bottom,top,top,top,top,top,top
+19557407,cowboy hat,cowboy hat,cowboy hat,cowboy hat,cowboy hat,cowboy hat,cowboy hat
+15940411,dog,dog,dog,dog,dog,dog,dog
+07825246,blender,blender,blender,blender,blender,blender,blender
+08784506,yes,no,no,no,no,no,no
+07670548,no,no,no,no,no,no,no
+02986956,to right,to right,to right,to right,to right,to right,to right
+17725888,no,no,no,no,no,no,no
+04583731,right side,right side,right side,left,right side,right side,right side
+0250780,no,no,no,no,no,no,no
+19867289,no,no,no,no,no,no,no
+11444798,black shirt,black shirt,black shirt,black t shirt,black shirt,black shirt,black t shirt
+19338756,no,no,no,no,no,no,no
+0565187,copper,metal,metal,metal,metal,metal,metal
+181002473,no,no,no,no,no,no,no
+15638532,bananas,bananas,bananas,bananas,bananas,bananas,bananas
+01239748,not enough information,not enough information,not enough information,not enough information,not enough information,not enough information,not enough information
+19613818,red,red,red,red,red,red,red
+06692529,plastic,plastic,plastic,plastic,plastic,plastic,plastic
+111008713,no,no,no,no,no,no,no
+12992936,dog,dog,dog,dog,dog,dog,dog
+13789361,no,yes,yes,no,yes,yes,yes
+00227060,man,man,man,three people,man,man,man
+08810045,they are black,they are black,they are black,they are black,they are black,they are black,they are made of wood
+17398600,no,no,no,no,no,no,no
+17835149,painting,painting,painting,sign,painting,painting,painting
+07552724,no,no,no,no,no,no,no
+01949690,laptop,laptop,laptop,laptop,laptop,laptop,laptop
+10298777,no,yes,yes,no,yes,yes,yes
+1257444,yes,yes,yes,yes,yes,yes,yes
+13763995,no,no,no,no,no,no,no
+0898955,van,van,van,van,van,van,van
+08215023,no,no,no,no,no,no,no
+05399417,jumping,jumping,jumping for frisbee,jumping for frisbee,jumping,jumping,jumping for frisbee
+11524228,plastic,plastic,plastic,plastic,plastic,plastic,plastic
+19117988,road,road,road,road,road,road,road
+13774555,ocean,ocean,ocean,ocean,ocean,ocean,ocean
+051033196,man,man,man,man,man,man,man
+09239910,no,no,no,cow,no,cow,cow
+04860271,no,no,no,no,no,no,no
+17328502,no,no,no,no,no,no,no
+03578781,suit,suit,suit,dress,suit,suit,dress
+03407998,table of vegetables,pattern,pattern,pattern,pattern,pattern,pattern
+05343517,to right,to right,to right,to right,to right,to right,to right
+19555958,no,no,no,yes,no,no,no
+14732878,jacket and hat,jacket and scarf,gloves jacket and,gloves jacket and,jacket and scarf,gloves jacket and,gloves jacket and
+10355475,white,white,white,grey,white,white,white
+06315318,window,window,window,window,window,window,window
+09815467,no,no,no,no,no,no,no
+18896067,sofa,sofa,sofa,couch,sofa,sofa,couch
+171017863,pair of black pants,shoes,shoes,striped pants,shoes,shoes,shoes
+12829302,coffee table,bed,bed,coffee table,bed,bed,bed
+08574026,yes,yes,yes,no,yes,yes,yes
+01878030,to right,to right,to right,to right,to right,to right,to right
+13917544,yes,yes,yes,yes,yes,yes,yes
+05725487,no,no,no,no,no,no,no
+02138046,chair,couch,sofa,chair,sofa,chair,chair
+141006469,cow,cow,cow,cow,cow,cow,cow
+0123730,hill,grass,grass,grassy area,grass,field,field
+17873222,pizza,pizza,pizza,pizza,pizza,pizza,pizza
+14667211,no,no,no,no,no,no,no
+11309138,no,no,no,no,no,no,no
+08180670,small plane,fence,fence,fence,fence,fence,fence
+191027842,no,no,no,no,no,no,no
+14858053,t shirt,t shirt,t shirt,blue pants,t shirt,t shirt,t shirt
+0717960,no,no,no,no,no,no,no
+11805476,no,no,no,no,no,no,no
+1399950,man,man,man,man,man,man,man
+13654666,laptop,laptop,laptop,laptop,laptop,laptop,laptop
+06623536,skateboard,skateboard,skateboard,car,skateboard,skateboard,skateboard
+1053431,field,field,field of flowers,field of flowers,field of flowers,field of flowers,field of flowers
+10479222,in field,in field,on field,on field,in field,in field,on field
+001052980,no,no,no,no,no,no,no
+13124390,laptop,laptop,laptop,laptop,laptop,laptop,laptop
+01675516,couch,rug,rug,rug,rug,rug,rug
+18874316,yes,yes,yes,yes,yes,yes,yes
+00474968,no,no,no,no,no,no,no
+06151109,it is very small,it is small,it is small,it is small,it is small,it is small,it is small
+14604065,to right,to right,to right,to left,to right,to left,to left
+09256168,fork,fork,fork,fork,fork,fork,fork
+11168726,no,no,no,no,no,no,no
+11494583,no,no,no,no,no,no,no
+01225836,it is small boat,it is small boat,it is small boat,it is small boat,it is small boat,it is small boat,it is small boat
+07184638,fork,fork,fork,fork,fork,fork,fork
+03101921,balcony,balcony,balcony,house,balcony,balcony,balcony
+13554316,umbrellas,umbrellas,umbrellas,umbrellas,umbrellas,umbrellas,umbrellas
+10356395,right side,right side,right side,right side,right side,right side,right side
+10508336,cobblestone,cobblestone,cobblestone,cobblestone,cobblestone,cobblestone,cobblestone
+15315691,to right,to right,to right,to right,to right,to right,to right
+09567583,in middle of yard,in yard,in yard,below person s legs,in yard,in yard,below person s legs
+09581055,white,white,white,white,white,white,white
+181021067,white,white,white,white,white,white,white
+19548745,train,train,train,train,train,train,train
+11168512,couch,couch,couch,couch,couch,couch,couch
+11439959,bus,bus,bus,streetcar,bus,bus,streetcar
+09945923,zoo,zoo,zoo,zoo,zoo,zoo,zoo
+01124196,no,no,no,no,no,no,no
+10227153,bus,car,car,bus,car,car,bus
+17467193,oven,oven,oven,refrigerator,oven,refrigerator,refrigerator
+18791427,green dress,hat,hat,leprechaun costume,hat,leprechaun costume,leprechaun costume
+19452562,concrete,concrete,concrete,concrete,concrete,concrete,concrete
+08265215,no,yes,yes,yes,yes,yes,yes
+15386994,skateboarder,skateboarder,skateboarder,all hands are on deck,skateboarder,skateboarder,skateboarder
+04135480,no,yes,no,no,no,no,no
+07514257,stuffed animals,stuffed animals,stuffed animals,stuffed animals,stuffed animals,stuffed animals,stuffed animals
+04897279,chair,table,table,chair,table,table,table
+14522479,boy,boy,boy,boy,boy,boy,boy
+07349458,motorcycle,motorcycle,motorcycle,motorcycle,motorcycle,motorcycle,motorcycle
+06313849,no one,no one,no one,no one,no one,no one,no one
+19192108,blue,blue,blue,not enough information,blue,blue,blue
+05925406,fire hydrant,fire hydrant,fire hydrant,fire hydrant,fire hydrant,fire hydrant,fire hydrant
+0056891,no,no,no,no,no,no,no
+11314130,green,green,green,green,green,green,green
+08468838,no,no,no,no,no,no,no
+14329639,yes,yes,yes,yes,yes,yes,yes
+17577916,suit,suit,suit,suit,suit,suit,suit
+11960184,yes,yes,yes,no,yes,yes,yes
+18922753,building,woman riding bike,woman riding bike,woman on bike,woman riding bike,woman on bike,woman on bike
+12164510,jacket,jacket,jacket,dress shirt,jacket,jacket,jacket
+04978633,no,no,no,no,no,no,no
+00765758,man,person,person,person,person,person,person
+12839526,to right,to right,to right,to right,to right,to right,to right
+14180004,no,yes,yes,yes,yes,yes,yes
+09743946,wall,wall,wall,wall,wall,wall,wall
+19547297,in front of truck,in parking lot,in front of truck,in barn,in parking lot,in barn,in barn
+14106638,black,black,black,black,black,black,black
+07478601,green,green,green,gray,green,gray,gray
+1260073,table,desk,table,desk,table,desk,desk
+10280399,right side,right,right,right,right,right,right
+05300026,double decker bus,bus,bus,bus,bus,bus,bus
+07733320,no,no,no,no,no,no,no
+03983260,train,train,train,train engine,train,train,train
+04527939,wood,wood,wood,wood,wood,wood,wood
+12379843,yes,yes,yes,yes,yes,yes,yes
+02914458,no,no,no,no,no,no,no
+13539353,young boy,boy,boy,young boy,boy,young boy,young boy
+00729077,no,no,no,no,no,no,no
+19125100,man,tennis player,tennis player,tennis player,tennis player,tennis player,tennis player
+08792452,no,no,no,no,no,no,no
+13693486,table,table,table,table,table,table,table
+17797152,shopping bag,shopping bag,shopping bag,shopping bag,shopping bag,shopping bag,shopping bag
+07358428,dining table,dining table,dining table,dining table,dining table,dining table,dining table
+1037840,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator
+051047178,right side,right side,right side,child s,right side,right side,child s
+041035818,donuts,donuts,donuts,scone,donuts,donuts,donuts
+19992340,yes,yes,yes,yes,yes,yes,yes
+00484835,to right,to left,to left,to left,to left,to left,to left
+1164982,no,no,no,no,no,no,no
+0660215,right side,right side,right side,right side,right side,right side,right side
+0711902,blue,blue,blue,blue,blue,blue,blue
+0864816,grass,grass,grass,grass,grass,grass,grass
+18454112,in living room,in living room,in living room,in living room,in living room,in living room,in living room
+06775507,bowl,bowl,bowl,bowl,bowl,bowl,bowl
+06224169,laptop,laptop,laptop,laptop,laptop,laptop,laptop
+14836009,no,no,no,no,no,no,no
+17393779,catcher,catcher,catcher,catcher,catcher,catcher,catcher
+17853028,no,no,no,no,no,no,no
+14682012,outdoors,outdoors,outdoors,outdoors,outdoors,outdoors,outdoors
+00542090,to right,to right,to right,to right,to right,to right,to right
+14481140,brown,white,white,white,white,white,white
+19443188,right side,right side,right side,right side,right side,right side,right side
+03434710,no,no,no,no,no,no,no
+00414228,woman,woman,woman,woman,woman,woman,woman
+06399622,white shirt,white shirt,white shirt,white shirt,white shirt,white shirt,uniform
+13146042,umbrellas,umbrellas,umbrellas,umbrellas,umbrellas,umbrellas,umbrellas
+0414713,yes,yes,yes,yes,yes,yes,yes
+03830890,donkey,donkey,donkey,donkey,donkey,donkey,donkey
+00600970,yes,yes,yes,yes,yes,yes,yes
+10276055,tarp,robe,bag,robe,bag,robe,cloth
+01288630,bottom,bottom,bottom,top,bottom,bottom,bottom
+18383033,no,no,no,no,no,no,no
+10744104,yes,yes,yes,yes,yes,yes,yes
+171032056,yes,yes,yes,yes,yes,yes,yes
+05643326,eggs,eggs,eggs,eggs,eggs,eggs,eggs
+081030271,to right,right,right,to right,right,to right,to right
+00151123,no,yes,yes,no,yes,yes,no
+16110130,bookcase,desk,desk,desk,desk,desk,desk
+15841608,cupcakes,cupcakes,cupcakes,cupcakes,cupcakes,cupcakes,cupcakes
+01346816,camera,camera,camera,camera,camera,camera,camera
+14738466,brown,brown,brown,blue,brown,brown,brown
+08965535,yes,yes,yes,yes,yes,yes,yes
+03450429,cat,cat,cat,cat,cat,cat,cat
+17888504,no,no,no,no,no,no,no
+01597202,no,no,no,no,no,no,no
+00300290,elephant,elephant,elephant,elephant,elephant,elephant,elephant
+03736121,zebra,zebra,zebra,zebras,zebra,zebra,zebra
+03695296,to right,to left,to left,to right,to left,to left,to left
+03450301,dog,dog,dog,dog,dog,dog,dog
+05537166,yes,yes,yes,yes,yes,yes,yes
+09355790,cows,cows,cows,cows,cows,cows,cows
+12175690,yes,no,no,yes,no,yes,yes
+16225434,city,city,city,city,city,city,city
+181040522,no,no,no,no,no,no,no
+01852032,no,no,no,no,no,no,no
+121019995,man,man,man,skateboarder,man,man,man
+04907679,no,no,no,no,no,no,no
+17512674,white,white,white,white,white,white,white
+009962,microwave,microwave,microwave,microwave,microwave,microwave,microwave
+1131732,yes,yes,yes,yes,yes,yes,yes
+12295475,yes,yes,yes,yes,yes,yes,yes
+00271104,no,no,no,no,no,no,no
+06197725,at table,at table,at table,at table,at table,at table,at table
+16464497,right side,right side,right side,right side,right side,right side,right side
+16341273,boy,boy,boy,boy,boy,boy,boy
+15775914,woman,woman,woman,old lady,woman,woman,woman
+071016282,cell phone,cell phone,cell phone,cell phone,cell phone,cell phone,cell phone
+01174058,blond,blond,blond,blond,blond,blond,blond
+00361878,beach,beach,beach,beach,beach,beach,beach
+10144613,yes,yes,yes,yes,yes,yes,yes
+15483268,satchels,messenger bag,messenger bag,unanswerable,messenger bag,messenger bag,messenger bag
+12140340,laptop,camera,camera,laptop,camera,camera,camera
+15777294,helmet,helmet,helmet,leather jacket and gloves,helmet,helmet,helmet
+16167619,elephants,elephants,elephants,elephants,elephants,elephants,elephants
+19645351,no,yes,yes,yes,yes,yes,yes
+07548232,yes,yes,yes,yes,yes,yes,yes
+1682911,boy,boy,boy,first boy,boy,boy,first boy
+14710664,banana,banana,banana,banana,banana,banana,banana
+08948315,no,no,no,no,no,no,no
+0794926,plastic,plastic,plastic,plastic,plastic,plastic,plastic
+16773874,black jacket,black shirt,black shirt,black hat and white jacket,black shirt,black shirt,black hat and white jacket
+0578510,bagel,bagel,bagel,bagels,bagel,bagel,bagel
+1768706,orange,orange,orange,orange,orange,orange,orange
+0815354,yes,yes,yes,yes,yes,yes,yes
+09116090,no,no,no,no,no,no,no
+03196303,uniform,uniform,uniform,uniform,uniform,uniform,uniform
+02717851,left,right,right,right,right,right,right
+08737113,bottom,bottom,bottom,bottom,bottom,bottom,bottom
+14195512,no,no,no,yes,no,no,no
+1864168,man,man,man,man,man,man,man
+02409477,no,yes,yes,yes,yes,yes,yes
+12409611,bottom,bottom,bottom,bottom,bottom,bottom,bottom
+16872841,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator
+191011896,clock,clock,clock,word coca cola,clock,clock,clock
+11430795,green,green,green,white,green,green,green
+18866517,no,no,no,no,no,no,no
+11778434,pink,blue,blue,pink,blue,pink,pink
+0440456,no,yes,yes,no,yes,no,no
+02292620,people,people,people,group of people,people,people,group of people
+1845437,no,no,no,yes,no,no,no
+04967173,woman,person,person,woman,person,person,person
+02475238,wood,wood,wood,wood,wood,wood,wood
+14905458,square,square,square,round,square,round,round
+06197827,no,no,no,no,no,no,no
+02307827,laptop,laptop,laptop,laptop,laptop,laptop,laptop
+1542397,laptop,laptop,laptop,his laptop,laptop,laptop,laptop
+09892553,oven,oven,oven,refrigerator,oven,oven,oven
+17916183,in snow,in snow,in snow,in snow,in snow,in snow,in snow
+15918446,book,book,book,book,book,book,book
+00576753,yes,yes,yes,yes,yes,yes,yes
+01459597,red,red,red,red,red,red,red
+12160304,yes,yes,yes,yes,yes,yes,yes
+12800841,blue shirt,shirt,blue top with white stripes,green shirt,shirt,green shirt,green shirt
+00183916,no,no,no,no,no,no,no
+13657792,in ocean,in ocean,in ocean,on top of windsurf,in ocean,in ocean,in ocean
+001006994,no,no,no,no,no,no,no
+03288272,no,no,no,no,no,no,no
+09353409,branch,branch,branch,wooden stick,branch,wooden stick,wooden stick
+121052741,child,child,child,kids,child,kids,kids
+06493530,no,yes,no,no,no,no,no
+07251142,yes,yes,yes,yes,yes,yes,yes
+1317713,no,no,no,no,no,no,no
+12582053,no,no,no,no,no,no,no
+16433912,no,no,no,no,no,no,no
+17425804,to right,to right,to right,to right,to right,to right,to right
+05280912,right side,right side,right side,right side,right side,right side,right side
+05427984,stainless steel,stainless steel,stainless steel,stainless steel,stainless steel,stainless steel,stainless steel
+03830944,no,no,no,no,no,no,no
+10887056,no,no,no,yes,no,no,no
+1086434,no,no,no,no,no,no,no
+10486534,right,right,right,right,right,right,right
+03993779,baby,baby,baby,baby,baby,baby,baby
+02377887,yes,yes,yes,yes,yes,yes,yes
+06707623,no,yes,yes,yes,yes,yes,yes
+12901003,yes,yes,yes,yes,yes,yes,yes
+02111156,van,van,van,van,van,van,van
+09301309,elephants,elephants,elephants,elephants,elephants,elephants,elephants
+12577769,yes,yes,yes,yes,yes,yes,yes
+17706711,large,large,large,large,large,large,large
+11560641,no,no,no,no,no,no,no
+02228133,no,no,no,no,no,no,no
+03614124,wii remote,wii remote,wii remote,wii remote,wii remote,wii remote,wii remote
+00267577,bottom,bottom,bottom,bottom,bottom,bottom,bottom
+06580739,woman,woman,woman,lady,woman,woman,woman
+18947304,greens,greens,greens,greens,greens,greens,greens
+131023193,yes,yes,yes,yes,yes,yes,yes
+00646977,right,right,right,right,right,right,right
+08592810,yes,yes,yes,yes,yes,yes,yes
+1735204,catcher,catcher,catcher,catcher,catcher,catcher,catcher
+05478389,clock,clock,clock,clock,clock,clock,clock
+05758307,middle,middle,middle,background,middle,middle,middle
+02149846,sign,sign,sign,cart,sign,sign,sign
+00199187,bottom,top,top,bottom,top,bottom,bottom
+08231724,wii,video game console,video game console,video game console,video game console,video game console,video game console
+13541220,no,no,no,no,no,no,no
+10345682,woman,woman,woman,woman,woman,woman,woman
+14298136,to right,to right,to right,to right,to right,to right,to right
+16403450,yes,no,no,no,no,no,no
+09987525,bed,bed,bed,blanket,bed,bed,bed
+08149247,wooden bench,wooden floor,wooden floor,wooden floor,wooden floor,wooden floor,wooden floor
+04806577,no,no,no,no,no,no,no
+13964348,no,no,no,no,no,no,no
+04472797,clock,clock,clock,clock,clock,clock,clock
+01460294,foam,surfer,surfer,foam,surfer,surfer,surfer
+00648814,to right,to right,to right,to right,to right,to right,to right
+02867407,elephant,elephant,elephant,elephant,elephant,elephant,elephant
+15394074,table,table,table,table,table,table,table
+1986848,right side,right side,right side,right side,right side,right side,right side
+05336700,yes,yes,yes,yes,yes,yes,yes
+1678417,yes,yes,yes,yes,yes,yes,yes
+14505022,wood,wood,wood,wood,wood,wood,wood
+0699015,no,yes,yes,no,yes,no,no
+07638005,yes,yes,yes,yes,yes,yes,yes
+01307147,no,no,no,no,no,no,no
+141024434,yes,yes,yes,yes,yes,yes,yes
+1678474,no,yes,no,no,no,no,no
+051039469,wood,wood,wood,rocks,wood,wood,wood
+07426003,elephant,elephant,elephant,elephant,elephant,elephant,elephant
+06143956,catcher,catcher,catcher,umpire,catcher,catcher,catcher
+15724111,they are both white,they are both blue,they are both blue,they are both white,they are both blue,they are both blue,they are both blue
+07877700,no,no,no,no,no,no,no
+00822610,no,no,no,no,no,no,no
+13168941,right side,right side,right side,right side,right side,right side,right side
+01944838,camera,camera,camera,camera,camera,camera,camera
+16312273,to right,to right,to right,to left,to right,to right,to right
+07287004,no,no,no,no,no,no,no
+16137996,no,no,no,no,no,no,no
+16413978,yes,yes,no,no,no,no,no
+14143735,right side,right side,right side,right side,right side,right side,right side
+05709085,blue,blue,blue,blue,blue,blue,blue
+18507632,bench,car,car,bench,car,bench,bench
+10329733,bicycle,bike,bike,truck,bike,truck,truck
+09277171,no,no,no,no,no,no,no
+00599210,to right,to right,to right,left,to right,left,left
+04197632,yes,yes,yes,yes,yes,yes,yes
+04431973,green hat,green hat,green hat,green netting,green hat,green netting,green netting
+17437210,no,no,no,no,no,no,no
+09520131,cell phone,cell phone,cell phone,small electronic device,cell phone,cell phone,cell phone
+15576829,no,no,no,no,no,no,no
+12401590,man,man,man,man,man,man,man
+04585781,no,no,no,no,no,no,no
+00529329,bottom,bottom,bottom,bottom,bottom,bottom,bottom
+17667790,yes,yes,yes,yes,yes,yes,yes
+13766665,no,no,no,no,no,no,no
+18942979,bed,bed,bed,bed,bed,bed,bed
+12877508,pizza,pizza,pizza,pizza,pizza,pizza,pizza
+03768031,no,no,no,no,no,no,no
+09964769,muffins,muffins,muffins,muffins,muffins,muffins,muffins
+0826152,bottom,bottom,bottom,bottom,bottom,bottom,bottom
+08961533,swimsuit,swimsuit,swimsuit,wetsuit,swimsuit,wetsuit,wetsuit
+162553,yes,yes,yes,yes,yes,yes,yes
+13450853,desk,desk,desk,desk,desk,desk,desk
+13773380,man,man,man,man,man,man,man
+16815818,yes,yes,yes,yes,yes,yes,yes
+01695385,no,no,no,no,no,no,no
+07937884,to right,to right,to right,to right,to right,to right,to right
+05122940,no,no,no,no,no,no,no
+10459326,gate,gate,gate,gate,gate,gate,gate
+02202573,no,no,no,no,no,no,no
+18986396,yes,yes,yes,yes,yes,yes,yes
+18485879,white,white,white,white,white,white,white
+04252126,no,no,no,yes,no,no,no
+04466545,no,no,no,no,no,no,no
+0163086,standing,standing,standing on skis,standing with skis,standing,standing,standing
+16565685,white,brown,brown,white,brown,white,white
+08164687,no,no,no,no,no,no,no
+06388818,3 feet,it is tall,it is tall,it is tall,it is tall,it is tall,it is tall
+0870634,to right,to right,to right,to right,to right,to right,to right
+09937726,table,table,table,tabletop,table,table,table
+0613140,white,black,black,black,black,black,black
+14590471,wood,wood,wood,wood,wood,wood,wood
+02133513,bottom,bottom,bottom,bottom,bottom,bottom,bottom
+10607117,paddles,paddle,paddle,paddle,paddle,paddle,paddle
+03472071,no,no,no,no,no,no,no
+03131102,man,man,man,man,man,man,man
+15584318,on table,on table,on table,near fireplace,on table,on table,near fireplace
+19229210,man,person,person,man,person,person,person
+05795133,no,no,no,no,no,no,no
+02951120,video game console,wii controller,wii,wii,wii,wii,wii
+12140641,laptop,laptop,laptop,laptop,laptop,laptop,laptop
+0832988,horse,horse,horse,horse,horse,horse,horse
+091045198,no,no,no,no,no,no,no
+1028481,motorcycle,motorcycle,motorcycle,police car,motorcycle,motorcycle,motorcycle
+02925537,to right,to right,to right,to right,to right,to right,to right
+07305361,man,man,man,man,man,man,man
+03133589,no,no,yes,no,yes,no,no
+08641506,yes,yes,yes,yes,yes,yes,yes
+17519934,yes,yes,yes,yes,yes,yes,yes
+15565360,cake,cake,cake,doughnuts,cake,donuts,doughnuts
+17827917,yes,yes,yes,yes,yes,yes,yes
+01996824,blue,blue,blue,blue,blue,blue,blue
+18645962,no,no,no,no,no,no,no
+10768634,blue,blue,blue,blue,blue,blue,blue
+07329960,wood,wood,wood,wood,wood,wood,wood
+01892494,table,table,table,table,table,table,table
+18660833,bear,bear,bear,bear,bear,bear,bear
+06355200,fence,fence,fence,fence,fence,fence,fence
+111054055,chairs,chairs,chairs,chair,chairs,chairs,chairs
+151009271,outdoors,outdoors,outdoors,outdoors,outdoors,outdoors,outdoors
+0815178,bus,bus,bus,bus,bus,bus,bus
+02377984,left side,right side,right side,right side,right side,right side,right side
+16740457,in park,in park,in park,in park,in park,in park,in park
+12545434,girl,person,person,person,person,person,person
+09982181,carrots,carrots,carrots,carrots,carrots,carrots,carrots
+09993359,holding donut,she s eating donut,she s eating donut,she s eating donut,she s eating donut,she s eating donut,she s eating donut
+04354853,brown,brown,brown,brown,brown,brown,brown
+03618473,yes,yes,yes,no,yes,yes,yes
+00627896,no,no,no,no,no,no,no
+13659034,no,no,no,yes,no,yes,yes
+18782632,chair,table,table,table,table,table,table
+08438254,to right,to right,to right,to right,to right,to right,to right
+14777602,yes,yes,yes,yes,yes,yes,yes
+18551461,calculator,calculator,calculator,calculator,calculator,calculator,calculator
+06623377,no,no,no,no,no,no,no
+19844229,bridge,bridge,bridge,bridge,bridge,bridge,bridge
+07956376,train,train,train,train,train,train,train
+12871939,yes,no,no,yes,no,yes,yes
+05193402,white,white,white,white,white,white,white
+11614600,man,man,man,man,man,man,man
+05460900,taxi,taxi,taxi,taxi cab,taxi,taxi,taxi
+18320947,no,yes,yes,no,yes,no,no
+10307465,chair,chair,chair,chair,chair,chair,chair
+11737642,man,person,person,woman,person,person,person
+04438479,no,no,no,no,no,no,no
+08366353,yes,yes,yes,yes,yes,yes,yes
+10889730,yes,yes,yes,yes,yes,yes,yes
+08209743,motorcycles,motorcycles,motorcycles,motor bikes,motorcycles,motorcycles,motorcycles
+07937045,cardboard,cardboard,cardboard,cardboard,cardboard,cardboard,cardboard
+10636593,woman,woman,woman,young woman,woman,woman,woman
+11293407,no,yes,yes,no,yes,yes,yes
+04470102,right side,right side,right side,right side,right side,right side,right side
+14470888,long,long,long,long,long,long,long
+05262877,no,no,no,no,no,no,no
+15385317,refrigerator,refrigerator,refrigerator,box,refrigerator,cabinet,box
+10692225,boy,person,boy,man,boy,person,person
+157081,laptop,laptop,laptop,laptop,laptop,laptop,laptop
+03614269,no,no,no,no,no,no,no
+10744541,right side,right side,right side,right side,right side,right side,right side
+101008505,parking meter,parking meter,parking meter,parking meter,parking meter,parking meter,parking meter
+07600596,to right,to right,to right,to right,to right,to right,to right
+00578011,no,no,no,no,no,no,no
+13896327,no,no,no,yes,no,no,yes
+12681878,man,one person,one person,one man,one person,one man,one man
+19931361,no,no,no,no,no,no,no
+17136279,right side,right side,right side,right side,right side,right side,right side
+07302475,no,no,no,yes,no,no,no
+13637036,bread,sandwich,bread,bread,bread,bread,bread
+18814079,no,no,no,no,no,no,no
+06416478,train,train,train,train,train,train,train
+14212415,no,yes,yes,no,yes,no,no
+0327017,meat,meat,meat,meat,meat,meat,meat
+10817920,to right,to left,to left,right,to left,to right,to right
+081018988,no,no,no,no,no,no,no
+04246095,bottom,bottom,bottom,bottom,bottom,bottom,bottom
+101019652,to right,to right,to right,to right,to right,to right,to right
+01836283,no,no,no,no,no,no,no
+07741199,meat,rice,rice,rice,rice,rice,rice
+04354451,no,no,no,no,no,no,no
+14247149,to right,to right,to right,right,to right,right,right
+0829662,red,red,red,red,red,red,red
+05619692,giraffe,giraffe,giraffe,giraffe,giraffe,giraffe,giraffe
+16916016,no,no,no,yes,no,no,no
+03337529,table,table,table,table,table,table,table
+14143489,right side,right side,right side,right side,right side,right side,right side
+03434637,yes,yes,yes,yes,yes,yes,yes
+06635738,man,man,man,man,man,man,man
+18655958,ice cream,ice cream,ice cream,ice cream,ice cream,ice cream,ice cream
+03920304,to right,to left,to left,to left,to left,to left,to left
+16757750,no,no,no,no,no,no,no
+04613256,skier,person,skier,man,skier,person,skier
+17891388,black,black,black,black,black,black,black
+01874029,no,no,no,yes,no,no,no
+05429443,bag,handbag,handbag,handbag,handbag,handbag,handbag
+18664398,yes,yes,yes,yes,yes,yes,yes
+16872916,in kitchen,in kitchen,in kitchen,in kitchen,in kitchen,in kitchen,in kitchen
+11408729,it is small,it is small,it is small,not enough information,it is small,not enough information,not enough information
+02271541,right,right,right,right,right,right,right
+03434840,lamp,lamp,lamp,fan,lamp,fan,fan
+10661034,woman,woman,woman,woman,woman,woman,woman
+0449943,surfboard,surfboard,surfboard,surfboard,surfboard,surfboard,surfboard
+01329182,catcher,catcher,catcher,catcher,catcher,catcher,catcher
+15354266,to right,to right,to right,to right,to right,to right,to right
+0718070,man,man,man,man,man,man,man
+18435895,colorful umbrella,colorful umbrella,colorful umbrella,rainbow umbrella,colorful umbrella,colorful umbrella,colorful umbrella
+18157169,park,park,park,park,park,park,park
+101022311,small,small rubber duck,small rubber duck,small,small rubber duck,small rubber duck,small rubber duck
+01339113,rug,suitcase,suitcase,rug,suitcase,suitcase,suitcase
+02606451,few inches,few inches,not enough information,not enough information,few inches,few inches,not enough information
+09427865,right side,right side,right side,right side,right side,right side,right side
+11477192,cow,cow,cow,cow,cow,cow,cow
+191022719,yes,yes,yes,no,yes,yes,yes
+09802146,right side,right side,right side,right side,right side,right side,right side
+16655344,no,no,no,no,no,no,no
+13110612,on bed,on bed,on bed,on bed,on bed,on bed,on bed
+07825933,to right,right,right,right,right,right,right
+19419877,no,no,no,no,no,no,no
+1398661,soccer goal,soccer ball,soccer ball,soccer ball,soccer ball,soccer ball,soccer ball
+05575272,white,white,white,white,white,white,white
+03228699,cat,cat,cat,cat,cat,cat,cat
+06695945,boats,boats,boats,boats,boats,boats,boats
+07479008,broccoli,broccoli,broccoli,broccoli,broccoli,broccoli,broccoli
+14729632,yes,yes,yes,yes,yes,yes,yes
+16785743,man,person,person,person,person,person,person
+12772778,microwave,microwave,microwave,microwave,microwave,microwave,microwave
+0084000,in skate park,in skate park,in skate park,in skate park,in skate park,in skate park,in skate park
+02642542,yes,yes,yes,yes,yes,yes,yes
+05899801,no,no,no,no,no,no,no
+0262969,dog,dog,dog,dog,dog,dog,dog
+12739785,no,no,no,no,no,no,no
+01408032,pink,pink,pink,pink,pink,pink,pink
+16454592,sand,water,sand,sand,sand,sand,sand
+01575932,path,path,path,path,path,path,path
+11720034,brown sweater,shirt,sweater,shirt,sweater,shirt,sweater
+01329075,yes,yes,yes,yes,yes,yes,yes
+06297970,brown,brown,brown,brown,brown,brown,brown
+077802,cat,cat,cat,cat,cat,cat,cat
+02625330,microwave,microwave,microwave,microwave,microwave,microwave,microwave
+00577826,no,no,no,no,no,no,no
+0760799,yes,yes,yes,yes,yes,yes,yes
+0521688,motorcycle shop,building,building,parking lot,building,motorcycle shop,parking lot
+07922205,blue,blue,blue,blue,blue,blue,blue
+06175566,in pizza shop,in pizza shop,in pizza shop,in pizza restaurant,in pizza shop,in pizza shop,in pizza shop
+11941602,long,long,long,long,long,long,long
+00698767,bread,bread,bread,bread,bread,bread,bread
+04956376,pulling cart,walking,walking,walking,walking,walking,pulling cart
+03190764,no,no,no,no,no,no,no
+1755967,right side,right,right,right,right,right,right
+14138710,right,right,right,right,right,right,right
+18620993,no,no,no,no,no,no,no
+061043458,banana,banana,banana,banana,banana,banana,banana
+18484341,no,no,no,no,no,no,no
+14196996,whipped cream,fried egg,eggs,eggs,fried egg,eggs,eggs
+04499539,no,no,no,no,no,no,no
+14706966,no,yes,yes,yes,yes,yes,yes
+04335779,no,no,no,no,no,no,no
+10377058,t shirt,t shirt,t shirt,t shirt,t shirt,t shirt,t shirt
+07866785,outfit and uniform are both green,they are both green,they are both green,they are both green,they are both green,outfit and uniform are both green,outfit and uniform are both green
+04293412,yes,yes,yes,yes,yes,yes,yes
+061006758,no,no,no,no,no,no,no
+18778718,bananas,bananas,bananas,banana slices,bananas,bananas,bananas
+17585672,display case,display case,display case,display case,display case,display case,display case
+06270841,behind,behind,behind,behind,behind,behind,behind
+16648861,to right,to right,to right,to right,to right,to right,to right
+15640014,right side,right side,right side,right side,right side,right side,right side
+07783886,red,red,red,it is black,red,red,red
+17318117,no,no,no,no,no,no,no
+17332412,hot dog,hot dog,hot dog,hot dog,hot dog,hot dog,hot dog
+14274627,green,green,green,green,green,green,green
+02543124,man,man,man,man,man,man,man
+09957754,long,long,long,long,long,long,long
+12677679,blue,white,white,white,white,white,white
+13917654,phone,phone,phone,phone,phone,phone,phone
+08608932,right side,right side,right side,right side,right side,right side,right side
+08104348,man,person,person,person,person,person,person
+161015064,yellow,yellow,yellow,yellow,yellow,yellow,yellow
+02257867,black jacket,black jacket,black jacket,green jacket,black jacket,green jacket,green jacket
+10282244,no,no,no,no,no,no,no
+02777315,right,right,right,right,right,right,right
+0911998,country road,country road,country road,country road,country road,country road,country road
+01903560,boy,boy,skateboarder,boy,boy,boy,skateboarder
+17599707,no,no,no,no,no,no,no
+16642960,no,yes,no,no,no,no,no
+17700863,it is small,it is small,it is small,it is small,it is small,it is small,it is small
+0832435,no,no,no,no,no,no,no
+09928165,umpire,catcher,catcher,catcher,catcher,catcher,catcher
+09353146,brick wall,brick,street,street,brick,street,street
+01948941,sink,sink,sink,sink,sink,sink,sink
+1315836,no,no,no,no,no,no,no
+0830872,yes,yes,yes,no,yes,yes,yes
+08858228,no,no,no,no,no,no,no
+03830820,farm,farm,farm,farm,farm,farm,farm
+12880678,man,man,man,man,man,man,man
+18158468,cell phone,cell phone,cell phone,cell phone,cell phone,cell phone,cell phone
+16529396,cat,cat,cat,cat,cat,cat,cat
+10588632,right side,right side,right side,right side,right side,right side,right side
+05725708,no,no,no,no,no,no,no
+1272695,to right,to right,to right,to right,to right,to right,to right
+15381606,black suit,suit,suit,suit,suit,suit,suit
+09125014,yes,yes,yes,yes,yes,yes,yes
+14305442,cat,cat,cat,cat,cat,cat,cat
+08256019,yes,yes,yes,yes,yes,yes,yes
+01657089,shirt,shirt,shirt,button up shirt,shirt,shirt,shirt
+06981190,no,no,no,no,no,no,no
+16160372,three women,three women,three women,three women,three women,three women,three women
+04358803,bottom,top,bottom,top,bottom,top,top
+01977980,no,no,no,no,no,no,no
+11260607,no,no,no,no,no,no,no
+06342735,to right,to right,to right,to right,to right,to right,to right
+1844879,yes,no,no,no,no,no,no
+02819188,black,black,black,black,black,black,black
+00367466,no,no,no,no,no,no,no
+0167478,red,red,red,red,red,red,red
+09200207,blue,blue,blue,blue,blue,blue,blue
+13278361,sink,sink,sink,flowers,sink,sink,sink
+10316760,yes,no,yes,no,yes,no,no
+06246325,surfboard,surfboard,surfboard,wave,surfboard,wave,wave
+05801355,boat,raft,raft,raft,raft,raft,raft
+08965222,no,no,no,no,no,no,no
+08293278,black,black,black,black,black,black,black
+11445624,two people,two people,two people,people,two people,people,people
+0898939,right side,right side,right side,right side,right side,right side,right side
+18655457,dresser,dresser,dresser,dresser,dresser,dresser,dresser
+15511831,no,no,no,no,no,no,no
+0699037,wood,wood,wood,wood,wood,wood,wood
+0857160,skateboard,skateboard,skateboard,skateboard,skateboard,skateboard,skateboard
+11908653,no,no,no,no,no,no,no
+03473180,yes,yes,yes,yes,yes,yes,yes
+18104612,yes,yes,yes,yes,yes,yes,yes
+05273838,blue jeans,shirt,shirt,shirt,shirt,shirt,shirt
+00180988,no,no,no,no,no,no,no
+06930113,no,no,no,no,no,no,no
+01313652,yes,yes,yes,yes,yes,yes,yes
+11846094,no,no,no,no,no,no,no
+06148704,it is very large,it is small,it is small,it is not large,it is small,it is not large,it is not large
+14480418,photographer,person,person,person,person,person,person
+17310003,no,no,no,no,no,no,no
+08513110,scooters,scooters,scooters,scooters,scooters,scooters,scooters
+00650080,orange,orange,orange,orange,orange,orange,orange
+06471693,cow,cow,cow,cow,cow,cow,cow
+06596774,couch,couch,couch,couch,couch,couch,couch
+03493950,yes,yes,yes,yes,yes,yes,yes
+18891033,kite,kite,kite,kite,kite,kite,kite
+01956587,jeans,jeans,jeans,jeans,jeans,jeans,jeans
+0478141,yes,yes,yes,yes,yes,yes,yes
+1323985,toilet,toilet,toilet,mirror,toilet,toilet,toilet
+18976743,no,no,no,no,no,no,no
+19548721,no,no,no,no,no,no,no
+10329729,bicycle,bicycle,bicycle,bus,bicycle,bicycle,bicycle
+12909591,no,yes,yes,yes,yes,yes,yes
+04251855,wine,no,no,no,no,no,no
+1829804,yes,yes,yes,yes,yes,yes,yes
+09326012,no,no,no,no,no,no,no
+17250601,boxer,boxer,boxer,boxer,boxer,boxer,boxer
+14588078,to right,to right,to right,to right,to right,to right,to right
+03811093,right side,right side,right side,right side,right side,right side,right side
+151001028,gray,gray,gray,gray,gray,gray,gray
+15994286,car,car,car,car,car,car,car
+14383947,couch,couch,couch,couch,couch,couch,couch
+17778711,black,black,black,black,black,black,black
+09520036,yes,yes,yes,no,yes,yes,yes
+11341247,in middle of street,street,street,on street,street,street,street
+0093228,yes,yes,yes,no,yes,yes,yes
+1249864,cat,cat,cat,cat,cat,cat,cat
+04429830,man,man,man,man,man,man,man
+1796772,yes,yes,yes,yes,yes,yes,yes
+18411510,train,train,train,platform,train,platform,platform
+00139682,yes,yes,yes,yes,yes,yes,yes
+11774248,right side,right side,right side,right side,right side,right side,right side
+06689409,man,man,man,man,man,man,man
+13555500,no,no,no,no,no,no,no
+071002567,table,table,table,table,table,table,table
+04319121,no,no,no,no,no,no,no
+08926458,to right,to right,to left,to right,to left,to left,to left
+08790057,right side,right side,right side,right side,right side,right side,right side
+02395704,right,right,right,right,right,right,right
+07686959,yes,yes,yes,yes,yes,yes,yes
+14998173,trains,trains,trains,trains,trains,trains,trains
+10555158,no,no,no,no,no,no,no
+13865875,no,no,no,no,no,no,no
+04728833,right side,right side,right side,right side,right side,right side,right side
+181040641,right side,right side,right side,right side,right side,right side,right side
+1399473,toilet,toilet,toilet,toilet,toilet,toilet,toilet
+17103661,park,park,park,park,park,park,park
+181040493,no,no,no,no,no,no,no
+1016764,no,no,no,no,no,no,no
+08716914,garage,garage,garage,garage,garage,garage,garage
+07526181,bike,bike,bike,bike,bike,bike,bike
+18994471,no,no,no,no,no,no,no
+13831523,no,no,no,no,no,no,no
+14644770,no,no,no,no,no,no,no
+11308401,no,no,no,no,no,no,no
+02250941,yes,yes,yes,yes,yes,yes,yes
+1234410,bottom,bottom,bottom,bottom,bottom,bottom,bottom
+06846349,no,no,no,no,no,no,no
+16954432,brown,brown,brown,brown,brown,brown,brown
+10435387,to right,right,right,to right,right,to right,to right
+00839046,no,no,no,no,no,no,no
+10968262,gold,gold,gold,gold,gold,gold,gold
+10676635,black,black,red,black,black,black,unanswerable
+17778686,polka dots,polka dots,polka dots,polka dot,polka dots,polka dots,polka dots
+02543159,no,no,no,no,no,no,no
+10555304,white,white,white,white,white,white,white
+02309275,white,white,white,white,white,white,white
+03916705,bottom,bottom,bottom,bottom,bottom,bottom,bottom
+17897742,computer,computer,computer,computer,computer,computer,computer
+00654142,no,no,no,no,no,no,no
+00494171,street sign,street sign,street sign,street sign,street sign,street sign,street sign
+151050118,to right,to right,to right,to right,to right,to right,to right
+1980398,yes,yes,yes,yes,yes,yes,yes
+051047071,brown shirt,brown shirt,brown shirt,shirt,brown shirt,shirt,shirt
+10369512,no,no,no,no,no,no,no
+111055062,no,no,no,no,no,no,no
+11261043,yes,yes,yes,yes,yes,yes,yes
+18995802,brown,brown,brown,brown,brown,brown,brown
+15494515,desk and chair,table and chairs,desks,desk,desks,desk,desks
+03802027,right,right,right,right,right,right,right
+00972255,hats,hats,hats,bandannas,hats,hats,hats
+15665947,yes,yes,yes,yes,yes,yes,yes
+19286409,elephant,elephant,elephant,elephant,elephant,elephant,elephant
+09836341,no,no,no,no,no,no,no
+151050206,no,no,no,no,no,no,no
+10661038,pizza,pizza,pizza,pizza,pizza,pizza,pizza
+0335295,no,yes,yes,no,yes,yes,yes
+14171049,blue,blue,blue,blue,blue,blue,blue
+03987249,white,white,white,white,white,white,white
+1665047,right,right,right,right,right,right,right
+02934763,no,no,no,no,no,no,no
+03459470,beach,beach,beach,ocean,beach,beach,beach
+13610576,dog,dog,dog,dog,dog,dog,dog
+111015460,cell phone,cell phone,cell phone,tablet,cell phone,cell phone,cell phone
+19910938,yes,yes,yes,yes,yes,yes,yes
+14836127,person who is in doorway,child,child,child,child,child,child
+03519842,right,right,right,left,right,left,left
+14669350,suitcase,suitcase,suitcase,piece of luggage,suitcase,luggage,piece of luggage
+04736154,bench,bench,bench,bench,bench,bench,bench
+1338024,no,no,no,no,no,no,no
+08778600,no,yes,no,no,no,no,no
+07810124,man,man,man,man,man,man,man
+001020591,zebras,zebras,zebras,zebras,zebras,zebras,zebras
+12741611,red,multicolored,multicolored,multicolored,multicolored,multicolored,multicolored
+14599211,no,no,no,no,no,no,no
+15870466,no,no,no,no,no,no,no
+17699717,no,no,no,no,no,no,no
+07273443,no,no,no,no,no,no,no
+11800748,no,no,no,no,no,no,no
+04336366,white,white,white,white,white,white,white
+15962374,no,no,no,no,no,no,no
+19743203,no,no,no,no,no,no,no
+07922255,open,open,open,open,open,open,open
+0253714,no,no,no,no,no,no,no
+19110026,in park,in park,in park,on sidewalk,in park,in park,in park
+017766,no,no,no,no,no,no,no
+04822876,yes,yes,yes,yes,yes,yes,yes
+151025834,to right,to right,to right,to right,to right,to right,to right
+01386865,no,no,no,no,no,no,no
+09963446,giraffe and bird,giraffe,giraffe,group of giraffes,giraffe,giraffe statue,giraffe statue
+18685285,red,red,red,red,red,red,red
+07848846,plate,plate,plate,plate,plate,plate,plate
+11757695,no,no,no,no,no,no,no
+01281812,no,no,no,no,no,no,no
+0350996,yes,yes,yes,yes,yes,yes,yes
+091055191,to right,to right,to right,to right,to right,to right,to right
+061022568,to right,to right,to right,to right,to right,to right,to right
+01979295,yes,yes,yes,yes,yes,yes,yes
+08134908,plate,plate,plate,plate,plate,plate,plate
+00599114,no,no,no,no,no,no,no
+12464016,jeans,jeans,jeans,jeans,jeans,jeans,jeans
+12478857,black sweater,vest,vest,vest,vest,vest,vest
+19605600,two people,two people,two people,tennis player and his girlfriend,two people,two people,two people
+181045570,no,no,no,no,no,no,no
+03427742,right side,right side,right side,right side,right side,right side,right side
+02490850,airport,airport,airport,airport,airport,airport,airport
+09106717,beach,beach,beach,beach,beach,beach,beach
+14355319,suit,suit,suit,suit,suit,suit,suit
+0331665,no,no,no,no,no,no,no
+10168424,no,no,no,no,no,no,no
+10600016,no,no,no,no,no,no,no
+07262276,tennis player,tennis player,tennis player,tennis player,tennis player,tennis player,tennis player
+09187864,to right,to right,to right,to right,to right,to right,to right
+01695393,man,man,man,man,man,man,man
+18255653,to right,to right,to right,to right,to right,to right,to right
+06108083,person in middle,man,man,man,man,man,man
+07167401,no,yes,yes,no,yes,yes,yes
+17401356,no,no,no,no,no,no,no
+0054188,walker,walker,cell phone,walker,cell phone,walker,toy
+05451204,cat,sandwich,cheese,cat,sandwich,cat,cheese
+08465178,no,no,no,no,no,no,no
+08810066,yes,no,yes,yes,yes,yes,yes
+08707673,car,car,car,car,car,car,car
+07846543,no,no,no,no,no,no,no
+05862734,yes,yes,yes,yes,yes,yes,yes
+05716750,lamp,lamp,lamp,lamp,lamp,lamp,lamp
+14530634,no,towels,towels,no,towels,no,no
+12810350,beach,beach,beach,beach,beach,beach,beach
+09886479,right side,right side,right side,right side,right side,right side,right side
+05713197,yes,yes,yes,yes,yes,yes,yes
+04418786,rock,small piece of wood,small piece of wood,rocks,small piece of wood,rocks,rocks
+01410672,branch,branch,branch,branch,branch,branch,branch
+09392411,to right,to right,to right,to right,to right,to right,to right
+19875334,banana,banana,banana,banana,banana,banana,banana
+03996966,no,no,no,no,no,no,no
+06199650,pan,pan,pan,pans,pan,pans,pans
+12337191,croissant,croissant,croissant,croissant,croissant,croissant,croissant
+00996711,blue,white,white,not enough information,white,not enough information,not enough information
+161036476,small,small,small,small,small,small,small
+0847532,no,no,no,no,no,no,no
+06170835,no,no,no,no,no,no,no
+1062101,to right,to right,to right,to right,to right,to right,to right
+14223658,bread,bread,bread,meat sandwich,bread,bread,bread
+13384861,yes,yes,yes,yes,yes,yes,yes
+05428048,no,no,no,no,no,no,no
+15315750,to left,to right,to right,to right,to right,to right,to right
+03999583,yes,yes,yes,no,yes,yes,yes
+11517404,no,no,no,no,no,no,no
+09971239,black,black,black,black,black,black,black
+17400399,no,no,no,no,no,no,no
+06614960,yes,yes,yes,yes,yes,yes,yes
+09429680,yes,yes,yes,yes,yes,yes,yes
+06624667,right side,right side,right side,right side,right side,right side,right side
+05359803,no,no,no,no,no,no,no
+00270701,yes,yes,yes,yes,yes,yes,yes
+05633397,no,no,no,no,no,no,no
+08891674,no,no,no,no,no,no,no
+1781620,bottom,bottom,bottom,bottom,bottom,bottom,bottom
+16413917,bed,bed,bed,bed,bed,bed,bed
+02392108,no,no,no,no,no,no,no
+07514227,chair,chair,chair,chair,chair,chair,chair
+10852245,black,black,black,black,black,black,black
+15870402,lamp,lamp,lamp,lamp,lamp,lamp,lamp
+15740970,no,no,no,no,no,no,no
+0837513,dresser,dresser,dresser,dresser,dresser,dresser,dresser
+06113973,yes,yes,yes,yes,yes,yes,yes
+00518875,sheep,sheep,sheep,sheep,sheep,sheep,sheep
+07639122,no,no,no,no,no,no,no
+14988832,surfboard,surfboard,surfboard,board,surfboard,board,board
+14530728,motorcycle,sign,sign,sign,sign,sign,sign
+1622139,no,no,yes,no,yes,no,no
+08440543,they are red,they are red,they are red,they are red,they are red,they are red,they are red
+07960831,no,no,no,no,no,no,no
+12739834,bed,bed,bed,bed,bed,bed,bed
+00407249,green,green,green,green,green,green,green
+13396476,no,no,no,no,no,no,no
+18297428,no,no,no,no,no,no,no
+13642085,person,person,person,person in orange shirt,person,person,person
+04481849,no,no,no,yes,no,no,no
+17878426,yes,yes,yes,yes,yes,yes,yes
+08707513,black,black,black,black,black,black,black
+16740724,netherlands,netherlands,netherlands,amsterdam,netherlands,netherlands,netherlands
+18713814,no,no,no,no,no,no,no
+0213781,computer,computer,computer,computer screen,computer,computer screen,computer screen
+131009819,no,no,no,no,no,no,no
+17156486,right,right,right,right,right,right,right
+04135836,man,man,man,woman,man,man,woman
+04965869,red,red,red,red,red,red,red
+10981441,white shirt,helmet,protective equipment,white vest,protective equipment,white shirt,white shirt
+15350839,boat,boat,boat,two sailboats,boat,boat,boat
+08198318,no,no,no,no,no,no,no
+16552606,green jacket,green jacket,green jacket,hat,green jacket,hat,hat
+081019118,rock,mountain,concrete,mountain,concrete,mountain,mountain
+03674713,no,no,no,no,no,no,no
+18775059,no,no,no,no,no,no,no
+17249870,fire hydrant,fire hydrant,fire hydrant,fire hydrant,fire hydrant,fire hydrant,fire hydrant
+09354199,no,no,no,no,no,no,no
+07286931,boy,boy,boy,boy,boy,boy,boy
+02309271,backpack,backpack,backpack,backpack,backpack,backpack,shirt
+14842081,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator
+01780536,to right,to left,to left,to left,to left,to left,to left
+02155747,cow,cow,cow,cow,cow,cow,cow
+01445828,catcher,boy,boy,umpire,boy,umpire,umpire
+17463776,no,no,no,no,no,no,no
+17746124,left side,right side,right side,right side,right side,right side,right side
+16791593,right side,right side,right side,right side,right side,right side,right side
+11766258,no,no,no,no,no,no,no
+13756073,yes,yes,yes,yes,yes,yes,yes
+18220678,motorcycle,motorcycle,motorcycle,motorcycle,motorcycle,motorcycle,motorcycle
+14491412,no,no,no,no,no,no,no
+14989525,no,no,no,no,no,no,no
+19601496,no,no,no,no,no,no,no
+19621358,white,white,white,white,white,white,white
+00222482,yes,yes,yes,yes,yes,yes,yes
+1297282,cap,cap,cap,cap,cap,cap,cap
+08553361,catching frisbee,catching frisbee,catching frisbee,catching frisbee,catching frisbee,catching frisbee,catching frisbee
+08520048,yes,yes,yes,yes,yes,yes,yes
+16538076,shirt,shirt,shirt,black shirt,shirt,shirt,shirt
+01532416,bottom,top,top,top,top,top,top
+17873308,left side,right side,right side,right side,right side,right side,right side
+10302409,bottom,top,top,bottom,top,bottom,bottom
+191030039,counter,counter,counter,counter,counter,counter,counter
+17123642,no,no,no,no,no,no,no
+1755216,right side,right side,right side,right side,right side,right side,right side
+07726108,yes,yes,yes,yes,yes,yes,yes
+18113636,no,no,no,no,no,no,no
+10169554,yellow,yellow,yellow,yellow,yellow,yellow,yellow
+08575888,people,people,people,group of people,people,people,group of people
+0590598,one way sign,stop sign,stop sign,one way sign,stop sign,stop sign,stop sign
+13771984,no,no,no,no,no,no,no
+13907607,wine,wine,wine,wine,wine,wine,wine
+13816821,yes,yes,yes,yes,yes,yes,yes
+09482314,blue shirts,shirts,shirts,blue shirt,shirts,blue shirt,blue shirt
+0113810,right side,right side,right side,right side,right side,right side,right side
+17311792,white,brown,brown,brown,brown,brown,brown
+11910326,large,large,large,large,large,large,large
+11366753,helmet,helmet,helmet,helmet,helmet,helmet,helmet
+16822747,woman,woman,woman,woman,woman,woman,woman
+18602180,cloudy,cloudy,cloudy,cloudy,cloudy,cloudy,cloudy
+13862678,wooden,wood,wood,wood,wood,wood,wood
+18435590,hat,hat,hat,hat,hat,hat,hat
+06652817,yes,yes,yes,yes,yes,yes,yes
+13298948,table,table,table,table,table,table,table
+08111033,no,yes,yes,yes,yes,yes,yes
+161042963,no,no,no,no,no,no,no
+01208883,right,right,right,right side,right,right,right
+18961409,hat,hat,hat,hat,hat,hat,hat
+09692899,no,no,no,no,no,no,no
+07806922,red,red,red,red,red,red,red
+03657647,wall,wall,wall,wall,wall,wall,wall
+10626605,donuts,donuts,donuts,donuts,donuts,donuts,donuts
+16939239,umpire,person,person,person,person,person,person
+051040511,yes,yes,yes,yes,yes,yes,yes
+09993263,no,yes,yes,yes,yes,yes,yes
+18175219,black,black,black,black,black,black,black
+03932863,no,no,no,no,no,no,no
+14465633,yes,yes,yes,yes,yes,yes,yes
+17904857,city,city,city,city,city,city,city
+13775811,beach,beach,beach,beach,beach,beach,beach
+12794424,table,desk,desk,desk,desk,desk,desk
+00648719,down set of stairs,down steps,down steps,down stairs,down steps,down steps,down steps
+00511506,plane,plane,plane,plane,plane,plane,plane
+16775257,city,city,city,city,city,city,city
+06235293,white,white,white,white,white,white,white
+15768950,tennis rackets,tennis racket,tennis racket,tennis rackets,tennis racket,tennis racket,tennis racket
+10324418,no,no,no,no,no,no,no
+04806564,no,no,no,no,no,no,no
+03267935,black,black,black,grey,black,grey,grey
+02148705,right side,right side,right side,right side,right side,right side,right side
+09654165,yes,no,no,no,no,no,no
+03541296,to right,to right,to right,to right,to right,to right,to right
+09308885,old lady,person,person,person,person,person,person
+12241436,store,store,store,shop,store,store,store
+1088843,rice,rice,rice,rice,rice,rice,rice
+03811069,right,right,right,right,right,right,right
+15450527,no,no,no,no,no,no,no
+09379351,man,man,man,man,man,man,man
+187327,they are both in same place,they are both in same place,they are green,they are in air,they are green,they are in air,they are in air
+05490099,cat,cat,cat,cat,cat,cat,cat
+00228605,laying on tracks,laying on tracks,laying down,laying down next to bride,laying down,laying down next to bride,laying down next to bride
+06758685,to right,to right,to left,to right,to left,to left,to left
+11196595,no,no,no,no,no,no,no
+09199280,to right,to right,to right,to right,to right,to right,to right
+1042025,right side,right side,right side,right side,right side,right side,right side
+18537831,white lines,trees,trees,white lines,trees,trees,white lines
+04319228,to right,to right,to right,to left,to right,to right,to right
+04861091,ketchup,ketchup,ketchup,ketchup,ketchup,ketchup,ketchup
+01293090,no,birds,no,birds,no,birds,birds
+05397333,city,city,city,city,city,city,city
+08519407,city,city,city,city,city,city,city
+0056651,cake,cake,cake,cake,cake,cake,cake
+14223427,desk,desk,desk,computer desk,desk,computer desk,computer desk
+06218076,no,yes,yes,no,yes,no,no
+00159014,to right,to right,to right,to right,to right,to right,to right
+0045325,no,no,no,no,no,no,no
+05833029,yes,yes,yes,yes,yes,yes,yes
+18397134,no,no,no,no,no,no,no
+02965796,they are both black,they are made of wood,they are made of wood,they are made of wood,they are made of wood,they are made of wood,they are made of wood
+03722455,right side,side,side,right side,side,right side,right side
+16483070,no,no,no,yes,no,no,no
+15606343,dark,dark,dark,dark,dark,dark,dark
+04285638,brown,brown,brown,brown,brown,brown,brown
+0735113,yes,yes,yes,yes,yes,yes,yes
+02311905,right side,right side,right side,sink side,right side,sink side,sink side
+01436879,no,no,no,no,no,no,no
+15350475,car,car,car,car seat,car,car,car seat
+06459366,no,no,no,no,no,no,no
+02763633,skateboarder,person,man,person riding skateboard,man,person riding skateboard,person riding skateboard
+13110376,cabinet,cabinet,cabinet,cabinet,cabinet,cabinet,cabinet
+08724755,he is playing baseball,he is playing baseball,he is playing baseball,he is running,he is playing baseball,he is running,he is running
+01597179,tennis court,tennis court,tennis court,tennis court,tennis court,tennis court,tennis court
+18920401,no,no,no,no,no,no,no
+1255828,no,no,no,no,no,no,no
+08416142,couch,couch,couch,couch,couch,couch,couch
+10555280,no,no,no,no,no,no,no
+05768097,train,train,train,train,train,train,train
+141031348,yes,no,no,no,no,no,no
+11138851,yes,yes,yes,yes,yes,yes,yes
+09564144,right side,right side,right side,right side,right side,right side,right side
+11675881,no,no,no,no,no,no,no
+18144541,they are both on tracks,they are on tracks,they are on tracks,they are on railway,they are on tracks,they are both on tracks,they are both on tracks
+12387545,men,people,people,men,people,people,men
+14149067,no,no,no,no,no,no,no
+03463929,it is small,it is small,it is small,it is small,it is small,it is small,it is small
+1960407,military uniform,military uniform,military uniform,uniform,military uniform,military uniform,military uniform
+00296174,yes,yes,yes,no,yes,no,no
+01735861,house,sign,sign,sign,sign,sign,sign
+15565127,bottom,bottom,bottom,bottom,bottom,bottom,bottom
+00485232,yes,yes,yes,yes,yes,yes,yes
+11673281,they are used to comb hair,they are used to comb hair,they are used to comb hair,they are both metal,they are used to comb hair,they are used to comb hair,they are used to comb hair
+15101149,black t shirt,black t shirt,black t shirt,black sweater,black t shirt,black sweater,black sweater
+16177230,no,no,no,no,no,no,no
+02769363,chair,chair,chair,table,chair,chair,chair
+03662646,woman,woman,woman,woman,woman,woman,woman
+10838774,desk,desk,desk,desk,desk,desk,desk
+13324543,left side,left side,left side,left side,left side,left side,left side
+06730975,dog,dog,dog,dog,dog,dog,dog
+0045361,blanket,blanket,blanket,blanket,blanket,blanket,blanket
+09240830,large passenger plane,large passenger plane,large passenger plane,passenger plane,large passenger plane,large passenger plane,jumbo jet
+12955040,no,no,no,no,no,no,no
+09740874,drawer,drawer,drawer,drawer,drawer,drawer,drawer
+11737225,yes,yes,yes,yes,yes,yes,yes
+19780725,bus,bus,bus,bus,bus,bus,bus
+1471619,no,no,no,no,no,no,no
+15902366,yes,yes,yes,yes,yes,yes,yes
+17250173,oven,oven,oven,oven,oven,oven,oven
+19501756,baseball,baseball,baseball,baseball field,baseball,baseball,baseball
+1827815,no,no,no,no,no,no,no
+17143850,hat,hat,hat,hat,hat,hat,hat
+07636963,no,no,no,no,no,no,no
+12871977,woman,woman,woman,woman,woman,woman,woman
+05617252,horse,horse,horse,horse,horse,horse,horse
+12541034,no,no,no,no,no,no,no
+04803402,green,green,green,green,green,green,green
+06148578,van,van,van,truck,van,truck,truck
+14225480,right,right,right,right,right,right,right
+1370594,dog,dog,dog,dog,dog,dog,dog
+19872645,right side,right side,right side,right side,right side,right side,right side
+1182471,bottom,bottom,bottom,bottom,bottom,bottom,bottom
+08492742,person,person,person,man,person,person,person
+12182886,brown,brown,brown,brown,brown,brown,brown
+13112212,yes,yes,yes,no,yes,yes,yes
+12556369,baseball field,baseball field,baseball field,baseball field,baseball field,baseball field,baseball field
+078543,car,car,car,car,car,car,car
+14457672,city,city,city,city,city,city,city
+01442275,bed,bed,bed,small bed,bed,bed,bed
+13355461,yes,yes,yes,yes,yes,yes,yes
+16130721,no,no,no,no,no,no,no
+0833073,horse,horse,horse,donkey,horse,horse,horse
+03920178,right side,right side,right side,left side,right side,left side,left side
+01972057,right,right,right,right,right,right,right
+05203710,umbrella,umbrella,umbrella,umbrella,umbrella,umbrella,umbrella
+06455036,no,yes,yes,yes,yes,yes,yes
+07649976,yes,no,no,yes,no,yes,yes
+05924316,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator
+05865350,sink,sink,sink,dish rack,sink,sink,sink
+00477790,man,man,man,man,man,man,man
+13108448,yes,yes,yes,yes,yes,yes,yes
+08286357,fire hydrant,fire hydrant,fire hydrant,fire hydrant,fire hydrant,fire hydrant,fire hydrant
+01210543,no,no,no,no,no,no,no
+0395275,right side,right side,right side,right side,right side,right side,right side
+17829656,computer,computer,computer,computer,computer,computer,computer
+05499124,clock,tv,tv,clock,tv,clock,clock
+10534692,chair,chair,chair,sofa,chair,chair,chair
+07785592,no,no,no,no,no,no,no
+16757681,white,white,white,white,white,white,white
+19108407,brown,brown,brown,brown,brown,brown,brown
+13113118,yes,yes,yes,yes,yes,yes,yes
+14976265,bat,bat,bat,bat,bat,bat,bat
+17538724,umbrella,umbrella,umbrella,umbrella,umbrella,umbrella,umbrella
+16353132,bowl of oranges,oranges,oranges,bowl of oranges,oranges,oranges,bowl of oranges
+06663189,full,full,full,full,full,full,full
+11696474,yes,yes,yes,yes,yes,yes,yes
+18616846,woman,woman,woman,woman,woman,woman,woman
+17808490,yes,no,yes,no,yes,no,no
+10539270,right side,right side,right side,right side,right side,right side,right side
+17224231,black,skateboard,skateboard,skateboard,skateboard,skateboard,skateboard
+098145,street,street,street,street,street,street,street
+14178609,in zoo,in grass,in grass,in field,in grass,in field,in field
+04939761,right side,right side,right side,left side,right side,left side,left side
+10421451,no,no,no,no,no,no,no
+11720224,left side,right side,right side,right side,right side,right side,right side
+01162791,blue,blue,blue,blue,blue,blue,blue
+07741149,no,no,no,no,no,no,no
+00737515,no,yes,yes,yes,yes,yes,yes
+17297251,brick wall,brick wall,brick wall,brick wall,brick wall,brick wall,brick wall
+07646217,train,train,train,train,train,train,train
+02307819,couch,couch,couch,couch,couch,couch,couch
+00839100,gray,gray,gray,gray,gray,gray,gray
+16417517,lamp,lamp,lamp,lamp,lamp,lamp,lamp
+09229407,bottom,bottom,bottom,bottom,bottom,bottom,bottom
+07649785,baseball,baseball,baseball,baseball,baseball,baseball,baseball
+07877653,driver,man,man,person,man,person,person
+17397687,right side,right side,right side,right side,right side,right side,right side
+13353447,sunny,it is sunny,it is sunny,it is sunny,it is sunny,it is sunny,it is sunny
+07639060,desk,desk,desk,desk,desk,desk,desk
+02769485,chair,chair,chair,chair,chair,chair,chair
+09101755,blue car,blue car,blue car,blue car,blue car,blue car,blue car
+13936779,bed,dresser,dresser,dresser,dresser,dresser,dresser
+161013602,right side,right side,right side,right side,right side,right side,right side
+03566304,woman,table,table,table,table,table,table
+11207508,table,desk,desk,desk,desk,desk,desk
+07399451,yes,yes,yes,yes,yes,yes,yes
+121044462,skirt,skirt,skirt,skirt,skirt,skirt,skirt
+12536781,elephant,elephant,elephant,elephant,elephant,elephant,elephant
+02754886,no,no,no,no,no,no,no
+15572554,zebra,zebra,zebra,zebra,zebra,zebra,zebra
+15994016,no,no,no,no,no,no,no
+0473131,no,no,no,no,no,no,no
+02774440,tomato sauce,tomato sauce,tomato sauce,tomato sauce,tomato sauce,tomato sauce,tomato sauce
+19670738,pizza,pizza,pizza,pizza,pizza,pizza,pizza
+09554315,yes,yes,yes,no,yes,yes,yes
+12804446,sink,sink,sink,sink,sink,sink,sink
+04512964,to right,to right,to right,to right,to right,to right,to right
+12701558,no,no,no,no,no,no,no
+1087415,no,no,no,no,no,no,no
+03113235,no,no,no,no,no,no,no
+071029167,cell phone,cell phone,cell phone,cell phone,cell phone,cell phone,cell phone
+17940186,jacket,jacket,jacket,jacket,jacket,jacket,jacket
+14740759,right side,right side,right side,right side,right side,right side,right side
+0660476,girl,girl,girl,girl,girl,girl,girl
+08830386,no,no,no,no,no,no,no
+1425254,brown,brown,brown,brown,brown,brown,brown
+161015201,no,no,no,no,no,no,no
+12256869,city,city,city,city,city,city,city
+01350647,cat,cat,cat,cat,cat,cat,cat
+08126206,yes,yes,yes,yes,yes,yes,yes
+14618559,no,no,no,no,no,no,no
+13134937,cube,cube,square,cube,square,cube,cube
+07527299,no,no,no,no,no,no,no
+13151389,cat,cat,cat,cat,cat,cat,cat
+13660423,black,black,black,black,black,black,black
+091028125,woman,person,person,person,person,person,person
+10543670,no,no,no,no,no,no,no
+19124790,no,no,no,no,no,no,no
+12754968,striped shirt,shirt,shirt,shirt,shirt,shirt,shirt
+0853412,yes,yes,yes,yes,yes,yes,yes
+09308892,old lady,person,person,old man,person,old man,old man
+031015467,blue,blue,blue,blue,blue,blue,blue
+18899438,white,white,white,white,white,white,white
+10239169,red,red,red,red,red,red,red
+04485621,counter,counter,counter,counter,counter,counter,counter
+04167353,poster,poster,poster,poster,poster,poster,poster
+18821906,no,no,no,no,no,no,no
+03310960,deep,deep,deep,deep,deep,deep,deep
+09836531,no,no,no,no,no,no,no
+12656121,right side,right side,right side,right side,right side,right side,right side
+13425270,no,no,no,no,no,no,no
+1315826,cat,cat,cat,cat,cat,cat,cat
+15606434,blue,blue,blue,blue,blue,blue,blue
+11338505,red,red,red,red,red,red,red
+161017935,they are both wearing jacket,they are on sidewalk,they are on sidewalk,they are on sidewalk,they are on sidewalk,they are on sidewalk,they are on sidewalk
+14793986,bottom,bottom,bottom,bottom,bottom,bottom,bottom
+06764873,black,black,black,black,black,black,black
+12416565,car,car,car,car,car,car,car
+10749478,brown,brown,brown,brown,brown,brown,brown
+04197453,right side,right side,right side,right side,right side,right side,right side
+07302768,yes,yes,yes,yes,yes,yes,yes
+07157907,buses,buses,buses,buses,buses,buses,buses
+12337031,kettle,kettle,kettle,kettle,kettle,kettle,kettle
+131027403,no,no,no,no,no,no,no
+00324630,no,no,no,no,no,no,no
+03566421,couch,chair,chair,white couch,chair,chair,chair
+15342736,bed,bed,bed,bed,bed,bed,bed
+15234781,bus driver,person,person,person,person,person,person
+191005334,pizza,pizza,pizza,pizza,pizza,pizza,pizza
+04902474,yes,yes,yes,yes,yes,yes,yes
+06841107,umbrella,umbrella,umbrella,white umbrella,umbrella,umbrella,umbrella
+13689018,buses,buses,buses,buses,buses,buses,buses
+07101039,sandwich,sandwich,sandwich,sandwich,sandwich,sandwich,sandwich
+17585683,donuts,donuts,donuts,donuts,donuts,donuts,donuts
+07515130,no,no,no,no,no,no,no
+01124277,tower,tower,tower,tower,tower,tower,tower
+00289747,tie,tie,tie,tie,tie,tie,tie
+10889217,train,train,train,train car,train,train car,train car
+05148895,no,no,no,no,no,no,no
+09614116,no,no,no,no,no,no,no
+18656124,red shirt,hat,blue shirt,hat,blue shirt,hat,hat
+071029021,bed,bed,bed,bed,bed,bed,bed
+02895446,red,red,red,black,red,red,red
+10238166,yes,no,yes,no,yes,no,no
+16120475,kites,kites,kites,kites,kites,kites,kites
+08889413,elephant,elephant,elephant,elephants,elephant,elephant,elephants
+12839403,bottom,bottom,bottom,bottom,bottom,bottom,bottom
+11298977,no,no,no,no,no,no,no
+1239668,brown,brown,brown,brown,brown,brown,brown
+09693690,no,no,no,no,no,no,no
+11844746,bottom,bottom,bottom,bottom,bottom,bottom,bottom
+11730427,on beach,on beach,on beach,on beach,on beach,on beach,on beach
+18364448,oven,pizza oven,pizza oven,pizza oven,pizza oven,pizza oven,pizza oven
+0837630,blanket,white bed sheet,pillow,white bed sheet,pillow,white bed sheet,white bed sheet
+10775679,hat,hat,hat,hat,hat,hat,hat
+08286355,grass,grass,grass,grass,grass,grass,grass
+16582529,right,right,right,right,right,right,right
+01389525,no,no,no,no,no,no,no
+12245133,red,red,red,red,red,red,red
+09622989,yes,yes,yes,yes,yes,yes,yes
+061006816,no,no,no,no,no,no,no
+17863274,right side,right side,right side,right side,right side,right side,right side
+16364449,it is sunny,it is sunny,it is sunny,it is sunny,it is sunny,it is sunny,it is sunny
+01165121,no,no,no,no,no,no,no
+0111459,tall,it is short,not enough information,not enough information,it is short,it is short,it is short
+12710839,large,large,large,large,large,large,large
+08903768,burrito,burrito,burrito,burrito,burrito,burrito,burrito
+19106536,no,no,no,no,no,no,no
+15413927,to right,to right,to right,right,to right,right,right
+08267447,no,no,no,no,no,no,no
+081018773,desk,desk,desk,desk,desk,desk,desk
+08699263,no one,woman,woman,girl,woman,woman,woman
+12877537,yes,yes,yes,yes,yes,yes,yes
+1682948,bottom,bottom,bottom,bottom,bottom,bottom,bottom
+13461603,right side,right side,right side,right,right side,right side,right side
+03193310,brown,brown,brown,yellow,brown,brown,brown
+126192,couch,chair,chair,chair,chair,chair,chair
+18182148,to right,to right,to right,to right,to right,to right,to right
+03463863,plane,plane,plane,small airplane,plane,small airplane,small airplane
+14212428,television,television,television,television,television,television,television
+111016238,no,no,no,no,no,no,no
+07684613,yes,yes,yes,yes,yes,yes,yes
+12824155,sheep,sheep,sheep,sheep,sheep,sheep,sheep
+13659116,hat,hat,hat,hat,hat,hat,hat
+17891011,no,no,no,no,no,no,no
+03920233,silver,silver,silver,black,silver,silver,silver
+19472941,helmet,shirt,shirt,shirt,shirt,shirt,shirt
+06707599,microwave,microwave,microwave,food processor,microwave,food processor,food processor
+16488690,right side,right side,right side,right side,right side,right side,right side
+12930405,right side,right side,right side,baby s side,right side,right side,baby s side
+17520400,train,train,train,train,train,train,train
+08849559,khaki,khaki,khaki,khaki,khaki,khaki,khaki
+09280332,yes,yes,yes,yes,yes,yes,yes
+0578236,no,no,no,no,no,no,no
+12464059,blue,blue,blue,dark,blue,blue,blue
+16150158,sign,posters,posters,picture,posters,picture,picture
+041017042,no,no,no,no,no,no,no
+14600083,cabbage,carrots,carrots,carrots,carrots,cabbage,cabbage
+15442816,no,no,no,yes,no,no,no
+04250781,no,no,no,no,no,no,no
+08873604,city,city,city,city,city,city,city
+18182475,counter,counter,counter,counter,counter,counter,counter
+03267142,no,no,no,no,no,no,no
+17877833,carrots,peas,peas,peas,peas,peas,peas
+15936266,yes,yes,yes,yes,yes,yes,yes
+16464633,yes,yes,yes,yes,yes,yes,yes
+10883240,couch,couch,couch,couch,couch,couch,couch
+04682876,yes,yes,yes,yes,yes,yes,yes
+02189561,taking picture,he is taking picture,taking picture,taking picture,taking picture,he is taking picture,he is taking picture
+151054792,no,no,no,yes,no,no,no
+19815772,they are red,they are red,they are red,they are red,they are red,they are red,they are red
+00215443,no,no,no,no,no,no,no
+14225050,yes,yes,yes,no,yes,no,no
+08478438,chocolate,chocolate,chocolate,ice cream and chocolate syrup,chocolate,chocolate,chocolate
+081030154,yes,yes,yes,yes,yes,yes,yes
+10882848,carrots,carrots,carrots,carrots,carrots,carrots,carrots
+12845944,no,no,no,no,no,no,no
+11928512,to right,to right,to right,to right,to right,to right,to right
+12790921,person,person,person,person riding snowboard,person,person,person
+15234743,right side,right side,right side,right side,right side,right side,right side
+0760720,no,no,no,no,no,no,no
+08278090,they are both covered in snow,they are both covered in snow,they are both covered in snow,they are both parked on snow,they are both covered in snow,they are both covered in snow,they are both covered in snow
+19419986,no,no,no,no,no,no,no
+18182301,picture,picture,picture,picture,picture,picture,picture
+07527136,mirror,mirror,mirror,towel,mirror,towel,towel
+02374713,white,white,white,white,white,white,white
+04508370,yes,yes,yes,yes,yes,yes,yes
+17455786,white,white,white,white,white,white,white
+15138580,no,no,no,no,no,no,no
+0596566,yes,yes,yes,yes,yes,yes,yes
+10543686,bear,bear,bear,bear,bear,bear,bear
+171003068,white,white,white,white,white,white,white
+1037776,rubber,rubber,rubber,rubber,rubber,rubber,rubber
+19222092,refrigerator,refrigerator,refrigerator,washer,refrigerator,refrigerator,ice maker
+08264189,ladder,ladder,ladder,ladder,ladder,ladder,ladder
+19908674,yes,yes,yes,yes,yes,yes,yes
+111257,white,white,not enough information,not enough information,white,not enough information,not enough information
+08723778,it is bear,it is bear,it is bear,it is bear,it is bear,it is bear,it is bear
+091019488,teddy bear,bear,teddy bear,teddy bear,teddy bear,teddy bear,teddy bear
+12658871,horse,horse,horse,horse,horse,horse,horse
+13534677,giraffe,giraffe,giraffe,giraffe,giraffe,giraffe,giraffe
+12268187,boy,boy,boy,boy on left,boy,boy,boy
+09810568,right side,right side,right side,left side,right side,right side,right side
+18699666,desk,computer desk,computer desk,computer desk,computer desk,computer desk,computer desk
+15241658,umbrella,umbrella,umbrella,white umbrella,umbrella,umbrella,white umbrella
+0872291,no,no,no,no,no,no,no
+161003232,tree,tree,tree,tree,tree,tree,tree
+12356736,blond,blond,blond,blond,blond,blond,blond
+14305079,eating hot dog,he is eating hot dog,he is eating hot dog,he is eating hot dog,he is eating hot dog,he is eating hot dog,he is eating hot dog
+11517222,no,no,no,no,no,no,no
+123080,two women,woman,woman,person in blue coat,woman,woman,woman
+15365023,iron,metal,metal,iron and metal,metal,metal,metal
+01876673,yes,yes,yes,yes,yes,yes,yes
+004755,left side,left side,left side,left side,left side,left side,left side
+07447459,no,no,no,no,no,no,no
+16838194,black,black,black,black,black,black,black
+021028709,train,train,train,train,train,train,train
+00612991,white,white,white,white,white,white,white
+0766444,sheep,sheep,sheep,sheep,sheep,sheep,sheep
+08956807,no,no,no,no,no,no,no
+01327821,green,green,green,green,green,green,green
+11766285,to right,to right,to right,to right,to right,to right,to right
+00224021,no,no,no,no,no,no,no
+08149550,couch,couch,couch,sofa,couch,couch,couch
+17778643,no,no,no,yes,no,no,no
+18850607,hat,hat,hat,hat,hat,hat,hat
+06185062,rice,rice,rice,rice,rice,rice,rice
+191020085,right side,right side,right side,right side,right side,right side,right side
+19901909,it is long,it is long,it is long,short,it is long,it is long,short
+12324494,car,car,car,car,car,car,car
+14823306,people,people,person,people on horseback,person,people,people
+14725424,blue,blue,blue,blue,blue,blue,blue
+12518257,dog,dog,dog,dog,dog,dog,dog
+15146318,left side,left side,left side,left side,left side,left side,left side
+02315315,glass,glass,glass,glass,glass,glass,glass
+05276900,no,no,no,no,no,no,no
+17433653,no,no,no,no,no,no,no
+12801923,table,table,table,coffee table,table,table,table
+0492998,it is very large,not enough information,not enough information,not enough information,not enough information,not enough information,not enough information
+11409129,no,no,no,no,no,no,no
+01715357,at table,at table,at table,at table,at table,at table,at table
+05801865,flower,plant,vines,grass,vines,grass,grass
+00824434,dark,dark,dark,dark,dark,dark,dark
+12962822,left side,left side,left side,left side,left side,right side,right side
+14922785,yes,yes,yes,yes,yes,yes,yes
+11156167,yes,yes,yes,yes,yes,yes,yes
+18616820,woman,woman,woman,girl,woman,woman,woman
+16313293,hot dog,hot dog,hot dog,hot dog,hot dog,hot dog,hot dog
+13846683,no,no,no,no,no,no,no
+08618342,bottom,bottom,bottom,bottom,bottom,bottom,bottom
+11879478,no,yes,yes,yes,yes,yes,yes
+01642642,to right,to right,to right,to right,to right,to right,to right
+11471662,white shirt,white shirt,white shirt,white shirt,white shirt,white shirt,white shirt
+03274236,catcher,catcher,catcher,catcher,catcher,catcher,catcher
+14524168,zoo,zoo,zoo,river,zoo,zoo,zoo
+13111132,quilt,quilt,quilt,quilt,quilt,quilt,quilt
+11804507,teddy bear,teddy bear,teddy bear,teddy bear,teddy bear,teddy bear,teddy bear
+1653259,right side,right side,right side,right side,right side,right side,right side
+01350679,kittens,kittens,kittens,kittens,kittens,kittens,kittens
+08410032,no,no,no,no,no,no,no
+05107266,beach,beach,beach,beach,beach,beach,beach
+03422272,hair dryer,hair dryer,hair dryer,blow dryer,hair dryer,hair dryer,hair dryer
+02719447,to left,to left,to left,to left,to left,to left,to left
+04873420,white,white,white,white,white,white,white
+12565526,yes,yes,no,yes,no,yes,yes
+08745600,giraffe,giraffe,giraffe,giraffe,giraffe,giraffe,giraffe
+14822228,no,no,no,no,no,no,no
+07116804,boats,boats,boats,boats,boats,boats,boats
+13159229,hot dogs,hot dogs,hot dogs,hotdogs,hot dogs,hot dogs,hot dogs
+13907923,no,no,no,no,no,no,no
+17284289,bottom,bottom,bottom,bottom,bottom,bottom,bottom
+02965849,yes,no,no,no,no,no,no
+0270263,right side,right side,right side,right side,right side,right side,right side
+15689820,woman,woman,woman,woman,woman,woman,woman
+0844674,no,no,no,no,no,no,no
+18850728,tables,tables,tables,tables,tables,tables,tables
+03738178,no,no,no,no,no,no,no
+01863762,skateboard,skateboard,skateboard,skateboard,skateboard,skateboard,skateboard
+16960755,no,no,no,no,no,no,no
+19798719,airport,airport,airport,airport,airport,airport,airport
+121017092,no,no,no,yes,no,no,no
+07643990,yes,yes,yes,yes,yes,yes,yes
+04632342,no,no,no,yes,no,yes,yes
+14842083,no,no,no,no,no,no,no
+11169629,no,no,no,no,no,no,no
+16465030,white,white,white,white,white,white,white
+16822850,yes,yes,yes,no,yes,no,no
+05716489,blue,blue,blue,blue,blue,blue,blue
+10153831,hot dog,condiment,condiment,shells,condiment,condiment,shells
+00289920,no,no,no,no,no,no,no
+0881146,yes,yes,yes,yes,yes,yes,yes
+187387,no,no,no,no,no,no,no
+05177061,on right,on right,on right,on right,on right,right,on right
+02257964,no,no,no,no,no,no,no
+11215463,smear of sauce,smear of butter,smear of butter,smear of butter,smear of butter,smear of butter,smear of butter
+13450655,no,no,no,no,no,no,no
+19774690,polka dot,polka dots,polka dot,polka dot,polka dot,polka dot,polka dot
+00474861,no,no,no,no,no,no,no
+14546011,horse,horse,horse,horse,horse,horse,horse
+18182329,to right,to right,to right,to right,to right,to right,to right
+06459380,yes,no,no,no,no,no,no
+11534918,brown,brown,brown,brown,brown,brown,brown
+03476181,yes,yes,yes,yes,yes,yes,yes
+0063324,yes,yes,yes,yes,yes,yes,yes
+09490189,dark,dark,dark,dark,dark,dark,dark
+08461407,khakis,uniform,military uniforms,military style uniforms,uniform,uniform,military uniforms
+16133520,urinals,urinals,urinals,urinals,urinals,urinals,urinals
+09740897,apples,apples,apples,fruits,apples,apples,apples
+14836239,ice cream,ice cream,ice cream,cake,ice cream,cake,cake
+01332302,no,no,no,no,no,no,no
+19121740,no,no,no,no,no,no,no
+05758390,no,no,no,no,no,no,no
+10595103,white,white,white,white,white,white,white
+00147588,woman,woman,woman,woman,woman,woman,person
+05947064,in snow,in snow,in snow,in snow,in snow,in snow,in snow
+07460735,to right,to right,to right,right,to right,to right,to right
+171017976,spider web,spider webs,spider webs,spider webs,spider webs,spider webs,spider webs
+17431885,no,no,no,no,no,no,no
+0263199,dogs,dogs,dogs,dogs,dogs,dogs,dogs
+14641518,not enough information,not enough information,not enough information,not enough information,not enough information,not enough information,not enough information
+15693838,motorcycle,motorcycle,motorcycle,motorcycle,motorcycle,motorcycle,motorcycle
+08691801,in kitchen,in kitchen,in kitchen,in kitchen,in kitchen,in kitchen,in kitchen
+06471625,yes,yes,yes,yes,yes,yes,yes
+03290922,no,no,no,no,no,no,no
+0514053,woman,woman,woman,woman,woman,woman,woman
+17866602,yes,yes,yes,yes,yes,yes,yes
+04164630,yes,yes,yes,yes,yes,yes,yes
+00143871,no,no,no,no,no,no,no
+0263193,dog,dog,dog,dog,dog,dog,dog
+1814652,yes,yes,yes,yes,yes,yes,yes
+07920998,camera,camera,camera,camera,camera,camera,camera
+1964218,mushrooms,mushrooms,mushrooms,mushrooms,mushrooms,mushrooms,mushrooms
+02625528,right side,right side,right side,right side,right side,right side,right side
+083391,white,white,white,white,white,white,white
+05323949,stove,sink,sink,sink,sink,sink,sink
+19621564,they are both made of cloth,they are both made of cloth,they are both white,they are striped,they are both white,they are both white,they are striped
+08158028,chair,chairs,chairs,chairs,chairs,chairs,chairs
+07349188,boy,boy,boy,boy,boy,boy,boy
+01542751,no,no,no,no,no,no,no
+00510681,right,right,right,right,right,right,right
+08590812,right side,right side,right side,right side,right side,right side,right side
+191044304,cat,cat,cat,cat,cat,cat,cat
+1463571,to left,to left,to left,to left,to left,to left,to left
+13936841,yes,yes,yes,yes,yes,yes,yes
+12577729,no,no,no,no,no,no,no
+19801213,right side,right side,right side,right side,right side,right side,right side
+081033162,to right,to right,to right,to right,to right,to right,to right
+101030720,right side,right side,right side,left side,right side,left side,left side
+14180356,no,no,no,no,no,no,no
+03676994,grassy,grassy,grassy,grassy,grassy,grassy,grassy
+04951841,they are white,they are white,they are white,they are white,they are white,they are white,they are white
+12268087,no,no,no,no,no,no,no
+081012647,no,no,no,no,no,no,no
+17723175,hat,hat,hat,shirt,hat,shirt,shirt
+12741664,no,no,no,no,no,no,no
+16686345,brown,brown,brown,brown,brown,brown,brown
+08643792,left,left,left,left,left,left,left
+1678435,yes,no,no,yes,no,no,no
+01996991,behind,behind,behind,behind,behind,behind,behind
+13436151,long,it is long,it is long,not enough information,it is long,not enough information,not enough information
+17590502,yes,no,no,no,no,no,no
+06481658,no,no,no,no,no,no,no
+03999497,mirror,silver vase,silver vase,silver vase,silver vase,silver vase,silver vase
+10957652,woman,woman,woman,boy,woman,woman,woman
+01675813,table,table,table,coffee table,table,coffee table,coffee table
+19103222,cake,cake,cake,cake,cake,cake,cake
+07564634,onion,green pepper,green pepper,green pepper,green pepper,green pepper,green pepper
+09942279,orange,orange,orange,orange,orange,orange,orange
+15163849,no,no,no,no,no,no,no
+10230297,white,white,white,white,white,white,white
+15702397,right side,right side,right side,right side,right side,right side,right side
+17338029,forest,forest,forest,forest,forest,forest,forest
+02431402,young boy,child,child,child,child,child,child
+05826133,no,no,no,no,no,no,no
+1614435,white,white,white,white,white,white,white
+1125958,no,no,no,no,no,no,no
+05691640,hat,hat,hat,hat,hat,hat,hat
+04583715,yes,yes,yes,yes,yes,yes,yes
+10587879,no,no,no,no,no,no,no
+00159185,bottom,bottom,bottom,bottom,bottom,bottom,bottom
+0871728,laptop,laptop,laptop,laptop,laptop,laptop,laptop
+161075679,no,no,no,no,no,no,no
+06328832,on ground,in middle of field,on ground,on ground,on ground,on ground,on ground
+10281744,bottom,bottom,bottom,bottom,bottom,bottom,bottom
+17617178,no,no,no,no,no,no,no
+12454186,blue,white,white,white,white,white,white
+08628115,no,no,no,no,no,no,no
+02551428,to right,right,to right,to right,to right,to right,to right
+0493895,white shirt,hat,hat,scarf,hat,scarf,scarf
+13979913,yes,yes,yes,yes,yes,yes,yes
+16553116,to right,to right,to right,to right,to right,to right,to right
+05568192,left side,right side,right side,right side,right side,right side,right side
+0347345,bread,paper,paper,paper,paper,paper,paper
+13376807,horse drawn carriage,horse drawn carriage,horse drawn carriage,horse drawn carriage,horse drawn carriage,horse drawn carriage,horse drawn carriage
+11537271,couch,couch,couch,couch,couch,couch,couch
+19443318,batter,batter,baseball player,batter,baseball player,batter,batter
+1736401,guitar,guitar,guitar,guitar,guitar,guitar,guitar
+03614248,right side,right side,right side,right side,right side,right side,right side
+18182058,microwave,microwave,microwave,microwave,microwave,microwave,microwave
+02670090,yes,no,no,no,no,no,no
+14150493,yes,yes,no,no,no,no,no
+18788861,black and orange uniform,baseball uniform,baseball uniform,baseball uniform,baseball uniform,baseball uniform,baseball uniform
+18697230,carrot,carrot,carrot,carrot,carrot,carrot,carrot
+1233832,no,no,no,no,no,no,no
+0275609,laptop,computer,computer,laptop,computer,laptop,laptop
+15234604,no,no,no,no,no,no,no
+00919568,yes,yes,yes,yes,yes,yes,yes
+16661198,life jacket,life jacket,life jacket,life jacket,life jacket,life jacket,life jacket
+06775510,plate,plate,plate,plate,plate,plate,plate
+12701549,kale,carrot,carrot,carrots,carrot,carrot,carrot
+00690981,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator
+1996737,bench,bench,bench,bench,bench,bench,bench
+01780601,baseball bats,baseball bats,no,baseball bats,baseball bats,baseball bats,baseball bats
+08516617,birds,birds,birds,bird cages,birds,birds,birds
+161060454,no,no,no,no,no,no,no
+08608950,yes,yes,yes,yes,yes,yes,yes
+00279582,in room,on floor,on floor,on floor,on floor,on floor,on floor
+01670857,no,no,no,no,no,no,no
+00484635,no,yes,yes,yes,yes,yes,yes
+17559908,eggs,eggs,eggs,fried eggs,eggs,fried eggs,fried eggs
+03190965,no,no,no,no,no,no,no
+15198390,fruit,fruit,fruit,fruit,fruit,fruit,fruit
+191034632,bed,bed,blanket,blanket,blanket,blanket,blanket
+16136555,yes,yes,yes,yes,yes,yes,yes
+07305524,to right,to right,to right,to right,to right,to right,to right
+16917325,no,no,no,no,no,no,no
+13763933,bed,bed,bed,bed,bed,bed,bed
+05827322,no,no,no,no,no,no,no
+06589206,in middle of road,in background,in background,on side of street,in background,in background,in background
+01190651,yellow,yellow,yellow,yellow,yellow,yellow,yellow
+01737485,skirt,skirt,skirt,skirt,skirt,skirt,skirt
+03820867,no,no,yes,no,yes,no,no
+09725726,on,on,on,on,on,on,on
+13116663,car,car,car,its wings,car,its wings,its wings
+06980154,no,yes,yes,no,yes,yes,no
+01583503,long,long,long,long,long,long,long
+16141,yes,yes,frisbee,frisbee,frisbee,frisbee,frisbee
+1281384,right side,right side,right side,right side,right side,right side,right side
+15319489,sandwich,sandwich,sandwich,sandwich,sandwich,sandwich,sandwich
+01642359,pan,pan,pan,pan,pan,pan,pan
+08164573,open,open,open,open,open,open,open
+07920778,camera,camera,camera,man,camera,camera,camera
+07598704,no,no,no,no,no,no,no
+14694196,yes,yes,yes,yes,yes,yes,yes
+08786066,yes,yes,yes,yes,yes,yes,yes
+11925973,man,man,man,man,man,man,man
+08618389,no,no,no,no,no,no,no
+01235826,yes,yes,yes,yes,yes,yes,yes
+1272688,no,no,no,no,no,no,no
+05979346,brown,tan,tan,tan,tan,tan,tan
+09567544,dog,dog,dog,dog,dog,dog,dog
+07824713,yes,yes,yes,yes,yes,yes,yes
+01892347,no,no,no,no,no,no,no
+16367068,zebra,zebra,zebra,zebra,zebra,zebra,zebra
+16936469,no,yes,yes,no,yes,yes,yes
+08223889,it is clean,it is clean,it is clean,it is dirty,it is clean,it is clean,it is clean
+11368482,no,no,no,no,no,no,no
+091036747,man,man,man,man,man,man,man
+1899399,concrete,concrete,concrete,stone,concrete,concrete,concrete
+12353991,dark blue,dark blue,dark blue,dark blue,dark blue,dark blue,dark blue
+09719801,pink shirt,pink shirt,pink shirt,her blouse,pink shirt,her blouse,her blouse
+00960322,skateboard,skateboard,skateboard,skateboard,skateboard,skateboard,skateboard
+11273949,no,no,no,no,no,no,no
+07633459,woman,woman,woman,woman,woman,woman,woman
+01557977,yes,yes,yes,yes,yes,yes,yes
+06412417,no,no,no,no,no,no,no
+19104235,yes,no,no,no,no,no,no
+00508563,blue shirt,blue shirt,blue shirt,blue shirt,blue shirt,blue shirt,blue shirt
+02757626,right side,right side,right side,right side,right side,right side,right side
+12617543,sitting,sitting,sitting,sitting,sitting,sitting,sitting
+15306331,horse,horse,horse,horse,horse,horse,horse
+13382179,no,no,no,no,no,no,no
+16129,right side,other side,other side,other side,other side,other side,other side
+07425385,bottom,bottom,bottom,bottom,bottom,bottom,bottom
+15515632,yes,yes,yes,yes,yes,yes,yes
+19625397,to right,to right,to right,to right,to right,to right,to right
+10485480,black,black,black,black,black,black,black
+17236209,bench,bench,bench,bench,bench,bench,bench
+04285200,yes,yes,yes,yes,yes,yes,yes
+02429130,wet,wet,wet,wet,wet,wet,wet
+10954759,bed,bed,bed,bed,bed,bed,bed
+10508335,cobblestone,cobblestone,cobblestone,cobblestone,cobblestone,cobblestone,cobblestone
+06867740,unanswerable,unanswerable,unanswerable,cauliflower,unanswerable,cauliflower,cauliflower
+05272440,no,no,no,no,no,no,no
+17507416,orange,orange,orange,orange,orange,orange,orange
+16372964,right,right,right,right,right,right,right
+01757365,no,no,no,no,no,no,no
+0160750,top,top,top,top,top,top,top
+17427513,they are both metal,they are both outside,they are both outside,they are both metallic,they are both outside,they are both outside,they are both metallic
+02140643,truck,truck,truck,truck,truck,truck,truck
+07292157,to right,to right,to right,to right,to right,to right,to right
+00156165,right,right,right,right,right,right,right
+061006749,girl,girl,girl,girl,girl,girl,girl
+1813398,no,yes,yes,no,yes,no,no
+06796968,beef,beef,beef,no meat,beef,beef,beef
+01783456,blue,blue,blue,blue,blue,blue,blue
+01793051,woman,woman,one person,woman,one person,woman,woman
+12919827,yes,yes,yes,yes,yes,yes,yes
+01210584,on side of road,on side of road,in middle of street,on side of road,on side of road,on side of road,on side of road
+05801045,no,yes,no,yes,no,no,yes
+071002228,no,no,no,no,no,no,no
+03166928,no,no,no,no,no,no,no
+13455012,to right,to right,to right,to right,to right,to right,to right
+14694189,no,no,no,no,no,no,no
+05305263,refrigerator,refrigerator,refrigerator,stove,refrigerator,refrigerator,refrigerator
+05428047,no,no,no,no,no,no,no
+00426909,bus,bus,bus,bus,bus,bus,bus
+101004641,no,no,no,olives,no,no,no
+15695110,no,no,no,no,no,no,no
+09871679,no,no,no,no,no,no,no
+04722191,cake,cake,cake,cake,cake,cake,cake
+12416555,stuffed animals,stuffed animals,stuffed animals,stuffed animals,stuffed animals,stuffed animals,stuffed animals
+19692216,safari hat,safari hat,safari outfit,safari hat,safari outfit,safari hat,safari hat
+13777294,oven,oven,oven,oven,oven,oven,oven
+01873917,no,no,no,no,no,no,no
+1573911,light brown,light brown,light brown,light brown,light brown,light brown,light brown
+06596904,couch,couch,couch,couch,couch,couch,couch
+16432597,wide,wide,wide,wide,wide,wide,wide
+04893465,sailboat,sailboat,sailboat,sailboat,sailboat,sailboat,sailboat
+03258259,microwave,microwave,microwave,microwave,microwave,microwave,microwave
+14989622,yes,yes,yes,yes,yes,yes,yes
+01297616,to right,to right,to right,to left,to right,to left,to left
+15897586,woman,woman,woman,woman,woman,woman,woman
+07328763,frisbee,frisbee,frisbee,frisbee,frisbee,frisbee,frisbee
+19260740,yes,yes,yes,yes,yes,yes,yes
+141001471,laptop,laptop,laptop,laptop,laptop,laptop,laptop
+0253540,chair,couch,couch,couch,couch,couch,couch
+12316265,desk,desk,desk,desk,desk,desk,desk
+04407615,skateboarder,skateboarder,skateboarder,skateboarder,skateboarder,skateboarder,skateboarder
+08174291,right side,right side,right side,other side,right side,right side,side of bus
+05625798,surfer riding wave,surfer riding wave,surfer riding wave,surfer riding wave,surfer riding wave,surfer riding wave,surfer riding wave
+021025905,no,no,no,no,no,no,no
+10218398,right side,right side,right side,right side,right side,right side,right side
+10647928,bottom,bottom,bottom,bottom,bottom,bottom,bottom
+17835273,white,white,white,white,white,white,white
+031054755,small,small,small,small,small,small,small
+18872466,to right,to right,to right,to right,to right,to right,to right
+15239718,tv,tv,tv,tv,tv,tv,tv
+08267041,round,round,round,round,round,round,round
+18283019,no,no,no,no,no,no,no
+13223443,silver,silver,silver,silver,silver,silver,silver
+16514332,no,no,no,no,no,no,no
+06850758,bird,bird,bird,bird,bird,bird,bird
+03954046,no,no,no,no,no,no,no
+0978184,donuts,donuts,donuts,donuts,donuts,donuts,donuts
+14836262,ice cream,ice cream,ice cream,burger,ice cream,burger,burger
+06711387,cat,cat,cat,cat,cat,cat,cat
+08856338,bottom,bottom,bottom,bottom,bottom,bottom,bottom
+11192339,black,white,white,white,white,white,white
+0993489,brown,brown,brown,brown,brown,brown,brown
+071039250,right,right,right,left,right,right,right
+031038604,bottom,bottom,bottom,bottom,bottom,bottom,bottom
+07302804,laptop,laptop,laptop,laptop,laptop,laptop,laptop
+11179425,no,no,no,no,no,no,no
+13451257,brown,brown,brown,brown,brown,brown,brown
+07497177,yes,no,no,no,no,no,no
+03248996,blue,blue,blue,blue,blue,blue,blue
+16753826,cat,cat,cat,cat,cat,cat,cat
+07600527,middle,middle,middle,middle,middle,middle,middle
+18621034,no,no,no,no,no,no,no
+13110426,cat,dog,dog,cat,dog,dog,dog
+1813893,to right,to right,to right,to right,to right,to right,to right
+04353905,ski jacket,helmet,hat,ski jacket,hat,ski jacket,ski jacket
+12660881,no,no,no,no,no,no,no
+07149712,man,man,man,man,man,man,man
+191042418,walking on snow,walking on snow,walking on snow,standing by skiers,walking on snow,standing by skiers,standing by skiers
+05965627,truck,truck,truck,truck,truck,truck,truck
+04532076,cyclists,man,man,cyclist on red bike,man,man,cyclist on red bike
+16998350,blue,blue,blue,blue,blue,blue,blue
+01671281,no,no,no,no,no,no,no
+08721551,metal,metal,metal,metal,metal,metal,metal
+07527384,right side,right side,right side,right side,right side,right side,right side
+09609114,yes,yes,yes,no,yes,yes,yes
+00946096,dog,dog,dog,dog,dog,dog,dog
+06893663,yes,yes,yes,yes,yes,yes,yes
+12655919,right,right,right,right,right,right,right
+1316059,no,no,no,no,no,no,no
+10600167,right,right,right,right,right,right,right
+13954495,no,no,no,no,no,no,no
+05755282,train,train,train,train,train,train,train
+0364142,no,no,no,no,no,no,no
+06175476,soda,soda,soda,soda,soda,soda,soda
+05557908,white,black,blue,white,black,white,white
+04132271,sofa,chair,chair,white chair,chair,chair,chair
+12801002,no,no,no,no,no,no,no
+16918083,yes,yes,yes,yes,yes,yes,yes
+15781597,no,no,no,yes,no,no,no
+09469418,gold,gold,gold,gold,gold,gold,gold
+061046810,no,no,no,no,no,no,no
+15834169,black,black,black,black,black,black,black
+0953804,yes,yes,yes,no,yes,no,no
+06492285,to left,to left,to left,to left,to left,to left,to left
+0898747,yes,yes,yes,yes,yes,yes,yes
+18798386,to right,to right,to right,to right,to right,to right,to right
+05272550,laptop,laptop,laptop,laptop,laptop,laptop,laptop
+00994014,no,no,no,no,no,no,no
+13654801,white,white,white,white,white,white,white
+02228104,no,no,no,no,no,no,no
+1622272,no,no,no,no,no,no,no
+12353852,to right,to right,to right,to right,to right,to right,to right
+04432600,no,no,no,no,no,no,no
+07541138,table,table,table,table,table,table,table
+07679815,no,no,no,no,no,no,no
+09958666,asphalt,asphalt,asphalt,asphalt,asphalt,asphalt,asphalt
+18925023,video game,video game,video game,video game,video game,video game,video game
+01935285,bottom,bottom,bottom,bottom,bottom,bottom,bottom
+10264103,no,no,no,no,no,no,no
+051012632,no,no,no,no,no,no,no
+0727533,no,no,no,no,no,no,no
+00653995,blue and white striped shirt,shirt,shirt,striped shirt and tie,shirt,striped shirt and tie,striped shirt and tie
+11675102,tv,tv,tv,tv,tv,tv,tv
+00156017,right side,right side,right side,right side,right side,right side,right side
+18229548,street,street,street,street,street,street,street
+17401732,no,no,no,no,no,no,no
+0694055,right side,right side,right side,right side,right side,right side,right side
+05503436,no,no,no,no,no,no,no
+12669279,stop sign,stop sign,stop sign,stop sign,stop sign,stop sign,stop sign
+16177216,no one,not enough information,not enough information,not enough information,not enough information,not enough information,not enough information
+09519963,pig,cat,cat,cat,cat,cat,cat
+04188410,green,green,green,green,green,green,green
+15804290,woman,woman,woman,woman,woman,woman,woman
+08355211,woman,woman,woman,woman,woman,woman,woman
+01222456,no,no,no,no,no,no,no
+1864263,no,no,no,no,no,no,no
+19352525,yes,yes,yes,yes,yes,yes,yes
+08928854,cell phone,cell phone,cell phone,cell phone,cell phone,cell phone,cell phone
+11805657,sausage,ham,sausage,sausage,sausage,ham,sausage
+06206309,black,black,black,black,black,black,black
+15597484,banana,banana,banana,banana,banana,banana,banana
+051064825,no,no,no,no,no,no,no
+03618885,cat,cat,cat,cat,cat,cat,cat
+06204565,no,no,no,buoy,no,no,no
+1399434,right side,right side,right side,left side,right side,right side,left side
+10927063,no,no,no,no,no,no,no
+12341998,woman,woman,woman,woman,woman,woman,woman
+08984575,no,no,no,no,no,no,no
+13159178,no,no,no,no,no,no,no
+11746701,yellow,yellow,yellow,yellow,yellow,yellow,yellow
+11283843,coffee,coffee,coffee,coffee,coffee,coffee,coffee
+16434102,no,no,no,yes,no,no,no
+00555168,yes,yes,yes,yes,yes,yes,yes
+08390753,no,no,no,no,no,no,no
+12647054,right side,other side,other side,other side,other side,other side,other side
+04736157,bench,person,person,man sleeping on bench,person,person,person
+10434939,closed,closed,closed,closed,closed,closed,closed
+121047508,skateboarder,person on skateboard,person on skateboard,person riding skateboard,person on skateboard,person on skateboard,person on skateboard
+01495247,pink,pink,pink,pink,pink,pink,pink
+131044742,no,no,no,no,no,no,no
+14658196,sheep,sheep,sheep,sheep,sheep,sheep,sheep
+041033333,elephants,elephants,elephants,elephants,elephants,elephants,elephants
+19929916,to right,to right,to right,to right,to right,to right,to right
+03364914,right,right,right,right,right,right,right
+07936877,cardboard,cardboard,cardboard,cardboard,cardboard,cardboard,cardboard
+11169574,they are both in kitchen,they are in kitchen,they are in kitchen,they are both in kitchen,they are in kitchen,they are both in kitchen,they are in kitchen
+19307400,pink pants,pink outfit,pink outfit,pink pants,pink outfit,pink outfit,pink outfit
+12924335,no,no,no,yes,no,no,no
+08335640,man,man,man,man,man,man,man
+05546919,no,no,no,no,no,no,no
+18938638,no,no,no,no,no,no,no
+11471657,man,man,man,man,man,man,man
+07406694,plate,plate,plate,plate,plate,plate,plate
+01459612,no,no,no,no,no,no,no
+13583109,suitcase,suitcase,suitcase,his luggage,suitcase,his luggage,his luggage
+17273298,right,right,right,right,right,right,right
+10756563,no,no,no,no,no,no,no
+13298864,food,food,food,plate of pasta glass of,food,food,food
+12354398,right side,right side,right side,one side,right side,right side,right side
+01961352,to right,to right,to right,to right,to right,to right,to right
+04650533,red,red,red,blond,red,blond,blond
+081013977,helmet,helmet,red shirt,jacket,red shirt,shirt,jacket
+126450,yes,yes,yes,yes,yes,yes,yes
+06783761,no,no,no,no,no,no,no
+08602659,no,no,no,no,no,no,no
+07139084,train,train,train,train,train,train,train
+0565163,white,white,white,white,white,white,white
+14465216,white,white,white,white,white,white,white
+17260516,white,white,white,white,white,white,white
+04150905,couch,couch,couch,couch,couch,couch,couch
+1425385,yes,yes,yes,yes,yes,yes,yes
+09663386,in air,in air,in air,in air,in air,in air,in air
+04280188,man,man,man,one of workers,man,one of workers,one of workers
+1710383,field,field,field,field,field,field,field
+02372975,bread,bread,bread,toast,bread,bread,toast
+06895569,right side,right side,right side,right side,right side,right side,right side
+14375486,no,no,no,no,no,no,no
+15562247,umbrella,umbrella,umbrella,umbrella,umbrella,umbrella,umbrella
+09489168,right side,right side,right side,right side,right side,right side,right side
+13755934,on right,on right,on right,on right,on right,on right,on right
+161071214,tall,tall,tall,tall,tall,tall,tall
+18994590,it is dirty,it is dirty,it is dirty,it is dirty,it is dirty,it is dirty,it is dirty
+01390372,no,no,no,no,no,no,no
+06980040,in field,in field,in field,in field,in field,in field,in field
+02206668,woman,woman,woman,woman,woman,woman,woman
+131025008,right side,right side,right side,right side,right side,right side,right side
+0514051,yes,yes,yes,yes,yes,yes,yes
+001346,yes,yes,yes,yes,yes,yes,yes
+04554582,no,no,no,no,no,no,no
+09587075,apple,apples,apples,apples,apples,apples,apples
+08605217,three people,three people,three people,group of people,three people,three people,three people
+19360895,white,white,white,red,white,red,red
+08606427,no,no,no,no,no,no,no
+16282186,no,no,no,no,no,no,no
+12377597,train,bus,bus,subway train,bus,train,train
+17635376,no,no,no,no,no,no,no
+09180102,no,no,no,no,no,no,no
+09848049,right side,right side,right side,right side,right side,right side,right side
+02511650,white,white,white,white,white,white,white
+07900557,black,white,white,red,white,white,white
+09253029,car,car,car,car,car,car,car
+03999565,silver,silver,silver,silver,silver,silver,silver
+12417573,concrete,concrete,concrete,concrete,concrete,concrete,concrete
+175067,no,no,no,no,no,no,no
+11242672,no,no,no,no,no,no,no
+07938036,yes,yes,yes,yes,yes,yes,yes
+07723906,sandwich and salad,sandwich,sandwich and salad,sandwich and salad,sandwich and salad,sandwich and salad,sandwich and salad
+09124717,yes,yes,yes,yes,yes,yes,yes
+13708925,elephant,elephant,elephant,elephant,elephant,elephant,elephant
+09175293,bench,chair,chair,bench,chair,bench,chair
+18704258,teddy bear,teddy bear,teddy bear,teddy bear,teddy bear,teddy bear,teddy bear
+00484784,yes,yes,yes,yes,yes,yes,yes
+06143941,bat,bat,bat,bat,bat,bat,bat
+07708612,flower,flower,flower,kite,flower,flower,flower
+06101741,box,box,box,box,box,box,box
+151000630,no,no,no,no,no,no,no
+01827280,baby,little girl,little girl,little girl,little girl,little girl,little girl
+04397539,yellow glaze,yellow,yellow,yellow frosting,yellow,yellow,yellow
+15706782,sandwich,sandwich,sandwich,fries,sandwich,sandwich,sandwich
+16629963,yes,no,no,no,no,no,no
+17475577,bookcase,bookcase,bookcase,bookcase,bookcase,bookcase,bookcase
+00632501,four kids,four kids,four children,four young children,four children,four children,four children
+1351361,woman,woman,woman,woman,woman,woman,woman
+00880626,no,no,no,no,no,no,no
+15354186,yes,yes,yes,yes,yes,yes,yes
+19900130,pig,pig,cat,cat,cat,cat,cat
+07604249,white,white,white,blue,white,white,white
+19416410,white,white,white,white,white,white,white
+18615785,black dress,dress,dress,black dress,dress,dress,dress
+11474276,right side,right side,right side,opposite side,right side,right side,right side
+19949258,carrots,carrots,carrots,carrots,carrots,carrots,carrots
+051058621,tiger jersey,tiger shirt,tiger shirt,tiger outfit,tiger shirt,tiger outfit,tiger outfit
+14963649,no,no,no,no,no,no,no
+00263985,no,no,no,no,no,no,no
+00684162,no,no,no,no,no,no,no
+14500423,white,white,white,white,white,white,white
+04940328,right side,right side,right side,right side,right side,right side,right side
+00307383,desk,desk,desk,desk,desk,desk,desk
+14266407,white,white,white,white,white,white,white
+09745131,red,red,red,red,red,red,red
+02935178,white,white,brown,brown,white,white,brown
+161042880,green pepper,carrots,carrots,carrots,carrots,carrots,carrots
+18815461,woman,woman,woman,woman,woman,woman,woman
+09886392,man,man,man,one person,man,one person,man
+1350722,lake,lake,lake,lake,lake,lake,lake
+17709057,no,no,no,no,no,no,no
+0688438,no,no,no,no,no,no,no
+1172596,they are both on desk,they are both on desk,they are both on desk,they are both on desk,they are both on desk,they are both on desk,they are both on desk
+15700166,no,no,no,no,no,no,no
+03697798,blue,blue,blue,blue,blue,blue,blue
+05684995,truck,truck,truck,truck,truck,truck,truck
+05495385,man and woman,man and woman,man and woman,man and woman,man and woman,man and woman,man and woman
+12458924,right side,right side,right side,right side,right side,right side,right side
+05299941,wood,wood,wood,wood,wood,wood,wood
+17291982,no,no,no,no,no,no,no
+09517393,no,no,no,no,no,no,no
+09367844,boy,boy,boy,boy,boy,boy,boy
+13158062,yes,yes,yes,yes,yes,yes,yes
+0977468,no,no,no,no,no,no,no
+07430803,no,no,no,no,no,no,no
+07517722,no,no,no,no,no,no,no
+17184682,no,no,no,no,no,no,no
+041024027,bed,bed,bed,bed,bed,bed,bed
+03585412,wetsuits,wetsuits,wetsuits,wetsuits,wetsuits,wetsuits,wetsuits
+01840020,pitcher,batter,batter,batter,batter,batter,batter
+16678234,bottom,bottom,bottom,top,bottom,bottom,bottom
+01135734,blender,blender,blender,blender,blender,blender,blender
+15405066,no,no,no,no,no,no,no
+13614806,left side,right side,right side,right side,right side,right side,right side
+07810476,blue,blue,blue,blue,blue,blue,blue
+01326716,table,table,table,table,table,table,table
+06752628,room with bunk bed,room with bunk beds,room with bunk bed,room with two bunk beds,room with bunk bed,room with bunk beds,room with bunk beds
+11546695,green,green,green,green,green,green,green
+03382649,yes,yes,yes,yes,yes,yes,yes
+03618416,no,no,no,no,no,no,no
+06274149,no,no,no,no,no,no,no
+19486684,no,no,no,no,no,no,no
+00171664,jeans,jeans,jeans,jeans,jeans,jeans,jeans
+04354707,wetsuit,wetsuit,wetsuit,wetsuit,wetsuit,wetsuit,wetsuit
+09851514,cabinets,cabinets,cabinets,cabinets,cabinets,cabinets,cabinets
+06225385,carrot,carrots,carrots,greens,carrots,carrots,carrots
+05457514,to right,to right,to right,to right,to right,to right,to right
+17845543,counter,counter,table,middle island of kitchen,table,counter,counter
+00974610,yes,no,no,no,no,no,no
+02962644,cell phone,cell phone,cell phone,cell phone,cell phone,cell phone,cell phone
+07104409,no,no,no,no,no,no,no
+12580475,yes,yes,yes,yes,yes,yes,yes
+04813491,pineapple,pineapple,pineapple,pineapple,pineapple,pineapple,pineapple
+15702152,tower,tower,tower,tower,tower,tower,tower
+12772490,store,store,store,building,store,building,building
+04993817,car,car,car,car,car,car,car
+14598187,yes,yes,yes,yes,yes,yes,yes
+03424965,no,no,no,yes,no,no,no
+14722063,in zoo,in zoo,in zoo,at animal zoo,in zoo,in zoo,at animal zoo
+08100786,right,right,right,right,right,right,right
+00748174,gray shirt,gray shirt,gray sweater,gray sweater,gray sweater,gray sweater,gray sweater
+10392632,zoo,zoo,zoo,zoo,zoo,zoo,zoo
+19111109,no,no,no,no,no,no,no
+06778240,width of window made of wood is,no,width of window made of wood,width of window made of wood,no,width of window made of wood,width of window made of wood
+11565595,blue,white,white,blue,white,white,white
+061044613,small basket,small basket,small basket,small basket,small basket,small basket,small basket
+15135394,hat,hat,hat,hat,hat,hat,hat
+13614782,no,no,no,no,no,no,no
+0492873,elephant,elephant,elephant,elephant,elephant,elephant,elephant
+07846508,street,city,city,street,city,city,city
+13861514,tower,tower,tower,tower,tower,tower,tower
+04218720,sandwich,plate,plate,plate,plate,plate,plate
+08724797,blue shirt,white shirt,white shorts,blue,white shorts,white shirt,white shirt
+09298905,concrete,concrete,concrete,concrete,concrete,concrete,concrete
+16110046,yes,no,yes,no,yes,no,no
+09614496,left side,right side,right side,right side,right side,right side,right side
+06803142,hot dog,hot dog,hot dog,hot dog,hot dog,hot dog,hot dog
+13645283,right side,right side,right side,right side,right side,right side,right side
+07921124,yes,yes,yes,yes,yes,yes,yes
+01165163,right side,right side,right side,one side,right side,right side,right side
+06624599,no,no,no,no,no,no,no
+02677642,bus,bus,bus,bus,bus,bus,bus
+11679397,right,right,right,right,right,right,right
+19589785,right side,right side,right side,right side,right side,right side,right side
+13904315,yes,yes,yes,yes,yes,yes,yes
+00880323,city,asian,asian,city,asian,city,city
+09740877,drawer,drawer,drawer,drawer,drawer,drawer,drawer
+03678560,no,yes,no,yes,no,yes,no
+10554792,dog,dog,dog,dog,dog,dog,dog
+14387329,yes,yes,yes,yes,yes,yes,yes
+0813418,wood,concrete,concrete,concrete,concrete,concrete,concrete
+07218279,zoo,zoo,zoo,zoo,zoo,zoo,zoo
+02718473,jacket,jacket,jacket,jacket,jacket,jacket,jacket
+171021507,sign,sign,sign,brick building,sign,sign,sign
+12171597,stainless steel,stainless steel,stainless steel,stainless steel,stainless steel,stainless steel,stainless steel
+031054137,computer desk,computer,desk,computer case,desk,computer,computer
+12792715,yes,yes,yes,yes,yes,yes,yes
+15246191,striped shirt,shirt,shirt,shirt,shirt,shirt,shirt
+08244053,table,table,table,table,table,table,table
+0238250,carrot,carrot,carrot,carrot,carrot,carrot,carrot
+03567551,laptop,laptop,laptop,laptop,laptop,laptop,laptop
+06982955,plate,plate,plate,plate,plate,plate,plate
+10918413,right side,right side,right side,right side,right side,right side,right side
+16701369,white,white,white,white,white,white,white
+01167429,cell phone,cell phone,cell phone,cell phone,cell phone,cell phone,cell phone
+15695644,yes,yes,yes,yes,yes,yes,yes
+051039406,right side,right side,right side,right side,right side,right side,right side
+0993467,top,top,top,bottom,top,top,top
+15617475,no,no,no,no,no,no,no
+02788694,black,black,black,black,black,black,black
+15775589,wood,wood,wood,wood,wood,wood,wood
+08289117,no,no,no,no,no,no,no
+19836727,to right,to right,to right,to right,to right,to right,to right
+1853601,bottom,bottom,bottom,bottom,bottom,bottom,bottom
+03716091,no,no,no,no,no,no,no
+13663430,yes,yes,yes,yes,yes,yes,yes
+12818536,no,no,no,no,no,no,no
+05245113,no,no,no,no,no,no,no
+16862642,shirt,shirt,shirt,shirt,shirt,shirt,shirt
+1055242,no,no,no,no,no,no,no
+11821504,laptop,laptop,laptop,laptop,laptop,laptop,laptop
+131035563,no,no,no,no,no,no,no
+05177332,crate,crate,crate,crate,crate,crate,shopping bag
+04740591,pickles,pickles,pickles,celery,pickles,pickles,pickles
+04503282,white,white,white,white,white,white,white
+15600044,tennis racket,tennis racket,tennis racket,tennis racquet,tennis racket,tennis racket,tennis racket
+0547359,white,white,white,white,white,white,white
+14104488,no,no,no,no,no,no,no
+13534703,no,no,no,no,no,no,no
+08904583,small,small,small,small,small,small,small
+10682866,carrots,carrots,carrots,carrots,carrots,carrots,carrots
+04896950,ski jacket,ski jacket,ski jacket,jacket,ski jacket,ski jacket,ski jacket
+04682588,batter,batter,batter,player,batter,player,player
+09934223,no,no,no,no,no,no,no
+17867759,concrete,concrete,concrete,concrete,concrete,concrete,concrete
+19311604,yes,no,no,no,no,no,no
+1399471,sink,sink,sink,towel rack,sink,sink,towel rack
+19482285,man,man,man,man,man,man,person
+13536985,white,white,white,white,white,white,white
+1756758,yes,yes,yes,no,yes,yes,no
+111044325,top,top,top,top,top,top,top
+15640900,no,no,no,no,no,no,no
+08185117,woman,person,woman,person,woman,person,person
+11199081,no,no,no,no,no,no,no
+03830988,green,green,green,green,green,green,green
+10958341,no,no,no,no,no,no,no
+191030054,right side,right side,right side,right side,right side,right side,right side
+00972254,man,man,man,man,man,man,man
+05491626,bottom,bottom,bottom,bottom,bottom,bottom,bottom
+01450030,to right,to right,to right,to right,to right,to right,to right
+1249750,cat,cat,cat,cat,cat,cat,cat
+06609766,city,city,city,city,city,city,city
+161013501,horse,horse,horse,horse,horse,horse,horse
+05343513,no,no,no,no,no,no,no
+06468772,no,no,no,no,no,no,no
+13968128,no,no,no,no,no,no,no
+19931444,cell phone,cell phone,cell phone,cell phone,cell phone,cell phone,cell phone
+12266577,no,yes,yes,yes,yes,yes,yes
+19252519,person in boat,one person,one person,one of kids,one person,one person,one person
+18524347,left side,left side,left side,left side,left side,left side,left side
+08774127,right side,right side,right side,right side,right side,right side,right side
+17364046,no,no,no,no,no,no,no
+06596919,table,coffee table,coffee table,chair,coffee table,chair,chair
+15973372,yes,yes,yes,yes,yes,yes,yes
+06302582,train,train,train,train,train,train,train
+12993053,table,table,table,kitchen table,table,table,table
+09662629,right side,right side,right side,right side,right side,right side,right side
+05432037,yes,yes,yes,yes,yes,yes,yes
+01775697,mountain,skis,skier,skier,skier,skier,skier
+19676665,owl,owl,owl,owl,owl,owl,owl
+11202754,no,no,no,no,no,no,no
+16292311,they are white,they are moving,they are moving,they are white,they are moving,they are moving,they are moving
+06363645,no,no,no,no,no,no,no
+0473096,skillet,pan,pan,frying pan,pan,pan,pan
+04197482,oven,oven,oven,pizza oven,oven,oven,oven
+18860751,snowboards,paintings,no,paintings,no,paintings,paintings
+10882914,carrots,carrots,carrots,carrots,carrots,carrots,carrots
+07749100,no,no,no,no,no,no,no
+15126935,real,it is real,not enough information,real,not enough information,it is real,not enough information
+04994160,helmet,hat,hat,helmet,hat,helmet,helmet
+0464582,white,white,white,white,white,white,white
+01783531,skirt,skirt,skirt,blazer,skirt,skirt,skirt
+18182033,yes,yes,yes,yes,yes,yes,yes
+18858552,right side,right side,right side,right side,right side,right side,right side
+03723085,sheep,sheep,sheep,sheep,sheep,sheep,sheep
+18320945,large,large,large,large,large,large,large
+07819724,no,no,no,no,no,no,no
+04579958,woman,woman,woman,person that is riding skis,woman,woman,woman
+19403869,right side,right side,right side,right side,right side,right side,right side
+16740267,skate park,skate park,skate park,park,skate park,park,park
+00624785,are cheering,are cheering,are cheering,waving,are cheering,are cheering,clapping
+19358447,no,no,no,no,no,no,no
+15505710,bus,bus,bus,bus,bus,bus,bus
+02718472,jacket,jacket,jacket,jacket,jacket,jacket,jacket
+08554838,cell phones,no,no,no,no,no,no
+12352256,yes,yes,yes,yes,yes,yes,yes
+06408765,no,no,no,no,no,no,no
+067562,yes,yes,yes,yes,yes,yes,yes
+08198311,chair,chair,chair,chair,chair,chair,chair
+09179691,blue,blue,blue,white,blue,blue,blue
+17585688,donuts,donuts,donuts,donuts,donuts,donuts,donuts
+03101593,dresser,dresser,dresser,dresser,dresser,dresser,dresser
+19103195,yes,yes,yes,no,yes,no,no
+19676627,green,green,green,green,green,green,green
+161013494,white,white,white,white,white,white,white
+00880884,yes,yes,yes,yes,yes,yes,yes
+07139225,clouds,clouds,clouds,clouds,clouds,clouds,clouds
+11332602,car,car,car,van,car,car,car
+06974684,shelf,shelf,shelf,shelf,shelf,shelf,shelf
+17338129,walking,walking,walking,walking,walking,walking,walking
+14796632,top,top,top,top,top,top,top
+12409426,yes,yes,yes,yes,yes,yes,yes
+08410125,no,yes,yes,yes,yes,yes,yes
+141041729,no,no,no,no,no,no,no
+07661099,yes,yes,yes,no,yes,no,no
+16489925,no,no,no,no,no,no,no
+07739928,no,no,no,no,no,no,no
+06459412,table,table,table,table,table,table,table
+121035257,metal,metal,metal,metal,metal,metal,metal
+03513708,black,black,black,black,black,black,black
+061042514,white,white,white,white,white,white,white
+17773280,white,white,white,white,white,white,white
+0922984,in city,in city,in city,in city,in city,in city,in city
+08230128,cell phone,cell phone,cell phone,cell phone,cell phone,cell phone,cell phone
+16552725,gray,gray,gray,gray,gray,gray,gray
+09971308,hotdog,hot dog,hotdog,hot dog,hotdog,hot dog,hot dog
+14387227,taxi,bus,bus,bus,bus,bus,bus
+101030604,gray,gray,gray,gray,gray,gray,gray
+161046249,yes,no,no,no,no,no,no
+07360618,green dress,green dress,green dress,green dress,green dress,green dress,green dress
+08784485,bed,bed,bed,bed,bed,bed,bed
+05134888,yes,no,no,no,no,no,no
+01391913,bottom,bottom,bottom,bottom,bottom,bottom,bottom
+0953905,wood,wood,wood,wood,wood,wood,wood
+15159695,couch,couch,couch,couch,couch,couch,couch
+10698553,pineapple,pineapple,pineapple,pineapple,pineapple,pineapple,pineapple
+10931915,right side,right side,right side,right side,right side,right side,right side
+01938380,baseball mitt,baseball glove,gloves,baseball catcher s mitt,gloves,baseball glove,baseball glove
+06878611,sweater,shirt,shirt,sweater,shirt,sweater,sweater
+12894251,car,car,car,bus,car,bus,bus
+121068,right side,right side,right side,right side,right side,right side,right side
+1559106,yes,yes,yes,yes,yes,yes,yes
+00490946,black,black,black,black,black,black,black
+05864477,no,no,no,no,no,no,no
+01806991,right,right,right,right,right,right,right
+01542802,yes,yes,yes,yes,yes,yes,yes
+15342864,no,no,no,yes,no,yes,yes
+01615644,right side,right side,right side,right side,right side,right side,right side
+02935082,horse,horse,horse,horse,horse,horse,horse
+02248630,man,man,man,man,man,man,man
+08188871,no,no,no,no,no,no,no
+01892665,bowl of rice,bowl of rice,bowl of rice,bowl of rice,bowl of rice,bowl of rice,bowl of rice
+16889756,no,no,no,no,no,no,no
+07170749,to right,to right,to right,to right,to right,to right,to right
+14544575,wood,wood,metal,metal,wood,wood,wood
+03288531,laptop,laptop,laptop,laptop,laptop,laptop,laptop
+13324315,bottom,bottom,bottom,top,bottom,top,top
+09811264,skateboard,skateboard,skateboard,skateboard,skateboard,skateboard,skateboard
+18686042,no,no,no,no,no,no,no
+11207624,no,yes,yes,no,yes,no,no
+16155343,two people,person,person,people,person,two people,two people
+081019307,yes,yes,yes,yes,yes,yes,yes
+04955593,couch,couch,couch,sofa,couch,couch,couch
+17465142,baseball cap,baseball cap,baseball cap,baseball cap,baseball cap,baseball cap,baseball cap
+19993348,no,no,no,no,no,no,no
+1829836,right,right,right,right,right,right,right
+02639755,no,no,no,no,no,no,no
+05507167,no,no,no,no,no,no,no
+19248038,white,white,white,white,white,white,white
+13854509,field,field,field,field,field,field,field
+12804955,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator
+1698877,right side,right side,right side,right side,right side,right side,right side
+0575841,riding on truck,riding on truck,riding on truck,riding on truck,riding on truck,riding on truck,riding on truck
+07259307,no,no,no,no,no,no,no
+14223255,lettuce,lettuce,lettuce,lettuce,lettuce,lettuce,lettuce
+06167177,to right,to right,to right,right,to right,to right,to right
+13947020,passenger train,train,train,train,train,train,train
+01783542,yes,yes,yes,yes,yes,yes,yes
+14956168,yes,yes,yes,yes,yes,yes,yes
+09520097,tv set,tv remote,tv remote,mobile phone,tv remote,tv remote,tv remote
+12607119,no,no,no,no,no,no,no
+08390838,couch,table,table,sofa,table,sofa,sofa
+04917772,right side,right,right side,right,right,right,right side
+14380085,no,no,no,no,no,no,no
+11821524,no,no,no,no,no,no,no
+12955023,no,no,no,no,no,no,no
+09569424,no,no,no,no,no,no,no
+05119962,no,yes,yes,no,yes,no,no
+05383219,large commercial jet,large commercial airliner,large commercial airliner,large commercial jet,large commercial airliner,large commercial airliner,large commercial airliner
+13696762,right side,right side,right side,right side,right side,right side,right side
+14630258,right side,right side,right side,right side,right side,right side,right side
+10600154,to right,to right,to right,to right,to right,to right,to right
+19225251,yes,yes,yes,no,yes,no,no
+12553018,television,tv,tv,television,tv,television,television
+13636672,yes,yes,yes,yes,yes,yes,yes
+17709036,no,no,no,no,no,no,no
+18899093,rock,rocks,rocks,rocks,rocks,rock,rock
+0381,bed,bed,bed,bed,bed,bed,bed
+16341222,no,no,no,no,no,no,no
+17249943,red,red,red,red,red,red,red
+02383374,no,no,no,no,no,no,no
+05579875,no,no,no,no,no,no,no
+17516427,no,no,no,no,no,no,no
+1335808,small town,country,country,country,country,country,country
+12800551,teddy bear,teddy bears,teddy bears,teddy bears,teddy bears,teddy bears,teddy bears
+13936665,bed,bed,bed,bed,bed,bed,bed
+01300982,yes,no,yes,yes,yes,no,no
+16646166,group of people,man,man,man,man,man,man
+08594315,no,no,no,no,no,no,no
+12657291,man,skateboarder,skateboarder,man,skateboarder,skateboarder,skateboarder
+05159364,yes,yes,yes,yes,yes,yes,yes
+00760660,catcher,catcher,catcher,catcher,catcher,catcher,catcher
+19807172,blue,blue,blue,blue,blue,blue,blue
+13659176,hat,hat,hat,black shirt and brown pants,hat,shirt,shirt
+00717551,blue,blue,blue,blue,blue,blue,blue
+0435276,yes,yes,no,yes,no,yes,yes
+041019374,white,red,red,white,red,red,red
+04153007,captain,person,person,person on boat,person,person on boat,person on boat
+02219653,woman,woman,woman,person playing tennis,woman,person,person
+04906655,no,no,no,no,no,no,no
+10351293,tall,tall,tall,tall,tall,tall,tall
+13759210,no,no,no,no,no,no,no
+1592958,to right,to right,to right,to right,to right,to right,to right
+07383243,right side,right side,right side,right side,right side,right side,right side
+03273675,tennis racket,tennis racket,tennis racket,racquet,tennis racket,tennis racket,tennis racket
+09299209,boat,boat,boat,boat,boat,boat,boat
+16409125,light,light,light,light,light,light,light
+0844783,kittens,kittens,kittens,kittens,kittens,kittens,kittens
+082237,no,no,no,no,no,no,no
+17247169,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator
+05943630,no,no,no,no,no,no,no
+09656695,no,no,no,no,no,no,no
+04397371,no,no,no,no,no,no,no
+03662778,t shirts,t shirts,shirts,t shirts,shirts,t shirts,shirts
+051018898,no,no,no,no,no,no,no
+19613047,wii,video game console,video game console,video game console,video game console,video game console,video game console
+15278836,no,no,no,no,no,no,no
+15310959,no,no,no,no,no,no,no
+0481569,women,women,women,women,women,women,women
+18351699,shorts,shorts,shorts,shorts,shorts,shorts,shorts
+071002236,no,no,no,yes,no,yes,yes
+04577237,short,short,short,short,short,short,short
+12353588,no,no,no,no,no,no,no
+07349366,no,no,no,no,no,no,no
+11533767,no,no,no,no,no,no,no
+171034368,carrots,carrots,carrots,carrots,carrots,carrots,zucchini
+19933081,in front,in front,in front,in front,in front,in front,in front
+1417121,street sign,street sign,street sign,street sign,street sign,street sign,street sign
+0275612,table,table,table,table,table,table,table
+09515046,yes,yes,yes,yes,yes,yes,yes
+08478369,spoon,spoon,spoon,spoon,spoon,spoon,spoon
+05747993,donuts,donuts,donuts,donuts,donuts,donuts,donuts
+18243735,no,no,no,no,no,no,no
+03407285,no,no,no,no,no,no,no
+04304518,sheep,sheep,sheep,sheep,sheep,sheep,sheep
+1928861,no,no,no,no,no,no,no
+10737881,in kitchen,next to table,next to table,behind lady and girl,next to table,next to table,next to table
+18780174,table,table,table,table,table,table,table
+15989705,brown,brown,brown,brown,brown,brown,brown
+16648947,two people,two people,two people,two people,two people,two people,two people
+13213318,no,no,no,no,no,no,no
+03353882,microwave,microwave,microwave,microwave,microwave,microwave,microwave
+18942940,no,no,no,no,no,no,no
+05580785,cabinet,cabinet,cabinet,cabinet,cabinet,cabinet,cabinet
+02785208,on beach,on beach,on beach,on beach,on beach,on beach,on beach
+1536598,bookshelf,sofa,sofa,bookshelf,sofa,sofa,sofa
+10153702,table,table,table,table,table,table,table
+10924978,yes,yes,yes,yes,yes,yes,yes
+16538302,no,no,no,no,no,no,no
+18401967,woman,woman,woman,woman,woman,woman,woman
+07142479,indoors,indoors,indoors,indoors,indoors,indoors,indoors
+00167868,to right,to right,to right,to right,to right,to right,to right
+02889144,right side,right side,right side,right side,right side,right side,right side
+12189868,no,no,no,yes,no,no,no
+07337687,top,top,top,top,top,top,top
+06541984,to right,to right,to right,to right,to right,to right,to right
+04972802,short,short,short,short,short,short,short
+03715974,no,no,no,no,no,no,no
+18437332,cup,cup,cup,glass,cup,cup,cup
+001033738,girl,girl,girl,girl,girl,girl,girl
+02766993,woman,woman,woman,woman,woman,woman,woman
+05122838,teddy bear,teddy bear,teddy bear,teddy bear,teddy bear,toy,teddy bear
+08223849,no,no,no,no,no,no,no
+15385284,cabinets,cabinets,cabinets,cabinets,cabinets,cabinets,cabinets
+00485041,bag of food,bag of food,bag of food,bag of food,bag of food,bag of food,bag of food
+10382388,donuts,donuts,donuts,donuts,donuts,donuts,donuts
+07236540,right side,right side,right side,cat s side,right side,right side,right side
+10696889,sandwich,sandwich,sandwich,sandwich,sandwich,sandwich,sandwich
+13708509,no,no,no,no,no,no,no
+09236118,yes,yes,yes,no,yes,no,no
+07277663,brown,brown,brown,brown,brown,brown,brown
+09211429,no,yes,no,no,no,no,no
+03795208,white,white,white,white,white,white,white
+15973487,bench,bench,bench,bench,bench,bench,bench
+10995765,on street,on street,on street,on street,on street,on street,on street
+19992363,no,no,no,no,no,no,no
+13199415,boat,boat,boat,boat and train,boat,boat,boat
+07638871,computer,computer,computer,computer,computer,computer,computer
+01575922,man,person,person,man,person,person,person
+15521980,no,no,no,no,no,no,no
+14212262,telephone,telephone,telephone,telephone,telephone,telephone,telephone
+02181014,no,no,no,no,no,no,no
+03795436,no,no,no,no,no,no,no
+03450726,no,no,no,no,no,no,no
+16653081,tv,television,television,television,television,television,television
+05843444,yes,yes,yes,yes,yes,yes,yes
+1194108,no,no,no,no,no,no,no
+10963474,motorcycle,motorcycle,motorcycle,motorcycle,motorcycle,motorcycle,motorcycle
+17913499,vase of flowers,vase of flowers,vase of flowers,vase of flowers,vase of flowers,vase of flowers,vase of flowers
+19776115,right side,right side,right side,right side,right side,right side,right side
+0056334,cake,cake,cake,cake,cake,cake,cake
+17102178,dirt road,dirt road,dirt road,dirt road,dirt road,dirt road,dirt road
+03745242,small,not enough information,not enough information,few inches,not enough information,few inches,few inches
+12964747,desk,chair,chair,desk,chair,chair,chair
+00647055,computer,computer,computer,computer,computer,computer,computer
+06498949,stove,stove,stove,stove,stove,stove,stove
+18936348,no,no,no,no,no,no,no
+091048731,catcher,catcher,catcher,catcher,catcher,catcher,catcher
+12729236,no,no,no,no,no,no,no
+17877677,carrots,peas,peas,peas,peas,peas,peas
+08378559,laptop,laptop,laptop,laptop,laptop,laptop,laptop
+00599366,man,man,man,man,man,man,man
+14742125,no,no,no,no,no,no,no
+01281048,no,no,no,no,no,no,no
+03657730,cheese,cheese,cheese,cheese,cheese,cheese,cheese
+10591280,street sign,street sign,street sign,einfraut,street sign,street sign,street sign
+16774768,it is not clear,it is not clear,0,it is not clear,it is not clear,it is not clear,it is not clear
+05120381,bus,bus,bus,bus,bus,bus,bus
+041055607,man,man,man,man,man,man,man
+14251605,ski lift,ski lift,ski lift,ski lift,ski lift,ski lift,ski lift
+05166166,beach,beach,beach,beach,beach,beach,beach
+03370714,cows,cows,cows,cows,cows,cows,cows
+06735247,no,no,no,no,no,no,no
+1044418,violin,violin,violin,violin,violin,violin,violin
+05748168,yes,yes,yes,yes,yes,yes,yes
+05677176,helmet,helmet,helmet,helmet,helmet,helmet,helmet
+16553190,skateboard,skateboard,skateboard,skateboard,skateboard,skateboard,skateboard
+01522083,right side,right side,right side,right side,right side,right side,right side
+07344372,right side,right side,right side,right side,right side,right side,right side
+08778200,no,no,no,no,no,no,no
+10727445,right side,right side,right side,right side,right side,right side,right side
+01363608,pizza,bottle of wine,bottle of wine,bottle of wine,bottle of wine,bottle of wine,bottle of wine
+16527862,parking meter,parking meter,parking meter,parking meter,parking meter,parking meter,parking meter
+02618407,bed,bed,bed,bed,bed,bed,bed
+07478425,to right,to right,to right,to right,to right,to right,to right
+19286295,yes,yes,yes,yes,yes,yes,yes
+0459650,right side,right side,right side,right side,right side,right side,right side
+1016785,yes,yes,yes,yes,yes,yes,yes
+01300254,no,no,no,no,no,no,no
+07404235,white,white,white,white,white,white,white
+03268055,boy,boy,boy,boy,boy,boy,boy
+02311869,stainless steel,wood,wood,wood,wood,wood,wood
+16223893,desk,desk,desk,desk,desk,desk,desk
+04651372,bikini,bikini,bikini,bikini,bikini,bikini,bikini
+17745271,no,no,no,no,no,no,no
+08581588,white,white,white,white,white,white,white
+05177139,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator,refrigerator
+18371791,kites,kites,kites,kites,kites,kites,kites
+0617223,right side,right side,right side,right side,right side,right side,right side
+0058289,fruit,fruit,fruit,fruit,fruit,fruit,fruit
+03256560,outdoors,outdoors,outdoors,outdoors,outdoors,outdoors,outdoors
+00589846,no,no,no,no,no,no,no
+05388034,yes,yes,yes,yes,yes,yes,yes
+09886391,no,no,no,no,no,no,no
+08591225,television,tv,tv,tv,tv,tv,tv
+0766257,no,no,no,no,no,no,no
+00248287,yes,yes,yes,yes,yes,yes,yes
+02553941,yes,yes,yes,yes,yes,yes,yes
+07141578,sign,sign,sign,sign,sign,sign,sign
+14616434,no,no,no,no,no,no,no
+00729080,roman numerals,clock,roman numerals,roman numerals,clock,roman numerals,roman numerals
+02266178,blender,blender,blender,blender,blender,blender,blender
+09849184,man,graffiti,graffiti,sign,graffiti,graffiti,graffiti
+00367053,no,no,no,no,no,no,no
+141036048,t shirt,shirt,shirt,tee shirt,shirt,shirt,shirt
+07526158,motorcycle,motorcycle,motorcycle,motorcycle,motorcycle,motorcycle,motorcycle
+03476236,bottom,bottom,bottom,bottom,bottom,bottom,bottom
+00434382,no,no,no,no,no,no,no
+17454781,sunny,it is sunny,it is sunny,it is sunny,it is sunny,it is sunny,it is sunny
+01888873,no,no,no,no,no,no,no
+11878563,yes,yes,yes,yes,yes,yes,yes
+17516289,no,no,no,no,no,no,no
+08709354,right side,right side,right side,right side,right side,right side,right side
+19405177,no,no,no,no,no,no,no
+00137870,right side,right side,right side,right side,right side,right side,right side
+18532408,women,women,women,group of women,women,women,women
+10104948,right side,right side,right side,right side,right side,right side,right side
+01965815,no,no,no,no,no,no,no
+15478194,no,no,no,no,no,no,no
+15702485,wood,wood,wood,wood,wood,wood,wood
+01819675,woman,person,person,person,person,person,person
+09502770,no,no,no,no,no,no,no
+16694973,right side,right side,right side,right side,right side,right side,right side
+16807779,no,no,no,no,no,no,no
+0210881,white,white,white,white,white,white,white
+01827282,pink shirt,pink shirt,pink shirt,vest,pink shirt,pink shirt,vest
+05672377,to right,to right,to right,to right,to right,to right,to right
+0712103,right,right,right,right,right,right,right
+01870687,motorcycle,motorcycle,motorcycle,motorcycle,motorcycle,motorcycle,motorcycle
+10964760,right side,right side,right side,right side,right side,right side,right side
+02957445,skateboard,skateboard,skateboard,skateboard,skateboard,skateboard,skateboard
+12391697,zebra,zebra,zebra,zebra,zebra,zebra,zebra
+07343794,right side,left side,left side,left side,left side,left side,left side
+15198524,plastic bag,bowl,bowl,bowl,bowl,bowl,bowl
+07257491,on sidewalk,sidewalk,sidewalk,down street,sidewalk,sidewalk,sidewalk
+14489632,yes,yes,yes,no,yes,yes,no
+161059994,small,small,small,small,small,small,small
+19209360,short,short,short,short,short,short,short
+13451196,laptop,laptop,laptop,device that is white and gray,laptop,device that is white and gray,device that is white and gray
+16840649,lettuce,lettuce,lettuce,lettuce,lettuce,lettuce,lettuce
+09105765,yes,yes,yes,yes,yes,yes,yes
+13339723,man,man,man,man,man,man,man
+06313807,no,no,no,no,no,no,no
+03224755,to right,to right,to right,to right,to right,to right,to right
+07343423,no,no,no,no,no,no,no
+18412898,yes,yes,yes,yes,yes,yes,yes
+02194081,no,no,no,no,no,no,no
+01606270,no,no,no,no,no,no,no
+03996949,grass,grass,grass,grass,grass,grass,grass
+13846706,no,no,no,yes,no,no,no
+13711698,no,no,no,no,no,no,no
+07839388,yes,yes,yes,yes,yes,yes,yes
+01825854,pig,pig,pig,pig,pig,pig,pig
+01675672,remote control,wii remote,wii remote,wii,wii remote,wii,wii remote
+04822675,blue sky,sun,sun,water,sun,water,water
+14616257,no,no,no,no,no,no,no
+03223454,bed,bed,bed,bed,bed,bed,bed
+01456660,stovetop,stovetop,stovetop,stovetop,stovetop,stovetop,stovetop
+06895964,tall,it is short,not enough information,not enough information,it is short,it is short,not enough information
+18435709,no,no,no,no,no,no,no
+03565940,couch,couch,couch,couch,couch,couch,couch
+01904492,no,no,no,no,no,no,no
+01721418,right side,right side,right side,right side,right side,right side,right side
+05287730,no,no,no,no,no,no,no
+07598945,walking,standing,standing,standing,standing,standing,standing
+02332864,yes,yes,yes,yes,yes,yes,yes
+18411206,train station,train station,train station,train station,train station,train station,train station
+01371918,yes,yes,yes,yes,yes,yes,yes
+04662801,right side,right side,right side,right side,right side,right side,right side
+01191993,skate park,skate park,skate park,skate park,skate park,skate park,skate park
+03353885,yes,yes,yes,yes,yes,yes,yes
+001050080,gray shirt,gray shirt,gray shirt,gray top,gray shirt,gray shirt,gray shirt
+09371114,no,no,no,no,no,no,no
+00942759,right side,right side,right side,right side,right side,right side,right side
+11679515,man,person,person,person riding wake board,person,person riding wake board,person riding wake board
+10872498,bottom,bottom,bottom,bottom,bottom,bottom,bottom
+16740347,yes,yes,yes,yes,yes,yes,yes
+17845542,clock,clock,dish,light fixture,clock,sink,light fixture
+19245867,no,yes,yes,no,yes,no,no
+14530621,cat,cat,cat,cat,cat,cat,cat
+07165092,yes,yes,yes,yes,yes,yes,yes
+0885475,no,no,no,no,no,no,no
+13691051,table,table,table,table,table,table,table
+19436938,table,table,table,table,table,table,table
+18135030,skirt,skirt,skirt,skirt,skirt,skirt,skirt
+04175946,in middle of street,in street,on side of road,near road,in street,in street,on side of road
+14412503,right side,right side,right side,right side,right side,right side,right side
